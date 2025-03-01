@@ -1,0 +1,2021 @@
+Region_code,Region_label,Urban_code,Urban_label,UrbanType,Area_code,Area_label,Population,Victimisations,Rate
+1,Northland,1,Whangarei,Main,502004,Abbey Caves,710,1,0.3
+14,Otago,23,Dunedin,Main,605910,Abbotsford,1840,6,0.6
+2,Auckland,4,Central Auckland Zone,Main,516003,Abbotts Park,4640,15,0.6
+3,Waikato,103,Taupo,Secondary,541311,Acacia Bay,1550,1,0.1
+13,Canterbury,22,Christchurch,Main,594700,Addington,4040,33,1.6
+9,Wellington,20,Wellington Zone,Main,576500,Adelaide,1100,41,7.1
+9,Wellington,19,Porirua Zone,Main,565604,Adventure,1430,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584938,Ahaura,340,2,1.1
+1,Northland,501,Rural Centre,Rural,500205,Ahipara,1150,6,1
+6,Hawke'sBay,12,Napier Zone,Main,546200,Ahuriri,1080,15,2.7
+13,Canterbury,22,Christchurch,Main,587845,Aidanfield,3370,4,0.2
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,616400,Aiguilles Island,0,0,
+2,Auckland,4,Central Auckland Zone,Main,518803,Akarana,6360,33,1
+13,Canterbury,501,Rural Centre,Rural,596800,Akaroa,620,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,596901,Akaroa Harbour,840,3,0.7
+9,Wellington,17,Upper Hutt Zone,Main,566610,Akatarawa,610,1,0.3
+6,Hawke'sBay,13,Hastings Zone,Main,548300,Akina,4720,33,1.3
+2,Auckland,2,Northern Auckland Zone,Main,508701,Albany,3710,47,2.4
+14,Otago,291,Alexandra,Minor,608500,Alexandra,5190,27,1
+2,Auckland,212,Snells Beach,Minor,506633,Algies Bay,750,0,
+9,Wellington,18,Lower Hutt Zone,Main,569202,Alicetown,2050,6,0.6
+4,BayofPlenty,104,Whakatane,Secondary,542440,Allandale-Mokorua,4020,28,1.3
+3,Waikato,8,Te Awamutu Zone,Main,527937,Allen Road,210,0,
+13,Canterbury,112,Ashburton,Secondary,597812,Allenton East,4360,16,0.7
+13,Canterbury,112,Ashburton,Secondary,597811,Allenton West,2170,3,0.3
+13,Canterbury,307,Amberley,Minor,585802,Amberley,1760,3,0.3
+2,Auckland,5,Southern Auckland Zone,Main,524001,Ambury,3500,8,0.4
+3,Waikato,102,Tokoroa,Secondary,535380,Amisfield,160,8,9.6
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585506,Amuri,1820,1,0.1
+6,Hawke'sBay,13,Hastings Zone,Main,548810,Anderson Park,1540,8,1
+14,Otago,23,Dunedin,Main,604612,Andersons Bay,2580,3,0.2
+16,Tasman,21,Nelson,Main,581717,Aniseed Hill,740,1,0.3
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,666673,Antipodes Islands,0,0,
+8,Manawatu-Wanganui,16,Palmerston North,Main,563300,Aokautere,3550,5,0.3
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536615,Aongatete,3060,6,0.4
+13,Canterbury,22,Christchurch,Main,592000,Aorangi,5800,19,0.6
+2,Auckland,5,Southern Auckland Zone,Main,524302,Aorere,5990,8,0.3
+3,Waikato,102,Tokoroa,Secondary,535360,Aotea,3180,12,0.7
+15,Southland,24,Invercargill,Main,611700,Appleby-Kew,1960,26,2.5
+2,Auckland,5,Southern Auckland Zone,Main,524121,Arahanga,2440,7,0.5
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,538861,Arahiwi,180,0,
+9,Wellington,18,Lower Hutt Zone,Main,565100,Arakura,2570,15,1.1
+14,Otago,23,Dunedin,Main,601500,Aramoana,280,0,
+13,Canterbury,22,Christchurch,Main,593100,Aranui,4240,31,1.4
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535250,Arapuni,2310,5,0.4
+4,BayofPlenty,9,Tauranga,Main,536831,Arataki,5510,65,2.3
+2,Auckland,4,Central Auckland Zone,Main,515500,Arch Hill,1870,19,1.9
+14,Otago,114,Oamaru,Secondary,600812,Ardgowan,710,0,
+2,Auckland,5,Southern Auckland Zone,Main,523813,Ardmore,1470,8,1
+2,Auckland,3,Western Auckland Zone,Main,512802,Armour Bay,490,0,
+2,Auckland,2,Northern Auckland Zone,Main,505904,Army Bay,4360,7,0.3
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584936,Arnold Valley,170,0,
+9,Wellington,20,Wellington Zone,Main,573200,Aro Street-Nairn Street,4390,16,0.7
+14,Otago,294,Arrowtown,Minor,609200,Arrowtown,2710,1,0.1
+14,Otago,117,Queenstown,Secondary,609303,Arthurs Point,950,1,0.2
+9,Wellington,19,Porirua Zone,Main,571600,Ascot Park,2830,11,0.7
+13,Canterbury,112,Ashburton,Secondary,597840,Ashburton Central East,1780,46,4.9
+13,Canterbury,112,Ashburton,Secondary,597820,Ashburton Central West,1050,14,2.5
+13,Canterbury,112,Ashburton,Secondary,597715,Ashburton East,350,2,1.1
+13,Canterbury,112,Ashburton,Secondary,597713,Ashburton North,380,0,
+8,Manawatu-Wanganui,16,Palmerston North,Main,560200,Ashhurst,3030,6,0.4
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585808,Ashley,1190,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586801,Ashley Gorge,1830,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584933,Atarau,190,0,
+17,Nelson,21,Nelson,Main,582100,Atawhai,2790,2,0.1
+4,BayofPlenty,501,Rural Centre,Rural,535700,Athenree,700,0,
+17,Nelson,21,Nelson,Main,582900,Atmore,1320,1,0.1
+2,Auckland,4,Central Auckland Zone,Main,514103,Auckland Central East,13250,375,5.4
+2,Auckland,4,Central Auckland Zone,Main,514102,Auckland Central West,15900,550,6.6
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617903,Auckland City-Marinas,40,0,
+2,Auckland,4,Central Auckland Zone,Main,514101,Auckland Harbourside,5680,253,8.5
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,627204,Auckland Islands,0,0,
+9,Wellington,18,Lower Hutt Zone,Main,568301,Avalon East,2410,23,1.8
+9,Wellington,18,Lower Hutt Zone,Main,568401,Avalon West,2540,6,0.5
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,600831,Aviemore,820,0,
+13,Canterbury,22,Christchurch,Main,591700,Avon Loop,3670,74,3.9
+13,Canterbury,22,Christchurch,Main,592900,Avondale,2590,7,0.5
+2,Auckland,4,Central Auckland Zone,Main,514600,Avondale South,6110,2,0.1
+2,Auckland,4,Central Auckland Zone,Main,514802,Avondale West,5400,22,0.8
+13,Canterbury,22,Christchurch,Main,589900,Avonhead,3880,3,0.1
+13,Canterbury,22,Christchurch,Main,589800,Avonhead West,3240,4,0.2
+13,Canterbury,507,Inlet-in TA but not in Urban Area,Rural,596101,Avon-Heathcote Estuary,0,0,
+13,Canterbury,22,Christchurch,Main,593400,Avonside,1890,20,2
+1,Northland,501,Rural Centre,Rural,500100,Awanui,370,1,0.5
+8,Manawatu-Wanganui,16,Palmerston North,Main,562910,Awapuni North,3510,16,0.9
+8,Manawatu-Wanganui,16,Palmerston North,Main,562922,Awapuni South,3500,7,0.4
+8,Manawatu-Wanganui,16,Palmerston North,Main,562921,Awapuni West,1520,1,0.1
+9,Wellington,20,Wellington Zone,Main,574401,Awarua,3310,0,
+2,Auckland,2,Northern Auckland Zone,Main,506901,Awaruku,3930,4,0.2
+6,Hawke'sBay,12,Napier Zone,Main,545632,Awatoto,330,5,2.9
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521151,Awhitu,2710,5,0.4
+3,Waikato,6,Hamilton Zone,Main,530400,Bader,4420,34,1.5
+14,Otago,290,Balclutha,Minor,607400,Balclutha,4030,26,1.2
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,609400,Balfour Community,120,1,1.6
+8,Manawatu-Wanganui,15,Wanganui,Main,556000,Balgownie,240,7,5.6
+14,Otago,23,Dunedin,Main,603720,Balmacewen,790,2,0.5
+2,Auckland,4,Central Auckland Zone,Main,518201,Balmoral,5990,16,0.5
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,596902,Banks Peninsula Eastern Bays,460,0,
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,620904,Bare Island,0,0,
+7,Taranaki,14,New Plymouth,Main,551024,Barrett,2240,0,
+13,Canterbury,22,Christchurch,Main,594800,Barrington North,5770,18,0.6
+13,Canterbury,22,Christchurch,Main,594900,Barrington South,3150,6,0.4
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584931,Barrytown,240,0,
+8,Manawatu-Wanganui,15,Wanganui,Main,557800,Bastia Hill,670,1,0.3
+2,Auckland,5,Southern Auckland Zone,Main,523115,Baverstock Oaks,7620,6,0.2
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,501613,Bay of Islands,10,1,19.1
+15,Southland,24,Invercargill,Main,609913,Bay Road West,200,0,
+6,Hawke'sBay,12,Napier Zone,Main,545611,Bay View,1980,6,0.6
+3,Waikato,506,Inlet-not in TA,Rural,619303,Bays-Thames-Coromandel District,0,0,
+2,Auckland,506,Inlet-not in TA,Rural,520803,Bays-Waiheke Island,20,0,
+2,Auckland,2,Northern Auckland Zone,Main,508120,Bayswater,2720,3,0.2
+2,Auckland,2,Northern Auckland Zone,Main,510010,Beachhaven North,5960,15,0.5
+2,Auckland,2,Northern Auckland Zone,Main,510020,Beachhaven South,5100,6,0.2
+2,Auckland,5,Southern Auckland Zone,Main,523300,Beachlands-Maraetai,7450,9,0.2
+2,Auckland,5,Southern Auckland Zone,Main,525002,Beaumont,2660,17,1.2
+13,Canterbury,22,Christchurch,Main,595500,Beckenham,2560,2,0.1
+3,Waikato,6,Hamilton Zone,Main,528700,Beerescourt,3470,23,1.3
+13,Canterbury,22,Christchurch,Main,590400,Belfast,4580,10,0.4
+13,Canterbury,22,Christchurch,Main,588401,Belfast South,3700,6,0.3
+7,Taranaki,14,New Plymouth,Main,550901,Bell Block,5610,11,0.4
+16,Tasman,21,Nelson,Main,581725,Bell Island,0,0,
+14,Otago,23,Dunedin,Main,604120,Belleknowes,1810,6,0.6
+4,BayofPlenty,9,Tauranga,Main,537100,Bellevue,3760,14,0.7
+9,Wellington,18,Lower Hutt Zone,Main,569402,Belmont,2810,4,0.3
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,598311,Ben Mcleod,80,0,
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,606500,Benhar,100,1,1.9
+9,Wellington,20,Wellington Zone,Main,576302,Berhampore East,1060,3,0.5
+9,Wellington,20,Wellington Zone,Main,576200,Berhampore West,2610,11,0.8
+16,Tasman,21,Nelson,Main,581724,Best Island,100,0,
+4,BayofPlenty,9,Tauranga,Main,536514,Bethlehem,4540,13,0.5
+4,BayofPlenty,9,Tauranga,Main,536513,Bethlehem East,3590,0,
+13,Canterbury,22,Christchurch,Main,593800,Bexley,2590,15,1.1
+2,Auckland,3,Western Auckland Zone,Main,513622,Birdwood East,1620,5,0.6
+2,Auckland,3,Western Auckland Zone,Main,513621,Birdwood West,560,0,
+2,Auckland,2,Northern Auckland Zone,Main,510210,Birkdale North,3250,3,0.2
+2,Auckland,2,Northern Auckland Zone,Main,510220,Birkdale South,4470,4,0.2
+2,Auckland,2,Northern Auckland Zone,Main,510500,Birkenhead East,4570,8,0.3
+13,Canterbury,22,Christchurch,Main,588700,Bishopdale,2600,9,0.7
+13,Canterbury,22,Christchurch,Main,588500,Bishopdale North,5010,3,0.1
+12,WestCoast,501,Rural Centre,Rural,584922,Blackball,300,0,
+12,WestCoast,111,Greymouth,Secondary,585120,Blaketown,930,3,0.6
+2,Auckland,5,Southern Auckland Zone,Main,522603,Bleakhouse,2070,0,
+2,Auckland,101,Pukekohe,Secondary,525922,Bledisloe Park,3130,53,3.2
+18,Marlborough,26,Blenheim,Main,581230,Blenheim Central,2790,91,6.2
+2,Auckland,4,Central Auckland Zone,Main,514700,Blockhouse Bay,6660,11,0.3
+8,Manawatu-Wanganui,15,Wanganui,Main,555300,Blueskin,1840,0,
+15,Southland,297,Bluff,Minor,612100,Bluff,1870,10,1
+6,Hawke'sBay,12,Napier Zone,Main,546802,Bluff Hill,2820,19,1.3
+2,Auckland,501,Rural Centre,Rural,521160,Bombay,880,4,0.9
+9,Wellington,18,Lower Hutt Zone,Main,568402,Boulcott,2570,13,1
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,666669,Bounty Islands,0,0,
+7,Taranaki,14,New Plymouth,Main,551013,Bowden,560,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501815,Bream Bay,960,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501819,Bream Head,1430,2,0.3
+2,Auckland,5,Southern Auckland Zone,Main,521203,Bremner,400,1,0.5
+9,Wellington,17,Upper Hutt Zone,Main,567600,Brentwood,2190,15,1.3
+6,Hawke'sBay,13,Hastings Zone,Main,545842,Bridge Pa,1240,51,7.9
+14,Otago,23,Dunedin,Main,602000,Brighton,1470,2,0.3
+16,Tasman,271,Brightwater,Minor,581822,Brightwater,1910,2,0.2
+17,Nelson,21,Nelson,Main,582401,Britannia,1360,3,0.4
+14,Otago,23,Dunedin,Main,604830,Broad Bay-Portobello,1170,4,0.7
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541344,Broadlands,690,1,0.3
+17,Nelson,21,Nelson,Main,583202,Broads,1590,34,4.1
+14,Otago,23,Dunedin,Main,603930,Brockville,3430,12,0.7
+13,Canterbury,22,Christchurch,Main,593900,Bromley,3200,25,1.5
+17,Nelson,21,Nelson,Main,582800,Bronte,1860,10,1
+4,BayofPlenty,9,Tauranga,Main,537301,Brookfield,5430,26,0.9
+9,Wellington,20,Wellington Zone,Main,575600,Brooklyn,4260,3,0.1
+9,Wellington,20,Wellington Zone,Main,575901,Brooklyn South,1090,0,
+6,Hawke'sBay,13,Hastings Zone,Main,545750,Brookvale,610,2,0.6
+13,Canterbury,22,Christchurch,Main,587812,Broomfield,2900,11,0.7
+2,Auckland,2,Northern Auckland Zone,Main,507101,Browns Bay,4510,21,0.9
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,616300,Browns Island,0,0,
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,606700,Bruce,3210,13,0.8
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585324,Bruce Bay-Paringa,40,0,
+3,Waikato,6,Hamilton Zone,Main,528310,Bryant,6150,6,0.2
+3,Waikato,6,Hamilton Zone,Main,528505,Brymer,2930,2,0.1
+13,Canterbury,22,Christchurch,Main,589200,Bryndwr,3150,5,0.3
+2,Auckland,101,Pukekohe,Secondary,521116,Buckland,590,1,0.3
+3,Waikato,101,Pukekohe,Secondary,521117,Buckland South,950,1,0.2
+2,Auckland,5,Southern Auckland Zone,Main,522601,Bucklands and Eastern Beaches,5620,5,0.2
+2,Auckland,5,Southern Auckland Zone,Main,522604,Bucklands Beach South,2930,3,0.2
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584409,Buller Coalfields,510,0,
+8,Manawatu-Wanganui,257,Bulls,Minor,558900,Bulls,1630,8,0.9
+2,Auckland,5,Southern Auckland Zone,Main,524711,Burbank,3770,18,0.9
+3,Waikato,6,Hamilton Zone,Main,528405,Burbush,170,0,
+13,Canterbury,501,Rural Centre,Rural,587020,Burnham Military Camp,1490,0,
+13,Canterbury,22,Christchurch,Main,588900,Burnside,2500,1,0.1
+2,Auckland,5,Southern Auckland Zone,Main,523107,Burswood,1860,5,0.5
+13,Canterbury,22,Christchurch,Main,592811,Burwood,1110,3,0.5
+14,Otago,23,Dunedin,Main,606300,Bush Road,2630,6,0.4
+15,Southland,24,Invercargill,Main,609921,Bushy Point,380,0,
+14,Otago,23,Dunedin,Main,604300,Caledonian,0,13,
+6,Hawke'sBay,13,Hastings Zone,Main,548500,Camberley,2110,44,4
+3,Waikato,7,Cambridge Zone,Main,527503,Cambridge Central,870,16,3.5
+3,Waikato,7,Cambridge Zone,Main,527501,Cambridge North,3240,3,0.2
+3,Waikato,7,Cambridge Zone,Main,527502,Cambridge West,2880,2,0.1
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,626602,Campbell Island,0,0,
+2,Auckland,2,Northern Auckland Zone,Main,507500,Campbells Bay,2630,0,
+13,Canterbury,22,Christchurch,Main,586001,Camside,30,0,
+9,Wellington,19,Porirua Zone,Main,571300,Cannons Creek East,3870,15,0.7
+9,Wellington,19,Porirua Zone,Main,571100,Cannons Creek North,3350,39,2.2
+9,Wellington,19,Porirua Zone,Main,571200,Cannons Creek South,1630,8,0.9
+2,Auckland,510,Oceanic-in Region but not in TA,Rural,616100,Cape Barrier,0,0,
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506660,Cape Rodney,3120,6,0.4
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506661,Cape Rodney South,3070,11,0.7
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542903,Cape Runaway,1170,4,0.7
+14,Otago,114,Oamaru,Secondary,600813,Cape Wanbrow,320,0,
+7,Taranaki,14,New Plymouth,Main,551021,Carrington,980,2,0.4
+9,Wellington,264,Carterton,Minor,579700,Carterton,5030,19,0.7
+13,Canterbury,22,Christchurch,Main,588300,Casebrook,2730,10,0.7
+13,Canterbury,22,Christchurch,Main,591102,Cashmere East,4030,1,0
+13,Canterbury,22,Christchurch,Main,591101,Cashmere West,3380,22,1.2
+8,Manawatu-Wanganui,15,Wanganui,Main,555700,Castlecliff North,2080,10,0.9
+8,Manawatu-Wanganui,15,Wanganui,Main,555800,Castlecliff South,1320,21,3
+2,Auckland,2,Northern Auckland Zone,Main,507710,Castor Bay,3320,1,0.1
+13,Canterbury,22,Christchurch,Main,591500,Cathedral Square,570,305,102.3
+14,Otago,23,Dunedin,Main,604210,Caversham,4960,22,0.8
+15,Southland,301,Gore,Minor,610230,Central Gore,800,20,4.8
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,626700,Centre Island,0,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584411,Charleston,340,0,
+15,Southland,301,Gore,Minor,610010,Charlton,710,1,0.3
+3,Waikato,6,Hamilton Zone,Main,529600,Chartwell,2800,1,0.1
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,597000,Chatham Islands,610,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610032,Chatton,1700,3,0.3
+3,Waikato,6,Hamilton Zone,Main,529402,Chedworth,3900,28,1.4
+2,Auckland,2,Northern Auckland Zone,Main,510402,Chelsea,4230,2,0.1
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,597741,Chertsey,2690,6,0.4
+13,Canterbury,501,Rural Centre,Rural,585602,Cheviot,390,1,0.5
+9,Wellington,20,Wellington Zone,Main,573513,Churton Park North,3190,1,0.1
+9,Wellington,20,Wellington Zone,Main,573514,Churton Park South,3440,0,
+3,Waikato,6,Hamilton Zone,Main,529800,Clarkin,3330,22,1.3
+13,Canterbury,22,Christchurch,Main,586501,Clarkville,1240,4,0.6
+3,Waikato,6,Hamilton Zone,Main,529900,Claudelands,2660,17,1.2
+2,Auckland,5,Southern Auckland Zone,Main,524821,Clendon North,3260,15,0.9
+2,Auckland,5,Southern Auckland Zone,Main,524822,Clendon South,5560,57,2
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,525201,Clevedon,2780,8,0.6
+17,Nelson,21,Nelson,Main,582000,Clifton,1380,1,0.1
+14,Otago,501,Rural Centre,Rural,607000,Clinton,290,0,
+6,Hawke'sBay,13,Hastings Zone,Main,545730,Clive,1850,2,0.2
+9,Wellington,17,Upper Hutt Zone,Main,566800,Clouston Park,2610,3,0.2
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,567901,Cloustonville,410,4,1.9
+2,Auckland,5,Southern Auckland Zone,Main,523721,Clover Park,5030,31,1.2
+8,Manawatu-Wanganui,16,Palmerston North,Main,562320,Cloverlea,2060,7,0.6
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,607300,Clutha,3320,5,0.3
+14,Otago,501,Rural Centre,Rural,608303,Clyde,1090,3,0.5
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584932,Coal Creek,60,0,
+4,BayofPlenty,104,Whakatane,Secondary,542421,Coastlands,1030,3,0.6
+12,WestCoast,111,Greymouth,Secondary,585110,Cobden,1670,13,1.5
+2,Auckland,5,Southern Auckland Zone,Main,521502,Cockle Bay,5190,2,0.1
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586127,Coldstream,620,1,0.3
+14,Otago,23,Dunedin,Main,604821,Company Bay,370,0,
+14,Otago,23,Dunedin,Main,605920,Concord,2060,9,0.8
+8,Manawatu-Wanganui,15,Wanganui,Main,557100,Cooks Gardens,300,66,42.1
+3,Waikato,222,Coromandel,Minor,533100,Coromandel,1610,15,1.8
+14,Otago,23,Dunedin,Main,604222,Corstorphine East,870,1,0.2
+14,Otago,23,Dunedin,Main,604221,Corstorphine West,570,2,0.7
+13,Canterbury,22,Christchurch,Main,586405,Courtenay,470,0,
+3,Waikato,6,Hamilton Zone,Main,528503,Crawshaw,3150,21,1.3
+15,Southland,24,Invercargill,Main,611220,Crinan,1860,21,2.2
+9,Wellington,20,Wellington Zone,Main,574701,Crofton Downs,1610,1,0.1
+14,Otago,292,Cromwell,Minor,608600,Cromwell,4510,25,1.1
+2,Auckland,2,Northern Auckland Zone,Main,507720,Crown Hill,3830,3,0.1
+2,Auckland,3,Western Auckland Zone,Main,511902,Crum Park,4300,6,0.3
+13,Canterbury,501,Rural Centre,Rural,585504,Culverden,440,2,0.9
+13,Canterbury,501,Rural Centre,Rural,586114,Cust,470,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610061,Dacre,1650,0,
+2,Auckland,2,Northern Auckland Zone,Main,506300,Dairy Flat-Redvale,2900,5,0.3
+13,Canterbury,22,Christchurch,Main,592812,Dallington,1930,5,0.5
+2,Auckland,5,Southern Auckland Zone,Main,523109,Dannemora,4240,25,1.1
+8,Manawatu-Wanganui,245,Dannevirke,Minor,550102,Dannevirke East,3050,21,1.3
+8,Manawatu-Wanganui,245,Dannevirke,Minor,550101,Dannevirke West,2190,9,0.8
+13,Canterbury,281,Darfield,Minor,586900,Darfield,2070,3,0.3
+1,Northland,209,Dargaville,Minor,504600,Dargaville,4830,35,1.4
+13,Canterbury,22,Christchurch,Main,589500,Deans Bush,1750,8,0.9
+9,Wellington,18,Lower Hutt Zone,Main,568103,Delaney,2540,21,1.6
+13,Canterbury,22,Christchurch,Main,596502,Diamond Harbour,1570,2,0.2
+2,Auckland,5,Southern Auckland Zone,Main,522301,Dingwall,3980,42,2
+3,Waikato,6,Hamilton Zone,Main,528601,Dinsdale North,4420,16,0.7
+3,Waikato,6,Hamilton Zone,Main,528602,Dinsdale South,4360,17,0.7
+9,Wellington,19,Porirua Zone,Main,572200,Discovery,2830,3,0.2
+12,WestCoast,501,Rural Centre,Rural,584930,Dobson,690,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,626500,Dog Island,0,0,
+4,BayofPlenty,9,Tauranga,Main,536203,Doncaster,2880,4,0.3
+2,Auckland,5,Southern Auckland Zone,Main,523712,Donegal Park,8240,27,0.6
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,553002,Douglas,740,1,0.3
+2,Auckland,5,Southern Auckland Zone,Main,521301,Drury,3870,8,0.4
+13,Canterbury,501,Rural Centre,Rural,597503,Dunsandel,530,0,
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,608302,Dunstan,4830,6,0.2
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,600822,Duntroon,90,0,
+2,Auckland,3,Western Auckland Zone,Main,512202,Durham Green,4940,12,0.5
+8,Manawatu-Wanganui,15,Wanganui,Main,557900,Durie Hill,1500,2,0.3
+5,Gisborne,502,Rural (Incl.some Off Shore Islands),Rural,543301,East Cape,2630,10,0.7
+15,Southland,301,Gore,Minor,610220,East Gore,1500,7,0.9
+14,Otago,23,Dunedin,Main,606220,East Taieri,1630,2,0.2
+9,Wellington,18,Lower Hutt Zone,Main,570300,Eastbourne,4950,1,0
+9,Wellington,17,Upper Hutt Zone,Main,567000,Ebdentown,2250,9,0.8
+2,Auckland,101,Pukekohe,Secondary,521112,Eden Road-Hill Top,630,1,0.3
+2,Auckland,4,Central Auckland Zone,Main,515600,Eden Terrace,3260,17,1
+15,Southland,501,Rural Centre,Rural,609700,Edendale Community,570,1,0.3
+4,BayofPlenty,238,Edgecumbe,Minor,542200,Edgecumbe,1750,8,0.9
+13,Canterbury,22,Christchurch,Main,592600,Edgeware,4300,24,1.1
+2,Auckland,5,Southern Auckland Zone,Main,522920,Edgewater,4700,15,0.6
+2,Auckland,3,Western Auckland Zone,Main,512401,Edmonton,3720,9,0.5
+7,Taranaki,501,Rural Centre,Rural,552701,Egmont Village,630,0,
+8,Manawatu-Wanganui,501,Rural Centre,Rural,578100,Eketahuna,440,4,1.7
+9,Wellington,17,Upper Hutt Zone,Main,567400,Elderslea,3360,23,1.3
+2,Auckland,4,Central Auckland Zone,Main,520201,Ellerslie North,6870,18,0.5
+2,Auckland,4,Central Auckland Zone,Main,520202,Ellerslie South,2280,9,0.8
+9,Wellington,19,Porirua Zone,Main,570700,Elsdon-Takapuwahia,2370,21,1.7
+2,Auckland,5,Southern Auckland Zone,Main,522723,Elsmore Park,3210,19,1.1
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,549602,Elsthorpe-Flemington,3180,3,0.2
+7,Taranaki,251,Eltham,Minor,553601,Eltham,2010,11,1
+9,Wellington,17,Upper Hutt Zone,Main,566620,Emerald Hill,2890,7,0.5
+9,Wellington,19,Porirua Zone,Main,565602,Endeavour,4000,1,0
+3,Waikato,6,Hamilton Zone,Main,530000,Enderley,4660,45,1.8
+17,Nelson,21,Nelson,Main,583700,Enner Glynn,3380,2,0.1
+13,Canterbury,22,Christchurch,Main,594200,Ensors,3850,29,1.4
+2,Auckland,4,Central Auckland Zone,Main,515801,Epsom Central,4190,3,0.1
+2,Auckland,4,Central Auckland Zone,Main,515700,Epsom North,4030,16,0.8
+2,Auckland,4,Central Auckland Zone,Main,515802,Epsom South,4030,6,0.3
+9,Wellington,18,Lower Hutt Zone,Main,568502,Epuni East,2990,8,0.5
+9,Wellington,18,Lower Hutt Zone,Main,568501,Epuni West,3080,23,1.4
+6,Hawke'sBay,12,Napier Zone,Main,545812,Eskdale,690,1,0.3
+9,Wellington,18,Lower Hutt Zone,Main,570000,Esplanade,2510,18,1.4
+3,Waikato,6,Hamilton Zone,Main,527125,Eureka,2370,3,0.2
+9,Wellington,507,Inlet-in TA but not in Urban Area,Rural,576904,Evans Bay Marina,20,0,
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,601603,Evansdale,1520,4,0.5
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586606,Eyrewell,1420,1,0.1
+2,Auckland,4,Central Auckland Zone,Main,521802,Fairburn,3810,33,1.7
+2,Auckland,3,Western Auckland Zone,Main,513302,Fairdene,5060,37,1.4
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,612740,Fairfax,1970,7,0.7
+14,Otago,23,Dunedin,Main,601900,Fairfield,2530,3,0.2
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580452,Fairhall,410,0,
+13,Canterbury,501,Rural Centre,Rural,600200,Fairlie,730,8,2.1
+13,Canterbury,112,Ashburton,Secondary,597714,Fairton,730,0,
+2,Auckland,2,Northern Auckland Zone,Main,508703,Fairview,3460,6,0.3
+3,Waikato,6,Hamilton Zone,Main,529503,Fairview Downs,3640,7,0.4
+13,Canterbury,113,Timaru,Secondary,598201,Fairview-Scarborough,570,0,
+4,BayofPlenty,10,Rotorua,Main,539200,Fairy Springs,2130,20,1.8
+2,Auckland,5,Southern Auckland Zone,Main,524404,Favona North,2820,10,0.7
+2,Auckland,5,Southern Auckland Zone,Main,524405,Favona South,3730,19,1
+2,Auckland,5,Southern Auckland Zone,Main,524403,Favona West,3010,22,1.4
+9,Wellington,266,Featherston,Minor,580000,Featherston,2360,13,1.1
+8,Manawatu-Wanganui,106,Feilding,Secondary,560730,Feilding Central,2910,13,0.9
+8,Manawatu-Wanganui,106,Feilding,Secondary,560740,Feilding East,3060,8,0.5
+8,Manawatu-Wanganui,106,Feilding,Secondary,560710,Feilding North,4280,12,0.5
+8,Manawatu-Wanganui,106,Feilding,Secondary,560720,Feilding West,3960,24,1.2
+13,Canterbury,22,Christchurch,Main,589400,Fendalton,3100,7,0.4
+4,BayofPlenty,10,Rotorua,Main,540600,Fenton,1480,6,0.8
+2,Auckland,5,Southern Auckland Zone,Main,523602,Ferguson,4820,34,1.3
+2,Auckland,4,Central Auckland Zone,Main,520401,Ferndale,4960,16,0.6
+14,Otago,23,Dunedin,Main,602900,Fernhill,1860,32,3.3
+9,Wellington,18,Lower Hutt Zone,Main,565000,Fernlea,2010,10,1
+7,Taranaki,14,New Plymouth,Main,551023,Fernleigh,890,1,0.2
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586121,Fernside,1990,1,0.1
+13,Canterbury,22,Christchurch,Main,594020,Ferrymead,3400,23,1.3
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,612901,Fiordland,10,0,
+7,Taranaki,14,New Plymouth,Main,552100,Fitzroy,3980,11,0.5
+3,Waikato,6,Hamilton Zone,Main,527006,Flagstaff,4160,2,0.1
+6,Hawke'sBay,13,Hastings Zone,Main,548620,Flaxmere East,4090,47,2.2
+14,Otago,23,Dunedin,Main,604420,Forbury,970,12,2.4
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,558300,Fordell-Kakatahi,2500,15,1.1
+4,BayofPlenty,10,Rotorua,Main,539600,Fordlands,1840,29,3
+2,Auckland,2,Northern Auckland Zone,Main,508510,Forrest Hill,6200,4,0.1
+14,Otago,23,Dunedin,Main,603220,Forrester Park,830,0,
+12,WestCoast,501,Rural Centre,Rural,585313,Fox Glacier,320,2,1.2
+8,Manawatu-Wanganui,260,Foxton Community,Minor,561700,Foxton,2750,25,1.7
+8,Manawatu-Wanganui,260,Foxton Community,Minor,561300,Foxton Beach,1730,1,0.1
+7,Taranaki,14,New Plymouth,Main,552400,Frankleigh,3690,6,0.3
+14,Otago,117,Queenstown,Secondary,608700,Frankton,1980,9,0.9
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609033,Frankton East,770,1,0.2
+3,Waikato,6,Hamilton Zone,Main,528900,Frankton Junction,2000,37,3.5
+12,WestCoast,501,Rural Centre,Rural,585312,Franz Josef,500,2,0.8
+13,Canterbury,113,Timaru,Secondary,599400,Fraser Park,2980,5,0.3
+6,Hawke'sBay,501,Rural Centre,Rural,545202,Frasertown,250,3,2.3
+2,Auckland,4,Central Auckland Zone,Main,514000,Freemans Bay,4280,34,1.5
+6,Hawke'sBay,13,Hastings Zone,Main,547800,Frimley,2410,19,1.5
+2,Auckland,3,Western Auckland Zone,Main,511401,Fruitvale,4950,19,0.7
+4,BayofPlenty,9,Tauranga,Main,537500,Gate Pa,3270,22,1.3
+15,Southland,24,Invercargill,Main,611400,Georgetown,2420,22,1.7
+13,Canterbury,285,Geraldine,Minor,598500,Geraldine,2440,6,0.5
+5,Gisborne,11,Gisborne,Main,544400,Gisborne Airport,2890,30,2
+5,Gisborne,11,Gisborne,Main,544600,Gisborne Central,3380,128,7.2
+15,Southland,24,Invercargill,Main,610800,Gladstone-Avenal,3800,29,1.5
+2,Auckland,2,Northern Auckland Zone,Main,506902,Glamorgan,3570,1,0.1
+7,Taranaki,14,New Plymouth,Main,551012,Glen Avon,960,2,0.4
+2,Auckland,3,Western Auckland Zone,Main,511100,Glen Eden East,7570,64,1.6
+2,Auckland,4,Central Auckland Zone,Main,517002,Glen Innes East,3000,17,1.1
+2,Auckland,4,Central Auckland Zone,Main,516900,Glen Innes North,6450,11,0.3
+2,Auckland,4,Central Auckland Zone,Main,517001,Glen Innes West,5100,82,3.1
+2,Auckland,4,Central Auckland Zone,Main,514402,Glenavon,7040,27,0.7
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521152,Glenbrook,2290,7,0.6
+9,Wellington,18,Lower Hutt Zone,Main,564800,Glendale,3970,16,0.8
+2,Auckland,3,Western Auckland Zone,Main,511601,Glendene North,4900,13,0.5
+2,Auckland,3,Western Auckland Zone,Main,511602,Glendene South,3100,5,0.3
+2,Auckland,2,Northern Auckland Zone,Main,508411,Glendhu,6030,6,0.2
+2,Auckland,4,Central Auckland Zone,Main,516800,Glendowie,4590,4,0.2
+17,Nelson,21,Nelson,Main,581713,Glenduan,540,0,
+2,Auckland,2,Northern Auckland Zone,Main,508310,Glenfield Central,5210,23,0.8
+2,Auckland,2,Northern Auckland Zone,Main,508320,Glenfield North,4750,17,0.7
+4,BayofPlenty,10,Rotorua,Main,540510,Glenholme East,2180,9,0.8
+4,BayofPlenty,10,Rotorua,Main,540520,Glenholme West,2310,25,2.1
+13,Canterbury,113,Timaru,Secondary,599300,Gleniti,2530,3,0.2
+14,Otago,23,Dunedin,Main,603810,Glenleith,670,0,
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609013,Glenorchy,410,0,
+9,Wellington,20,Wellington Zone,Main,573511,Glenside North,370,1,0.5
+3,Waikato,6,Hamilton Zone,Main,529300,Glenview,5730,15,0.5
+13,Canterbury,113,Timaru,Secondary,599200,Glenwood,1820,7,0.7
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581601,Golden Bay,3880,13,0.6
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581841,Golden Downs,910,3,0.6
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,538841,Golden Springs,1390,3,0.4
+2,Auckland,5,Southern Auckland Zone,Main,523105,Golfland,2650,3,0.2
+8,Manawatu-Wanganui,15,Wanganui,Main,556300,Gonville East,1330,3,0.4
+8,Manawatu-Wanganui,15,Wanganui,Main,556200,Gonville South,3060,32,2
+8,Manawatu-Wanganui,15,Wanganui,Main,556400,Gonville West,1590,17,2
+3,Waikato,6,Hamilton Zone,Main,527122,Gordonton,1200,0,
+13,Canterbury,22,Christchurch,Main,596503,Governors Bay,940,0,
+9,Wellington,18,Lower Hutt Zone,Main,568800,Gracefield,80,6,14.3
+2,Auckland,4,Central Auckland Zone,Main,514302,Grafton East,1290,53,7.9
+2,Auckland,4,Central Auckland Zone,Main,514301,Grafton West,4190,26,1.2
+17,Nelson,21,Nelson,Main,583300,Grampians,2490,25,1.9
+3,Waikato,6,Hamilton Zone,Main,528504,Grandview,3440,11,0.6
+2,Auckland,5,Southern Auckland Zone,Main,523404,Grange,700,20,5.5
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584404,Granity,230,0,
+15,Southland,24,Invercargill,Main,610601,Grasmere,3590,0,
+4,BayofPlenty,9,Tauranga,Main,536517,Gravatt,3690,3,0.2
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521000,Great Barrier Island,920,3,0.6
+2,Auckland,3,Western Auckland Zone,Main,512100,Green Bay,4490,15,0.6
+14,Otago,23,Dunedin,Main,605800,Green Island,2740,7,0.5
+9,Wellington,20,Wellington Zone,Main,572702,Greenacres,1710,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610074,Greenhills,860,1,0.2
+2,Auckland,2,Northern Auckland Zone,Main,509100,Greenhithe,9100,6,0.1
+6,Hawke'sBay,12,Napier Zone,Main,547100,Greenmeadows,6730,12,0.3
+2,Auckland,5,Southern Auckland Zone,Main,523113,Greenmount,5130,18,0.7
+4,BayofPlenty,9,Tauranga,Main,537601,Greerton,4470,39,1.7
+9,Wellington,20,Wellington Zone,Main,573522,Grenada North,370,2,1
+9,Wellington,20,Wellington Zone,Main,573523,Grenada Village,1370,3,0.4
+2,Auckland,4,Central Auckland Zone,Main,515420,Grey Lynn East,3700,44,2.3
+2,Auckland,4,Central Auckland Zone,Main,515410,Grey Lynn West,3870,10,0.5
+12,WestCoast,111,Greymouth,Secondary,585130,Greymouth Central,580,19,6.3
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584934,Greymouth Rural,80,1,2.4
+12,WestCoast,111,Greymouth,Secondary,585140,Greymouth South,2850,20,1.3
+9,Wellington,265,Greytown,Minor,579900,Greytown,2320,5,0.4
+2,Auckland,2,Northern Auckland Zone,Main,505910,Gulf Harbour,2780,3,0.2
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,505911,Gulf Harbour Marina,30,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585325,Haast,260,4,2.9
+13,Canterbury,22,Christchurch,Main,591600,Hagley Park,1040,80,14.7
+4,BayofPlenty,9,Tauranga,Main,537900,Hairini,6250,7,0.2
+8,Manawatu-Wanganui,501,Rural Centre,Rural,560421,Halcombe,580,0,
+2,Auckland,5,Southern Auckland Zone,Main,522730,Half Moon Bay,4080,3,0.1
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,522605,Half Moon Bay Marina,10,1,19.1
+14,Otago,23,Dunedin,Main,603920,Halfway Bush,1940,16,1.6
+13,Canterbury,22,Christchurch,Main,587846,Halswell Domain,1730,3,0.3
+13,Canterbury,22,Christchurch,Main,587302,Halswell South,2460,2,0.2
+13,Canterbury,22,Christchurch,Main,587842,Halswell West,1120,0,
+3,Waikato,6,Hamilton Zone,Main,529700,Hamilton Central,3170,380,22.9
+3,Waikato,6,Hamilton Zone,Main,530200,Hamilton East,4280,48,2.1
+3,Waikato,6,Hamilton Zone,Main,529100,Hamilton Lake,4370,67,2.9
+2,Auckland,4,Central Auckland Zone,Main,520402,Hamlin,5620,21,0.7
+14,Otago,501,Rural Centre,Rural,600840,Hampden,300,4,2.5
+13,Canterbury,112,Ashburton,Secondary,597850,Hampstead,2930,11,0.7
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,538811,Hamurana,2580,1,0.1
+13,Canterbury,501,Rural Centre,Rural,585502,Hanmer Springs,900,9,1.9
+9,Wellington,20,Wellington Zone,Main,575902,Happy Valley-Owhiro Bay,1840,4,0.4
+2,Auckland,5,Southern Auckland Zone,Main,524530,Harania East,5630,18,0.6
+2,Auckland,5,Southern Auckland Zone,Main,524510,Harania North,4190,17,0.8
+2,Auckland,5,Southern Auckland Zone,Main,524520,Harania West,5370,35,1.2
+14,Otago,23,Dunedin,Main,602800,Harbourside,30,8,51
+13,Canterbury,22,Christchurch,Main,588600,Harewood,3460,7,0.4
+12,WestCoast,501,Rural Centre,Rural,585311,Harihari,350,0,
+1,Northland,501,Rural Centre,Rural,501200,Haruru Falls,940,3,0.6
+6,Hawke'sBay,13,Hastings Zone,Main,548200,Hastings Central,2970,130,8.4
+9,Wellington,20,Wellington Zone,Main,576800,Hataitai North,4790,5,0.2
+2,Auckland,2,Northern Auckland Zone,Main,505804,Hatfields Beach,1440,1,0.1
+6,Hawke'sBay,13,Hastings Zone,Main,545740,Haumoana,2350,3,0.2
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584940,Haupiri,590,1,0.3
+2,Auckland,2,Northern Auckland Zone,Main,508020,Hauraki,6350,8,0.2
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,533901,Hauraki Plains,2610,2,0.1
+3,Waikato,7,Cambridge Zone,Main,527133,Hautapu,2020,5,0.5
+18,Marlborough,501,Rural Centre,Rural,580200,Havelock,520,2,0.7
+6,Hawke'sBay,13,Hastings Zone,Main,548822,Havelock Hills,1030,0,
+6,Hawke'sBay,13,Hastings Zone,Main,548832,Havelock North Central,3330,3,0.2
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,608304,Hawea,2480,2,0.2
+7,Taranaki,105,Hawera,Secondary,554010,Hawera North,4010,26,1.2
+7,Taranaki,105,Hawera,Secondary,554020,Hawera South,4050,34,1.6
+7,Taranaki,105,Hawera,Secondary,554115,Hawera West,810,1,0.2
+15,Southland,24,Invercargill,Main,611002,Hawthorndale,2360,6,0.5
+13,Canterbury,22,Christchurch,Main,589601,Hawthornden,3430,1,0.1
+9,Wellington,18,Lower Hutt Zone,Main,569600,Haywards-Manor Park,400,2,1
+13,Canterbury,22,Christchurch,Main,591300,Heathcote Valley,2100,6,0.5
+12,WestCoast,501,Rural Centre,Rural,584403,Hector-Ngakawau,220,0,
+15,Southland,24,Invercargill,Main,611601,Heidelberg,3430,12,0.7
+14,Otago,23,Dunedin,Main,603820,Helensburgh,1090,0,
+2,Auckland,213,Helensville,Minor,506800,Helensville,2880,20,1.3
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506648,Helensville South,620,1,0.3
+2,Auckland,3,Western Auckland Zone,Main,510700,Henderson North,6290,79,2.4
+2,Auckland,3,Western Auckland Zone,Main,510800,Henderson South,5060,63,2.4
+2,Auckland,3,Western Auckland Zone,Main,513011,Henderson West,2360,1,0.1
+13,Canterbury,22,Christchurch,Main,587847,Hendersons Basin,710,6,1.6
+2,Auckland,3,Western Auckland Zone,Main,513420,Herald,1860,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500204,Herekino,2180,5,0.4
+9,Wellington,17,Upper Hutt Zone,Main,564510,Heretaunga,1260,4,0.6
+9,Wellington,17,Upper Hutt Zone,Main,567800,Heretaunga-Silverstream,3760,13,0.7
+2,Auckland,4,Central Auckland Zone,Main,515201,Herne Bay,3090,1,0.1
+14,Otago,23,Dunedin,Main,603000,High St-Stuart St,2540,107,8.1
+2,Auckland,5,Southern Auckland Zone,Main,523112,Highbrook,40,23,109.9
+8,Manawatu-Wanganui,16,Palmerston North,Main,562710,Highbury,3360,24,1.4
+13,Canterbury,113,Timaru,Secondary,599100,Highfield,3490,12,0.7
+13,Canterbury,22,Christchurch,Main,590506,Highfield Park,880,4,0.9
+2,Auckland,5,Southern Auckland Zone,Main,522722,Highland Park,4600,12,0.5
+7,Taranaki,14,New Plymouth,Main,551022,Highlands Park,3310,3,0.2
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,533603,Hikuai,3410,18,1
+1,Northland,1,Whangarei,Main,504300,Hikurangi,1580,5,0.6
+4,BayofPlenty,10,Rotorua,Main,539900,Hillcrest,1630,25,2.9
+3,Waikato,6,Hamilton Zone,Main,530700,Hillcrest West,4030,10,0.5
+13,Canterbury,22,Christchurch,Main,595300,Hillmorton,4750,29,1.2
+2,Auckland,5,Southern Auckland Zone,Main,524901,Hillpark,5600,67,2.3
+2,Auckland,4,Central Auckland Zone,Main,518702,Hillsborough East,4870,18,0.7
+2,Auckland,4,Central Auckland Zone,Main,518701,Hillsborough West,8300,18,0.4
+3,Waikato,103,Taupo,Secondary,541740,Hilltop,3810,17,0.9
+8,Manawatu-Wanganui,501,Rural Centre,Rural,561200,Himatangi Beach,440,3,1.3
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,597730,Hinds,5030,5,0.2
+2,Auckland,5,Southern Auckland Zone,Main,521201,Hingaia,2420,6,0.5
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535242,Hinuera,950,3,0.6
+2,Auckland,3,Western Auckland Zone,Main,513431,Hobsonville East,1470,4,0.5
+2,Auckland,3,Western Auckland Zone,Main,513432,Hobsonville South,2400,1,0.1
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500801,Hokianga North,1820,6,0.6
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500802,Hokianga South,2830,10,0.7
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585317,Hokitika Rural,940,0,
+12,WestCoast,276,Hokitika,Minor,585400,Hokitika Urban,3080,11,0.7
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585318,Hokitika Valley,550,1,0.3
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610040,Hokonui,3090,0,
+8,Manawatu-Wanganui,16,Palmerston North,Main,563200,Hokowhitu East,5320,4,0.1
+8,Manawatu-Wanganui,16,Palmerston North,Main,563102,Hokowhitu Lagoon,1640,2,0.2
+8,Manawatu-Wanganui,16,Palmerston North,Main,563101,Hokowhitu West,4460,16,0.7
+9,Wellington,18,Lower Hutt Zone,Main,568102,Holborn,2140,14,1.3
+13,Canterbury,22,Christchurch,Main,589300,Holmwood,2210,3,0.3
+2,Auckland,5,Southern Auckland Zone,Main,524720,Homai East,6870,40,1.1
+2,Auckland,5,Southern Auckland Zone,Main,524712,Homai West,2330,13,1.1
+9,Wellington,109,Masterton,Secondary,578301,Homebush-Te Ore Ore,570,3,1
+9,Wellington,18,Lower Hutt Zone,Main,565300,Homedale East,3070,16,1
+9,Wellington,18,Lower Hutt Zone,Main,565200,Homedale West,2550,17,1.3
+13,Canterbury,22,Christchurch,Main,595100,Hoon Hay,3050,16,1
+13,Canterbury,22,Christchurch,Main,595200,Hoon Hay South,2100,3,0.3
+16,Tasman,21,Nelson,Main,581720,Hope,1210,3,0.5
+1,Northland,1,Whangarei,Main,503300,Horahora,1160,17,2.8
+13,Canterbury,22,Christchurch,Main,587400,Hornby North,3480,56,3.1
+13,Canterbury,22,Christchurch,Main,587500,Hornby South,5350,20,0.7
+9,Wellington,20,Wellington Zone,Main,573526,Horokiwi,190,0,
+3,Waikato,6,Hamilton Zone,Main,527916,Horotiu,820,1,0.2
+3,Waikato,6,Hamilton Zone,Main,527007,Horsham Downs,5440,0,
+6,Hawke'sBay,12,Napier Zone,Main,546801,Hospital Hill,2810,2,0.1
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500207,Houhora,1010,2,0.4
+2,Auckland,5,Southern Auckland Zone,Main,521602,Howick Central,6880,11,0.3
+2,Auckland,5,Southern Auckland Zone,Main,523101,Howick South,5430,6,0.2
+2,Auckland,5,Southern Auckland Zone,Main,521601,Howick West,2980,3,0.2
+2,Auckland,3,Western Auckland Zone,Main,505602,Huapai,1740,12,1.3
+8,Manawatu-Wanganui,501,Rural Centre,Rural,558700,Hunterville,420,2,0.9
+3,Waikato,6,Hamilton Zone,Main,527009,Huntington,8630,9,0.2
+3,Waikato,217,Huntly,Minor,527402,Huntly East,4540,66,2.8
+3,Waikato,217,Huntly,Minor,527401,Huntly West,3120,38,2.3
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521132,Hunua,4630,5,0.2
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585700,Hurunui,2800,6,0.4
+9,Wellington,18,Lower Hutt Zone,Main,569100,Hutt Central,4070,105,4.9
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,601302,Hyde,70,0,
+2,Auckland,5,Southern Auckland Zone,Main,523817,Hyperion,2410,6,0.5
+13,Canterbury,22,Christchurch,Main,590000,Ilam,5450,10,0.4
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584412,Inangahua Junction,130,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584701,Inangahua Valley,330,0,
+7,Taranaki,248,Inglewood,Minor,552800,Inglewood,3490,10,0.5
+13,Canterbury,505,Inland Water not in Urban Area,Rural,600321,Inland Water-Lake Alexandrina,0,0,
+13,Canterbury,505,Inland Water not in Urban Area,Rural,597505,Inland Water-Lake Ellesmere North,0,0,
+13,Canterbury,505,Inland Water not in Urban Area,Rural,597102,Inland Water-Lake Ellesmere South,0,0,
+15,Southland,505,Inland Water not in Urban Area,Rural,612903,Inland Water-Lake Hauroko,0,0,
+14,Otago,505,Inland Water not in Urban Area,Rural,608305,Inland Water-Lake Hawea,0,0,
+15,Southland,505,Inland Water not in Urban Area,Rural,612902,Inland Water-Lake Manapouri,0,0,
+13,Canterbury,505,Inland Water not in Urban Area,Rural,600832,Inland Water-Lake Ohau,0,0,
+4,BayofPlenty,505,Inland Water not in Urban Area,Rural,538812,Inland Water-Lake Rotorua,0,0,
+3,Waikato,505,Inland Water not in Urban Area,Rural,620000,Inland Water-Lake Taupo,0,2,
+15,Southland,505,Inland Water not in Urban Area,Rural,612715,Inland Water-Lake Te Anau,0,0,
+13,Canterbury,505,Inland Water not in Urban Area,Rural,600322,Inland Water-Lake Tekapo,0,0,
+6,Hawke'sBay,505,Inland Water not in Urban Area,Rural,545206,Inland Water-Lake Waikaremoana,0,0,
+9,Wellington,505,Inland Water not in Urban Area,Rural,579804,Inland Water-Lake Wairarapa,0,0,
+14,Otago,505,Inland Water not in Urban Area,Rural,609027,Inland Water-Lake Wakatipu,0,1,
+14,Otago,505,Inland Water not in Urban Area,Rural,609030,Inland Water-Lake Wanaka,0,0,
+3,Waikato,507,Inlet-in TA but not in Urban Area,Rural,619101,Inlet-Aotea Harbour North,0,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,614800,Inlet-Bay of Islands,10,0,
+15,Southland,507,Inlet-in TA but not in Urban Area,Rural,626801,Inlet-Bluff Harbour,0,0,
+12,WestCoast,507,Inlet-in TA but not in Urban Area,Rural,624100,Inlet-Buller River,0,0,
+1,Northland,506,Inlet-not in TA,Rural,614602,Inlet-Doubtless Bay,0,0,
+14,Otago,507,Inlet-in TA but not in Urban Area,Rural,625901,Inlet-Dunedin City Bays,0,0,
+3,Waikato,506,Inlet-not in TA,Rural,619500,Inlet-Firth of Thames,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617400,Inlet-Hobson Bay,0,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,614502,Inlet-Hokianga Harbour,0,0,
+15,Southland,507,Inlet-in TA but not in Urban Area,Rural,627000,Inlet-Jacobs River Estuary,0,0,
+1,Northland,506,Inlet-not in TA,Rural,617000,Inlet-Kaipara Harbour North,0,0,
+2,Auckland,506,Inlet-not in TA,Rural,617101,Inlet-Kaipara Harbour South,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617102,Inlet-Kaipara River,0,0,
+16,Tasman,507,Inlet-in TA but not in Urban Area,Rural,623900,Inlet-Ligar Bay,10,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,615302,Inlet-Mangawhai Harbour,0,0,
+2,Auckland,506,Inlet-not in TA,Rural,617605,Inlet-Manukau Harbour,0,1,
+15,Southland,507,Inlet-in TA but not in Urban Area,Rural,626100,Inlet-Milford Sound,10,0,
+16,Tasman,507,Inlet-in TA but not in Urban Area,Rural,581831,Inlet-Motueka,0,0,
+15,Southland,507,Inlet-in TA but not in Urban Area,Rural,626802,Inlet-New River Estuary,0,0,
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,542905,Inlet-Ohiwa Harbour East,0,0,
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,542513,Inlet-Ohiwa Harbour West,0,0,
+14,Otago,507,Inlet-in TA but not in Urban Area,Rural,625800,Inlet-Otago Harbour,10,0,
+9,Wellington,507,Inlet-in TA but not in Urban Area,Rural,622201,Inlet-Porirua Harbour,20,0,
+2,Auckland,506,Inlet-not in TA,Rural,616002,Inlet-Port Fitzroy,0,0,
+13,Canterbury,507,Inlet-in TA but not in Urban Area,Rural,625101,Inlet-Port Lyttelton,0,0,
+6,Hawke'sBay,506,Inlet-not in TA,Rural,620901,Inlet-Port Napier,0,0,
+14,Otago,507,Inlet-in TA but not in Urban Area,Rural,626000,Inlet-Port Oamaru,0,0,
+13,Canterbury,507,Inlet-in TA but not in Urban Area,Rural,625300,Inlet-Port Timaru,0,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,615301,Inlet-Port Whangarei,0,1,
+3,Waikato,507,Inlet-in TA but not in Urban Area,Rural,619000,Inlet-Raglan Harbour,0,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,614601,Inlet-Rangaunu Harbour,0,0,
+13,Canterbury,507,Inlet-in TA but not in Urban Area,Rural,625102,Inlets-Banks Peninsula Bays,0,0,
+3,Waikato,507,Inlet-in TA but not in Urban Area,Rural,619102,Inlets-Otorohanga District,0,0,
+3,Waikato,507,Inlet-in TA but not in Urban Area,Rural,619301,Inlets-Thames-Coromandel District,10,0,
+2,Auckland,506,Inlet-not in TA,Rural,617200,Inlet-Takapuna Head,0,0,
+17,Nelson,507,Inlet-in TA but not in Urban Area,Rural,623801,Inlet-Tasman Bay,0,2,
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,536508,Inlet-Tauranga Harbour,0,2,
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,536613,Inlet-Tauranga Harbour North,0,0,
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,536506,Inlet-Tauranga Harbour Omokoroa,0,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,615101,Inlet-Tutukaka Harbour,30,0,
+2,Auckland,506,Inlet-not in TA,Rural,617901,Inlet-Waitemata Harbour,170,1,1.1
+3,Waikato,507,Inlet-in TA but not in Urban Area,Rural,619201,Inlet-Waitomo District,0,0,
+2,Auckland,506,Inlet-not in TA,Rural,617800,Inlet-Waiuku River,0,0,
+9,Wellington,506,Inlet-not in TA,Rural,622101,Inlet-Wellington Harbour,0,0,
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,615102,Inlet-Whangarei Harbour,10,2,38.2
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,614700,Inlet-Whangaroa Harbour,20,0,
+14,Otago,23,Dunedin,Main,604810,Inner Peninsula,1020,0,
+3,Waikato,6,Hamilton Zone,Main,529502,Insoll,2850,21,1.4
+6,Hawke'sBay,13,Hastings Zone,Main,548821,Iona,3030,6,0.4
+6,Hawke'sBay,13,Hastings Zone,Main,545761,Irongate,490,1,0.4
+17,Nelson,21,Nelson,Main,583900,Isel Park,3440,26,1.4
+9,Wellington,20,Wellington Zone,Main,576002,Island Bay East,3710,5,0.3
+9,Wellington,20,Wellington Zone,Main,576001,Island Bay West,3530,3,0.2
+4,BayofPlenty,501,Rural Centre,Rural,536400,Island View-Pios Beach,560,1,0.3
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,520900,Islands-Motutapu Rangitoto Rakino,60,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,619302,Islands-Thames-Coromandel District,0,0,
+13,Canterbury,22,Christchurch,Main,587830,Islington,3170,18,1.1
+16,Tasman,273,Motueka,Minor,584305,Jackett Island,10,0,
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609035,Jacks Point,470,1,0.4
+13,Canterbury,22,Christchurch,Main,589100,Jellie Park,2940,20,1.3
+9,Wellington,20,Wellington Zone,Main,573700,Johnsonville Central,3920,18,0.9
+9,Wellington,20,Wellington Zone,Main,573802,Johnsonville East,1130,3,0.5
+9,Wellington,20,Wellington Zone,Main,573600,Johnsonville North,1980,3,0.3
+4,BayofPlenty,9,Tauranga,Main,537400,Judea,2600,14,1
+1,Northland,501,Rural Centre,Rural,500401,Kaeo,530,4,1.4
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,553302,Kahui,2710,5,0.4
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,579803,Kahutara,3350,8,0.5
+13,Canterbury,22,Christchurch,Main,586407,Kaiapoi East,890,2,0.4
+13,Canterbury,22,Christchurch,Main,586409,Kaiapoi North East,2230,5,0.4
+13,Canterbury,22,Christchurch,Main,586408,Kaiapoi North West,1460,8,1
+13,Canterbury,22,Christchurch,Main,586403,Kaiapoi South,2170,12,1.1
+13,Canterbury,22,Christchurch,Main,586503,Kaiapoi West,1130,1,0.2
+12,WestCoast,111,Greymouth,Secondary,584911,Kaiata,310,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,521136,Kaiaua,810,1,0.2
+1,Northland,208,Kaikohe,Minor,501700,Kaikohe,4370,68,3
+14,Otago,23,Dunedin,Main,602421,Kaikorai Hill,670,3,0.9
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,616001,Kaikoura and Rangiahua Islands,40,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,581500,Kaikoura Rural,1620,4,0.5
+13,Canterbury,269,Kaikoura,Minor,581400,Kaikoura Township,2040,21,2
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536630,Kaimai,5640,17,0.6
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,552702,Kaimata,2910,5,0.3
+4,BayofPlenty,501,Rural Centre,Rural,538831,Kaingaroa Forest,430,0,
+3,Waikato,6,Hamilton Zone,Main,527123,Kainui,2960,5,0.3
+3,Waikato,6,Hamilton Zone,Main,527932,Kaipaki,1080,1,0.2
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,504501,Kaipara Coastal,3180,9,0.5
+2,Auckland,2,Northern Auckland Zone,Main,508210,Kaipatiki,5010,18,0.7
+8,Manawatu-Wanganui,16,Palmerston North,Main,561811,Kairanga,910,0,
+4,BayofPlenty,9,Tauranga,Main,536512,Kairua,450,3,1.3
+1,Northland,202,Kaitaia,Minor,500302,Kaitaia East,2070,39,3.6
+1,Northland,202,Kaitaia,Minor,500301,Kaitaia West,3540,49,2.6
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,551112,Kaitake,3110,2,0.1
+14,Otago,501,Rural Centre,Rural,606900,Kaitangata,770,2,0.5
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,563920,Kaitawa,570,0,
+4,BayofPlenty,9,Tauranga,Main,538301,Kaitemako,1520,5,0.6
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581832,Kaiteriteri,850,3,0.7
+5,Gisborne,11,Gisborne,Main,544701,Kaiti North,2170,10,0.9
+5,Gisborne,11,Gisborne,Main,544801,Kaiti South,2940,52,3.4
+1,Northland,501,Rural Centre,Rural,504900,Kaiwaka,650,3,0.9
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610033,Kaiwera,860,0,
+9,Wellington,20,Wellington Zone,Main,574500,Kaiwharawhara,170,1,1.1
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,607100,Kaka Point,230,1,0.8
+14,Otago,501,Rural Centre,Rural,600828,Kakanui,400,0,
+1,Northland,1,Whangarei,Main,502102,Kamo East,3840,19,0.9
+1,Northland,1,Whangarei,Main,502101,Kamo West,4040,16,0.8
+12,WestCoast,276,Hokitika,Minor,585307,Kaniere,510,1,0.4
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501614,Kapiro,2870,2,0.1
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,566301,Kapiti Island,10,0,
+7,Taranaki,501,Rural Centre,Rural,553400,Kaponga,320,6,3.6
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,553700,Kapuni,1410,0,
+9,Wellington,20,Wellington Zone,Main,577400,Karaka Bay-Worser Bay,1530,0,
+12,WestCoast,501,Rural Centre,Rural,584402,Karamea,350,2,1.1
+6,Hawke'sBay,13,Hastings Zone,Main,545721,Karamu,1480,4,0.5
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585323,Karangarua,30,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535241,Karapiro,2830,4,0.3
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,513800,Karekare,2760,14,1
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500202,Karikari Peninsula-Maungataniwha,4710,10,0.4
+14,Otago,501,Rural Centre,Rural,601604,Karitane,370,0,
+9,Wellington,20,Wellington Zone,Main,575000,Karori East,3700,5,0.3
+9,Wellington,20,Wellington Zone,Main,574800,Karori North,2770,3,0.2
+9,Wellington,20,Wellington Zone,Main,574900,Karori Park,4570,4,0.2
+9,Wellington,20,Wellington Zone,Main,575100,Karori South,4480,5,0.2
+12,WestCoast,111,Greymouth,Secondary,584800,Karoro,970,0,
+4,BayofPlenty,234,Katikati Community,Minor,535800,Katikati Community,4410,14,0.6
+2,Auckland,501,Rural Centre,Rural,506647,Kaukapakapa,470,0,
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506646,Kaukapakapa Rural,2670,3,0.2
+2,Auckland,2,Northern Auckland Zone,Main,510401,Kauri Park,4190,8,0.4
+2,Auckland,3,Western Auckland Zone,Main,511901,Kaurilands,3440,4,0.2
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,561901,Kauwhata,2040,5,0.5
+4,BayofPlenty,10,Rotorua,Main,540100,Kawaha Point,1870,2,0.2
+1,Northland,206,Kawakawa,Minor,501400,Kawakawa,1390,22,3
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,525202,Kawakawa-Orere,1100,3,0.5
+7,Taranaki,14,New Plymouth,Main,551900,Kawaroa,1990,7,0.7
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506620,Kawau,80,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610031,Kaweku,600,0,
+4,BayofPlenty,239,Kawerau,Minor,542600,Kawerau,6660,59,1.7
+3,Waikato,501,Rural Centre,Rural,531100,Kawhia Community,350,2,1.1
+9,Wellington,20,Wellington Zone,Main,575300,Kelburn,4010,9,0.4
+9,Wellington,18,Lower Hutt Zone,Main,569500,Kelson,2820,5,0.3
+2,Auckland,3,Western Auckland Zone,Main,511700,Kelston Central,5000,31,1.2
+8,Manawatu-Wanganui,16,Palmerston North,Main,562200,Kelvin Grove,7290,7,0.2
+14,Otago,117,Queenstown,Secondary,609022,Kelvin Heights,1160,1,0.2
+14,Otago,23,Dunedin,Main,604130,Kenmure,1900,3,0.3
+13,Canterbury,22,Christchurch,Main,587903,Kennedys Bush,720,0,
+1,Northland,1,Whangarei,Main,502600,Kensington,1380,6,0.8
+3,Waikato,501,Rural Centre,Rural,533903,Kerepehi,460,0,
+1,Northland,203,Kerikeri,Minor,500900,Kerikeri,7110,38,1
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,614002,Kermadec Islands,0,0,
+9,Wellington,20,Wellington Zone,Main,574200,Khandallah Park-Broadmeadows,2960,0,
+3,Waikato,8,Te Awamutu Zone,Main,527700,Kihikihi,2130,4,0.4
+3,Waikato,8,Te Awamutu Zone,Main,527936,Kihikihi Flat,870,2,0.4
+9,Wellington,20,Wellington Zone,Main,576901,Kilbirnie East,3230,33,2
+9,Wellington,20,Wellington Zone,Main,576903,Kilbirnie West-Hataitai South,3390,10,0.6
+2,Auckland,5,Southern Auckland Zone,Main,523110,Kilkenny,3240,1,0.1
+2,Auckland,3,Western Auckland Zone,Main,513301,Kingdale,4080,42,2
+13,Canterbury,116,Rangiora,Secondary,586305,Kingsbury,2620,1,0.1
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521122,Kingseat,6670,17,0.5
+2,Auckland,4,Central Auckland Zone,Main,517500,Kingsland,5140,38,1.4
+6,Hawke'sBay,13,Hastings Zone,Main,548611,Kingsley-Chatham,3380,24,1.4
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609014,Kingston South,260,0,
+9,Wellington,20,Wellington Zone,Main,575800,Kingston-Mornington,2300,2,0.2
+15,Southland,24,Invercargill,Main,611800,Kingswell-Clifton,3570,10,0.5
+3,Waikato,102,Tokoroa,Secondary,535212,Kinleith,250,1,0.8
+3,Waikato,501,Rural Centre,Rural,541333,Kinloch,550,0,
+17,Nelson,21,Nelson,Main,582700,Kirks,900,22,4.7
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,587010,Kirwee,4080,3,0.1
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,559700,Kiwitea,1460,2,0.3
+2,Auckland,4,Central Auckland Zone,Main,516602,Kohimarama East,4100,5,0.2
+2,Auckland,4,Central Auckland Zone,Main,516601,Kohimarama West,3690,2,0.1
+8,Manawatu-Wanganui,107,Levin,Secondary,564013,Kohitere,880,1,0.2
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500500,Kohukohu,180,0,
+2,Auckland,5,Southern Auckland Zone,Main,524303,Kohuora,6630,24,0.7
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,559240,Koitiata,110,1,1.7
+2,Auckland,3,Western Auckland Zone,Main,512600,Konini,3800,4,0.2
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,578401,Kopuaranga,1630,0,
+9,Wellington,18,Lower Hutt Zone,Main,569800,Korokoro,1400,4,0.5
+4,BayofPlenty,10,Rotorua,Main,540200,Koutu,1990,10,1
+8,Manawatu-Wanganui,15,Wanganui,Main,557700,Kowhai Park,2130,11,1
+4,BayofPlenty,10,Rotorua,Main,540410,Kuirau,1290,168,24.9
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585306,Kumara,300,0,
+2,Auckland,3,Western Auckland Zone,Main,505604,Kumeu East,1570,5,0.6
+2,Auckland,3,Western Auckland Zone,Main,505605,Kumeu West,1880,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,532502,Kuratau,290,0,
+13,Canterbury,501,Rural Centre,Rural,600824,Kurow,320,0,
+2,Auckland,3,Western Auckland Zone,Main,512801,Laingholm,2620,0,
+8,Manawatu-Wanganui,15,Wanganui,Main,556800,Laird Park,2250,43,3.7
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,559230,Lake Alice,2830,5,0.3
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584939,Lake Brunner,270,1,0.7
+3,Waikato,6,Hamilton Zone,Main,527915,Lake Cameron,1290,3,0.4
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609028,Lake Hayes,310,2,1.2
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609034,Lake Hayes South,2070,1,0.1
+8,Manawatu-Wanganui,107,Levin,Secondary,564011,Lake Horowhenua,790,2,0.5
+3,Waikato,8,Te Awamutu Zone,Main,527924,Lake Ngaroto,600,0,
+2,Auckland,2,Northern Auckland Zone,Main,507800,Lake Pupuke,5650,12,0.4
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581842,Lake Rotoroa,660,1,0.3
+13,Canterbury,501,Rural Centre,Rural,600320,Lake Tekapo,400,1,0.5
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,580900,Lake Tennyson,0,0,
+3,Waikato,103,Taupo,Secondary,541319,Lakewood,1540,0,
+9,Wellington,20,Wellington Zone,Main,573000,Lambton,6000,104,3.3
+17,Nelson,21,Nelson,Main,584000,Langbein,3440,9,0.5
+9,Wellington,109,Masterton,Secondary,579200,Lansdowne,4130,18,0.8
+14,Otago,501,Rural Centre,Rural,607700,Lawrence,440,1,0.4
+2,Auckland,5,Southern Auckland Zone,Main,525101,Leabank,5760,37,1.2
+3,Waikato,7,Cambridge Zone,Main,527505,Leamington East,4100,6,0.3
+3,Waikato,7,Cambridge Zone,Main,527504,Leamington West,3820,7,0.4
+13,Canterbury,283,Leeston,Minor,597300,Leeston,1700,3,0.3
+13,Canterbury,116,Rangiora,Secondary,586122,Lehmans,2200,0,
+2,Auckland,501,Rural Centre,Rural,505400,Leigh,470,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585803,Leithfield,3080,2,0.1
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,551111,Lepperton,2510,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,598313,Levels,4040,4,0.2
+8,Manawatu-Wanganui,107,Levin,Secondary,564240,Levin East,4520,10,0.4
+8,Manawatu-Wanganui,107,Levin,Secondary,564210,Levin North,3640,23,1.2
+8,Manawatu-Wanganui,107,Levin,Secondary,564232,Levin South,1920,19,1.9
+8,Manawatu-Wanganui,107,Levin,Secondary,564220,Levin West,2810,54,3.7
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535261,Lichfield,1070,3,0.5
+13,Canterbury,282,Lincoln,Minor,597200,Lincoln,4910,11,0.4
+9,Wellington,20,Wellington Zone,Main,572701,Linden,4190,7,0.3
+8,Manawatu-Wanganui,16,Palmerston North,Main,561820,Linton Military Camp,1660,14,1.6
+13,Canterbury,22,Christchurch,Main,593501,Linwood,4940,53,2.1
+13,Canterbury,22,Christchurch,Main,593700,Linwood East,2190,66,5.8
+13,Canterbury,22,Christchurch,Main,593600,Linwood North,2620,20,1.5
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,615900,Little Barrier Island,0,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,597101,Little River,1160,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584407,Little Wanganui,220,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585807,Loburn,2390,0,
+6,Hawke'sBay,13,Hastings Zone,Main,548612,Lochain,3080,24,1.5
+2,Auckland,2,Northern Auckland Zone,Main,508900,Long Bay,1110,2,0.3
+8,Manawatu-Wanganui,16,Palmerston North,Main,561812,Longburn,680,2,0.6
+6,Hawke'sBay,13,Hastings Zone,Main,545762,Longlands South,960,1,0.2
+8,Manawatu-Wanganui,15,Wanganui,Main,557300,Lower Aramoho,1790,10,1.1
+2,Auckland,3,Western Auckland Zone,Main,513522,Lucken Point,5790,4,0.1
+15,Southland,501,Rural Centre,Rural,609600,Lumsden Community,420,1,0.5
+9,Wellington,20,Wellington Zone,Main,577000,Lyall Bay-Airport-Moa Point,3150,17,1
+2,Auckland,4,Central Auckland Zone,Main,518901,Lynfield North,6490,7,0.2
+2,Auckland,4,Central Auckland Zone,Main,518902,Lynfield South,4770,5,0.2
+4,BayofPlenty,10,Rotorua,Main,538732,Lynmore,3560,4,0.2
+7,Taranaki,14,New Plymouth,Main,551501,Lynmouth,2330,3,0.2
+2,Auckland,3,Western Auckland Zone,Main,511303,Lynnmall,2610,94,6.9
+13,Canterbury,22,Christchurch,Main,596400,Lyttelton,3090,16,1
+14,Otago,23,Dunedin,Main,604822,Macandrew Bay,1220,0,
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,600323,Mackenzie,1890,1,0.1
+3,Waikato,6,Hamilton Zone,Main,528800,Maeroa,4020,29,1.4
+8,Manawatu-Wanganui,106,Feilding,Secondary,560412,Maewa,1150,2,0.3
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,600826,Maheno,4070,5,0.2
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545304,Mahia,760,6,1.5
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531710,Mahoenui,410,1,0.5
+6,Hawke'sBay,13,Hastings Zone,Main,547600,Mahora,3710,23,1.2
+2,Auckland,501,Rural Centre,Rural,506634,Mahurangi,390,0,
+9,Wellington,17,Upper Hutt Zone,Main,567200,Maidstone,130,4,5.9
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586115,Mairaki,550,0,
+2,Auckland,2,Northern Auckland Zone,Main,507400,Mairangi Bay,5870,7,0.2
+13,Canterbury,22,Christchurch,Main,592500,Mairehau,3130,6,0.4
+13,Canterbury,22,Christchurch,Main,590504,Mairehau North,1900,3,0.3
+1,Northland,1,Whangarei,Main,502700,Mairtown,2640,6,0.4
+17,Nelson,21,Nelson,Main,582600,Maitai,660,3,0.9
+17,Nelson,21,Nelson,Main,583800,Maitlands,2610,3,0.2
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,554500,Makakaho,830,0,
+5,Gisborne,11,Gisborne,Main,543901,Makaraka,1300,9,1.3
+9,Wellington,501,Rural Centre,Rural,577700,Makara-Ohariu,880,3,0.7
+15,Southland,24,Invercargill,Main,609912,Makarewa,1470,1,0.1
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,609911,Makarewa North,340,1,0.6
+4,BayofPlenty,501,Rural Centre,Rural,535900,Maketu Community,1100,2,0.3
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,587100,Malvern,3450,5,0.3
+4,BayofPlenty,501,Rural Centre,Rural,538864,Mamaku,740,3,0.8
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,572300,Mana Island,10,0,
+9,Wellington,19,Porirua Zone,Main,572000,Mana-Camborne,2650,14,1
+7,Taranaki,501,Rural Centre,Rural,553800,Manaia,1000,6,1.1
+15,Southland,501,Rural Centre,Rural,612712,Manapouri,240,2,1.6
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586603,Mandeville,3160,0,
+4,BayofPlenty,10,Rotorua,Main,539400,Mangakakahi,2570,31,2.3
+3,Waikato,102,Tokoroa,Secondary,535211,Mangakaretu,240,2,1.6
+3,Waikato,501,Rural Centre,Rural,540900,Mangakino,780,8,2
+7,Taranaki,14,New Plymouth,Main,551014,Mangaoraka,950,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,564021,Mangaore-Manakau,3300,10,0.6
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500402,Mangapa-Matauri Bay,2740,8,0.6
+5,Gisborne,11,Gisborne,Main,544200,Mangapapa,4610,22,0.9
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,567902,Mangaroa,1750,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,577900,Mangatainoka,1630,5,0.6
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,521135,Mangatawhiri,1650,5,0.6
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,553500,Mangatoki-Moeroa,1750,6,0.7
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,558600,Mangaweka,150,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,505021,Mangawhai,1670,6,0.7
+1,Northland,303,Mangawhai Heads,Minor,505022,Mangawhai Heads,1300,7,1
+2,Auckland,5,Southern Auckland Zone,Main,524002,Mangere Bridge,6460,41,1.2
+2,Auckland,5,Southern Auckland Zone,Main,524111,Mangere Central,3350,82,4.7
+2,Auckland,5,Southern Auckland Zone,Main,524301,Mangere East,6500,47,1.4
+2,Auckland,5,Southern Auckland Zone,Main,524200,Mangere South,7980,81,1.9
+2,Auckland,5,Southern Auckland Zone,Main,524402,Mangere Station,190,15,15.1
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,608000,Maniototo,1120,2,0.3
+2,Auckland,2,Northern Auckland Zone,Main,505902,Manly,7160,10,0.3
+13,Canterbury,22,Christchurch,Main,586404,Mansfield,1970,5,0.5
+9,Wellington,18,Lower Hutt Zone,Main,568104,Manuka,1780,1,0.1
+2,Auckland,5,Southern Auckland Zone,Main,524604,Manukau Central,900,192,40.8
+8,Manawatu-Wanganui,220,Taumarunui,Minor,532904,Manunui,580,4,1.3
+2,Auckland,5,Southern Auckland Zone,Main,525001,Manurewa Central,4830,89,3.5
+2,Auckland,5,Southern Auckland Zone,Main,524902,Manurewa East,2720,18,1.3
+5,Gisborne,501,Rural Centre,Rural,544003,Manutuke,570,0,
+14,Otago,23,Dunedin,Main,603710,Maori Hill,1970,0,
+13,Canterbury,113,Timaru,Secondary,599000,Maori Park,1050,9,1.6
+9,Wellington,17,Upper Hutt Zone,Main,566700,Maoribank,3060,4,0.2
+16,Tasman,306,Mapua,Minor,581825,Mapua,2150,1,0.1
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,549902,Mara,10,0,
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545841,Maraekakaho,1340,2,0.3
+6,Hawke'sBay,12,Napier Zone,Main,546700,Maraenui,3350,49,2.8
+4,BayofPlenty,104,Whakatane,Secondary,542514,Maraetotara,110,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527221,Maramarua,1100,3,0.5
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,612714,Mararoa River,1590,1,0.1
+13,Canterbury,113,Timaru,Secondary,598900,Marchwiel,4010,10,0.5
+6,Hawke'sBay,12,Napier Zone,Main,546600,Marewa,4940,45,1.7
+7,Taranaki,14,New Plymouth,Main,551503,Marfell,2190,6,0.5
+18,Marlborough,507,Inlet-in TA but not in Urban Area,Rural,580445,Marlborough Sounds Coastal Marine,30,2,12.7
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580446,Marlborough Sounds Terrestrial,3300,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531720,Marokopa,1650,5,0.6
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541320,Marotiri,1690,1,0.1
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501806,Marsden Point-Ruakaka,4010,18,0.9
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584935,Marsden-Hohonu,410,0,
+7,Taranaki,14,New Plymouth,Main,552002,Marsland Hill,1450,16,2.1
+9,Wellington,267,Martinborough,Minor,580100,Martinborough,1580,1,0.1
+8,Manawatu-Wanganui,259,Marton,Minor,559500,Marton,4780,23,0.9
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584703,Maruia,190,0,
+8,Manawatu-Wanganui,15,Wanganui,Main,558200,Marybank-Gordon Park,530,1,0.4
+2,Auckland,5,Southern Auckland Zone,Main,524112,Mascot,4410,43,1.9
+2,Auckland,5,Southern Auckland Zone,Main,525620,Massey Park,2050,16,1.5
+8,Manawatu-Wanganui,16,Palmerston North,Main,561813,Massey University,860,3,0.7
+2,Auckland,3,Western Auckland Zone,Main,513610,Massey West,380,3,1.5
+9,Wellington,109,Masterton,Secondary,578600,Masterton Central,640,64,19.1
+9,Wellington,109,Masterton,Secondary,578800,Masterton East,3700,33,1.7
+9,Wellington,109,Masterton,Secondary,579100,Masterton Railway,290,4,2.6
+9,Wellington,109,Masterton,Secondary,578700,Masterton West,3090,4,0.2
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542550,Matahina-Minginui,1440,3,0.4
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506659,Matakana,310,1,0.6
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536611,Matakana Island,260,0,
+3,Waikato,232,Matamata,Minor,535501,Matamata North,3110,12,0.7
+3,Waikato,232,Matamata,Minor,535502,Matamata South,4510,23,1
+3,Waikato,6,Hamilton Zone,Main,527004,Matangi,2340,2,0.2
+4,BayofPlenty,9,Tauranga,Main,536505,Matapihi,710,3,0.8
+3,Waikato,102,Tokoroa,Secondary,535330,Matarawa,2080,14,1.3
+4,BayofPlenty,501,Rural Centre,Rural,542000,Matata,670,4,1.1
+15,Southland,301,Gore,Minor,610400,Mataura,1570,8,1
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506616,Matheson Bay,140,0,
+2,Auckland,3,Western Auckland Zone,Main,512201,Matipo,3290,8,0.5
+5,Gisborne,11,Gisborne,Main,543902,Matokitoki,560,0,
+4,BayofPlenty,9,Tauranga,Main,537000,Matua,5440,3,0.1
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609029,Matukituki,460,0,
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,566302,Maungakotukutuku,1040,3,0.6
+3,Waikato,103,Taupo,Secondary,541313,Maunganamu,470,0,
+9,Wellington,18,Lower Hutt Zone,Main,569302,Maungaraki,3900,4,0.2
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,504502,Maungaru,1800,2,0.2
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545205,Maungataniwha,330,0,
+1,Northland,501,Rural Centre,Rural,501810,Maungatapere,1460,0,
+4,BayofPlenty,9,Tauranga,Main,538000,Maungatapu,2900,4,0.3
+1,Northland,501,Rural Centre,Rural,504700,Maungaturoto,860,10,2.2
+2,Auckland,4,Central Auckland Zone,Main,518301,Maungawhau,4270,17,0.8
+1,Northland,1,Whangarei,Main,503400,Maunu,1480,2,0.3
+9,Wellington,20,Wellington Zone,Main,577601,Maupuia,1570,3,0.4
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584702,Mawheraiti,370,1,0.5
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,555400,Maxwell,1690,3,0.3
+6,Hawke'sBay,13,Hastings Zone,Main,548000,Mayfair,4470,26,1.1
+18,Marlborough,26,Blenheim,Main,581220,Mayfield,2860,14,0.9
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,618500,Mayor Island,0,0,
+2,Auckland,3,Western Auckland Zone,Main,513013,McLaren Park,3170,11,0.7
+6,Hawke'sBay,12,Napier Zone,Main,546902,Mclean Park,2440,19,1.5
+13,Canterbury,22,Christchurch,Main,587902,Mcleans Island,260,0,
+2,Auckland,3,Western Auckland Zone,Main,512500,Mcleod,6730,16,0.5
+2,Auckland,4,Central Auckland Zone,Main,516301,Meadowbank North,7050,6,0.2
+2,Auckland,4,Central Auckland Zone,Main,516302,Meadowbank South,5560,1,0
+2,Auckland,5,Southern Auckland Zone,Main,523102,Meadowland,4880,7,0.3
+6,Hawke'sBay,12,Napier Zone,Main,545631,Meeanee,1820,6,0.6
+9,Wellington,18,Lower Hutt Zone,Main,569201,Melling,690,3,0.8
+2,Auckland,5,Southern Auckland Zone,Main,521501,Mellons Bay,3550,7,0.4
+9,Wellington,20,Wellington Zone,Main,576100,Melrose-Houghton Bay-Southgate,3760,2,0.1
+3,Waikato,6,Hamilton Zone,Main,529200,Melville,5140,24,0.9
+3,Waikato,501,Rural Centre,Rural,527222,Meremere,500,8,3.1
+13,Canterbury,22,Christchurch,Main,592200,Merivale,2830,40,2.7
+7,Taranaki,14,New Plymouth,Main,552300,Merrilands,3010,7,0.4
+13,Canterbury,22,Christchurch,Main,589602,Merrin,1600,0,
+13,Canterbury,308,Methven,Minor,597600,Methven,1830,7,0.7
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,602300,Middlemarch,140,0,
+2,Auckland,5,Southern Auckland Zone,Main,521902,Middlemore,110,53,92.1
+13,Canterbury,22,Christchurch,Main,590300,Middleton,1930,27,2.7
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,552900,Midhirst,240,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,609011,Milford,120,1,1.6
+2,Auckland,5,Southern Auckland Zone,Main,523819,Mill Road,970,2,0.4
+15,Southland,24,Invercargill,Main,609914,Mill Road-Woodend,730,1,0.3
+2,Auckland,5,Southern Auckland Zone,Main,523106,Millhouse,5510,7,0.2
+8,Manawatu-Wanganui,16,Palmerston North,Main,562100,Milson,5800,14,0.5
+14,Otago,289,Milton,Minor,606800,Milton,1960,14,1.4
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536620,Minden,4750,9,0.4
+9,Wellington,20,Wellington Zone,Main,577302,Miramar,2530,7,0.5
+9,Wellington,20,Wellington Zone,Main,577301,Miramar North,2650,2,0.1
+9,Wellington,20,Wellington Zone,Main,577200,Miramar South,3760,7,0.4
+9,Wellington,20,Wellington Zone,Main,577602,Miramar West,410,0,
+2,Auckland,4,Central Auckland Zone,Main,516500,Mission Bay,5840,28,0.9
+2,Auckland,5,Southern Auckland Zone,Main,523116,Mission Heights,2910,1,0.1
+9,Wellington,20,Wellington Zone,Main,575500,Mitchelltown,730,1,0.3
+3,Waikato,226,Thames,Minor,533501,Moanataiari,2520,18,1.4
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,559210,Moawhango,660,0,
+9,Wellington,18,Lower Hutt Zone,Main,568900,Moera,1590,14,1.7
+1,Northland,207,Moerewa,Minor,501500,Moerewa,1570,14,1.7
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531800,Mokauiti,1070,1,0.2
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584408,Mokihinui,150,0,
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,615800,Mokohinau Island,0,0,
+13,Canterbury,22,Christchurch,Main,590701,Mona Vale,2510,32,2.4
+2,Auckland,2,Northern Auckland Zone,Main,508610,Monarch Park,5360,5,0.2
+13,Canterbury,22,Christchurch,Main,596102,Moncks Bay,3200,4,0.2
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,564601,Moonshine Valley,200,0,
+1,Northland,1,Whangarei,Main,503600,Morningside,2350,17,1.4
+14,Otago,23,Dunedin,Main,604110,Mornington,3390,15,0.8
+3,Waikato,231,Morrinsville,Minor,534902,Morrinsville East,4740,13,0.5
+3,Waikato,231,Morrinsville,Minor,534901,Morrinsville West,2750,14,1
+14,Otago,23,Dunedin,Main,606100,Mosgiel East,4200,1,0
+14,Otago,23,Dunedin,Main,606210,Mosgiel South,2790,19,1.3
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,612713,Mossburn,220,0,
+8,Manawatu-Wanganui,15,Wanganui,Main,555900,Mosston,1120,7,1.2
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,618400,Motiti Island,30,0,
+16,Tasman,273,Motueka,Minor,584303,Motueka East,4140,16,0.7
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581833,Motueka Outer,4220,5,0.2
+16,Tasman,273,Motueka,Minor,584301,Motueka West,3890,34,1.7
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541347,Motuoapa,250,0,
+4,BayofPlenty,9,Tauranga,Main,536510,Motuopae Island,0,0,
+7,Taranaki,14,New Plymouth,Main,551400,Moturoa,3520,17,0.9
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500208,Motutangi-Kareponia,1910,8,0.8
+7,Taranaki,14,New Plymouth,Main,552001,Mount Bryan,910,4,0.8
+16,Tasman,507,Inlet-in TA but not in Urban Area,Rural,584304,Moutere Inlet,0,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,561500,Moutoa,940,0,
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,619701,Moutohora Island,0,0,
+2,Auckland,4,Central Auckland Zone,Main,517800,Mt Albert Central,6220,16,0.5
+13,Canterbury,501,Rural Centre,Rural,600312,Mt Cook,210,0,
+9,Wellington,20,Wellington Zone,Main,573300,Mt Cook-Wallace Street,5650,27,0.9
+2,Auckland,4,Central Auckland Zone,Main,518202,Mt Eden East,2970,3,0.2
+2,Auckland,4,Central Auckland Zone,Main,518101,Mt Eden North,3670,42,2.2
+2,Auckland,4,Central Auckland Zone,Main,518302,Mt Eden South,5330,5,0.2
+2,Auckland,4,Central Auckland Zone,Main,516001,Mt Hobson,1530,17,2.1
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,579501,Mt Holdsworth,1420,0,
+4,BayofPlenty,9,Tauranga,Main,536810,Mt Maunganui North,4360,49,2.1
+13,Canterbury,22,Christchurch,Main,596000,Mt Pleasant,3550,6,0.3
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,597720,Mt Somers,2830,5,0.3
+2,Auckland,4,Central Auckland Zone,Main,519200,Mt St John,5210,13,0.5
+2,Auckland,2,Northern Auckland Zone,Main,509400,Mt Victoria,5800,6,0.2
+9,Wellington,20,Wellington Zone,Main,573400,Mt Victoria West,5970,21,0.7
+2,Auckland,4,Central Auckland Zone,Main,520301,Mt Wellington Domain,1740,26,2.9
+2,Auckland,4,Central Auckland Zone,Main,520303,Mt Wellington North,3380,26,1.5
+2,Auckland,4,Central Auckland Zone,Main,520500,Mt Wellington South,6200,75,2.3
+2,Auckland,4,Central Auckland Zone,Main,520302,Mt Wellington West,3090,12,0.7
+16,Tasman,501,Rural Centre,Rural,581843,Murchison,530,2,0.7
+2,Auckland,501,Rural Centre,Rural,506654,Muriwai Beach,1220,0,
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506655,Muriwai Valley,800,3,0.7
+2,Auckland,2,Northern Auckland Zone,Main,507300,Murrays Bay,5150,1,0
+4,BayofPlenty,240,Murupara,Minor,542700,Murupara,1770,21,2.3
+2,Auckland,5,Southern Auckland Zone,Main,522712,Murvale,4400,2,0.1
+14,Otago,23,Dunedin,Main,604611,Musselburgh,2750,4,0.3
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610062,Myross Bush,630,0,
+9,Wellington,18,Lower Hutt Zone,Main,568302,Naenae North,4850,35,1.4
+9,Wellington,18,Lower Hutt Zone,Main,568303,Naenae South,3580,25,1.3
+2,Auckland,2,Northern Auckland Zone,Main,509300,Narrow Neck,4020,1,0
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,608100,Naseby,120,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,532602,National Park,190,0,
+3,Waikato,6,Hamilton Zone,Main,528501,Nawton,4960,32,1.2
+17,Nelson,21,Nelson,Main,583600,Nayland,880,8,1.7
+3,Waikato,6,Hamilton Zone,Main,530300,Naylor,4800,26,1
+17,Nelson,21,Nelson,Main,583500,Nelson Airport,960,4,0.8
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584937,Nelson Creek-Ngahere,370,2,1
+6,Hawke'sBay,12,Napier Zone,Main,546901,Nelson Park,2480,82,6.3
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,601700,Nenthorn,110,0,
+13,Canterbury,112,Ashburton,Secondary,597830,Netherby,1940,2,0.2
+13,Canterbury,22,Christchurch,Main,595800,New Brighton,2610,25,1.8
+2,Auckland,3,Western Auckland Zone,Main,511301,New Lynn North,2940,8,0.5
+2,Auckland,3,Western Auckland Zone,Main,511302,New Lynn South,3060,15,0.9
+7,Taranaki,14,New Plymouth,Main,551800,New Plymouth Central,680,102,28.7
+2,Auckland,4,Central Auckland Zone,Main,514500,New Windsor,7290,6,0.2
+15,Southland,24,Invercargill,Main,611500,Newfield-Rockdale,3020,7,0.4
+9,Wellington,20,Wellington Zone,Main,573524,Newlands East,780,0,
+9,Wellington,20,Wellington Zone,Main,573903,Newlands North,2790,5,0.3
+9,Wellington,20,Wellington Zone,Main,574001,Newlands South,3880,6,0.3
+2,Auckland,4,Central Auckland Zone,Main,517400,Newmarket,3740,36,1.8
+3,Waikato,6,Hamilton Zone,Main,527124,Newstead,220,1,0.9
+2,Auckland,4,Central Auckland Zone,Main,514200,Newton,2170,101,8.9
+9,Wellington,20,Wellington Zone,Main,576400,Newtown East,5370,33,1.2
+9,Wellington,20,Wellington Zone,Main,576301,Newtown West,3480,27,1.5
+3,Waikato,6,Hamilton Zone,Main,527914,Ngahinapouri,2280,3,0.3
+9,Wellington,20,Wellington Zone,Main,574402,Ngaio South,3290,1,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,538850,Ngakuru,1710,2,0.2
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,559000,Ngamatea,30,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501634,Ngapuhi-Kaikou,2640,12,0.9
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,532501,Ngapuke,1640,2,0.2
+4,BayofPlenty,10,Rotorua,Main,538722,Ngapuna,490,5,2
+3,Waikato,6,Hamilton Zone,Main,528200,Ngaruawahia,5810,33,1.1
+3,Waikato,305,Ngatea,Minor,533800,Ngatea,1340,0,
+9,Wellington,109,Masterton,Secondary,579000,Ngaumutawa,1430,1,0.1
+9,Wellington,20,Wellington Zone,Main,574002,Ngauranga East,40,1,4.8
+9,Wellington,20,Wellington Zone,Main,574303,Ngauranga West,10,1,19.1
+17,Nelson,21,Nelson,Main,581715,Ngawhatu,2570,4,0.3
+4,BayofPlenty,10,Rotorua,Main,538601,Ngongotaha North,3250,17,1
+4,BayofPlenty,10,Rotorua,Main,538602,Ngongotaha South,1300,2,0.3
+1,Northland,302,Ngunguru,Minor,501807,Ngunguru,1700,6,0.7
+15,Southland,501,Rural Centre,Rural,612200,Nightcaps,310,1,0.6
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,578200,Nireaha-Tiraumea,1050,1,0.2
+7,Taranaki,105,Hawera,Secondary,553900,Normanby,900,2,0.4
+9,Wellington,18,Lower Hutt Zone,Main,569301,Normandale,2140,2,0.2
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,549800,Norsewood-Herbertville,3520,6,0.3
+13,Canterbury,22,Christchurch,Main,595600,North Beach,4790,22,0.9
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,500206,North Cape,500,0,
+14,Otago,23,Dunedin,Main,603601,North Dunedin,3610,15,0.8
+14,Otago,23,Dunedin,Main,603300,North East Valley,4900,11,0.4
+15,Southland,301,Gore,Minor,610210,North Gore,1640,4,0.5
+2,Auckland,2,Northern Auckland Zone,Main,508807,North Harbour East,4160,12,0.6
+2,Auckland,2,Northern Auckland Zone,Main,508806,North Harbour West,5820,9,0.3
+13,Canterbury,22,Christchurch,Main,591800,Northcote,2630,39,2.8
+2,Auckland,2,Northern Auckland Zone,Main,509800,Northcote South,4570,12,0.5
+2,Auckland,2,Northern Auckland Zone,Main,508704,Northcross,5060,3,0.1
+9,Wellington,20,Wellington Zone,Main,575200,Northland,2900,1,0.1
+9,Wellington,20,Wellington Zone,Main,574703,Northland North,780,1,0.2
+6,Hawke'sBay,501,Rural Centre,Rural,545303,Nuhaka,250,1,0.8
+3,Waikato,103,Taupo,Secondary,541710,Nukuhau,1640,2,0.2
+99,AreaOutside,511,Oceanic,Rural,666667,NZ Economic Zone,0,0,
+13,Canterbury,22,Christchurch,Main,587304,Oaklands East,3530,5,0.3
+13,Canterbury,22,Christchurch,Main,587303,Oaklands West,2560,3,0.2
+2,Auckland,2,Northern Auckland Zone,Main,507102,Oaktree,4980,8,0.3
+7,Taranaki,14,New Plymouth,Main,550800,Oakura,1500,1,0.1
+14,Otago,114,Oamaru,Secondary,601030,Oamaru Central,2610,23,1.7
+14,Otago,114,Oamaru,Secondary,601010,Oamaru North,3480,11,0.6
+14,Otago,114,Oamaru,Secondary,601040,Oamaru South,3050,9,0.6
+2,Auckland,2,Northern Auckland Zone,Main,509701,Ocean View,4850,6,0.2
+99,AreaOutside,511,Oceanic,Rural,666672,Oceanic-Antipodes Islands,0,0,
+99,AreaOutside,511,Oceanic,Rural,627203,Oceanic-Auckland Islands,0,0,
+2,Auckland,510,Oceanic-in Region but not in TA,Rural,617501,Oceanic-Auckland Region East,10,1,19.1
+2,Auckland,510,Oceanic-in Region but not in TA,Rural,617602,Oceanic-Auckland Region West,0,0,
+4,BayofPlenty,510,Oceanic-in Region but not in TA,Rural,619702,Oceanic-Bay of Plenty Region,0,0,
+99,AreaOutside,511,Oceanic,Rural,666668,Oceanic-Bounty Islands,0,0,
+99,AreaOutside,511,Oceanic,Rural,626601,Oceanic-Campbell Island,0,0,
+13,Canterbury,510,Oceanic-in Region but not in TA,Rural,623806,Oceanic-Canterbury Region North,0,0,
+13,Canterbury,510,Oceanic-in Region but not in TA,Rural,625103,Oceanic-Canterbury Region South,10,0,
+99,AreaOutside,511,Oceanic,Rural,625200,Oceanic-Chatham Islands,0,0,
+5,Gisborne,510,Oceanic-in Region but not in TA,Rural,620400,Oceanic-Gisborne Region,0,0,
+6,Hawke'sBay,510,Oceanic-in Region but not in TA,Rural,620903,Oceanic-Hawke's Bay Region,0,0,
+99,AreaOutside,511,Oceanic,Rural,614001,Oceanic-Kermadec Islands,0,0,
+8,Manawatu-Wanganui,510,Oceanic-in Region but not in TA,Rural,622700,Oceanic-Manawatu-Wanganui Region,0,0,
+18,Marlborough,510,Oceanic-in Region but not in TA,Rural,623805,Oceanic-Marlborough Region,0,0,
+17,Nelson,510,Oceanic-in Region but not in TA,Rural,623804,Oceanic-Nelson Region,0,0,
+1,Northland,510,Oceanic-in Region but not in TA,Rural,614504,Oceanic-Northland Region,0,0,
+99,AreaOutside,511,Oceanic,Rural,626900,Oceanic-Oil Rig Southland,0,0,
+99,AreaOutside,511,Oceanic,Rural,621500,Oceanic-Oil Rigs Taranaki,0,0,
+14,Otago,510,Oceanic-in Region but not in TA,Rural,625902,Oceanic-Otago Region,0,0,
+99,AreaOutside,511,Oceanic,Rural,666670,Oceanic-Snares Islands,0,0,
+15,Southland,510,Oceanic-in Region but not in TA,Rural,627201,Oceanic-Southland Region,0,0,
+7,Taranaki,510,Oceanic-in Region but not in TA,Rural,621402,Oceanic-Taranaki Region,0,0,
+8,Manawatu-Wanganui,510,Oceanic-in Region but not in TA,Rural,622000,Oceanic-Tararua Constituency,0,0,
+16,Tasman,511,Oceanic,Rural,623803,Oceanic-Tasman Region,0,1,
+3,Waikato,510,Oceanic-in Region but not in TA,Rural,619400,Oceanic-Waikato Region East,0,0,
+3,Waikato,510,Oceanic-in Region but not in TA,Rural,619202,Oceanic-Waikato Region West,0,0,
+9,Wellington,510,Oceanic-in Region but not in TA,Rural,622202,Oceanic-Wellington Region,0,0,
+12,WestCoast,510,Oceanic-in Region but not in TA,Rural,624600,Oceanic-West Coast Region,0,0,
+1,Northland,501,Rural Centre,Rural,501632,Ohaeawai,800,0,
+15,Southland,501,Rural Centre,Rural,612300,Ohai,300,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,561421,Ohakea,310,0,
+8,Manawatu-Wanganui,254,Ohakune,Minor,555000,Ohakune,1080,10,1.8
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,554120,Ohangai,580,0,
+4,BayofPlenty,9,Tauranga,Main,536641,Ohauiti-Ngapeke,780,1,0.2
+3,Waikato,6,Hamilton Zone,Main,527600,Ohaupo,540,1,0.4
+7,Taranaki,105,Hawera,Secondary,554111,Ohawe Beach,740,1,0.3
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,534200,Ohinemuri,3290,11,0.6
+4,BayofPlenty,10,Rotorua,Main,540300,Ohinemutu,300,8,5.1
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586604,Ohoka,1230,0,
+4,BayofPlenty,104,Whakatane,Secondary,541900,Ohope,3070,4,0.2
+8,Manawatu-Wanganui,501,Rural Centre,Rural,532400,Ohura,140,2,2.7
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,554130,Okaiawa,560,0,
+1,Northland,501,Rural Centre,Rural,501631,Okaihau,750,3,0.8
+7,Taranaki,501,Rural Centre,Rural,551120,Okato,600,1,0.3
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535220,Okauia,2100,3,0.3
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,550700,Okoki-Okau,2280,7,0.6
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585806,Okuku,680,0,
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506658,Omaha,680,2,0.6
+6,Hawke'sBay,13,Hastings Zone,Main,545822,Omahu,410,3,1.4
+18,Marlborough,26,Blenheim,Main,580420,Omaka,920,4,0.8
+4,BayofPlenty,9,Tauranga,Main,536821,Omanu,5540,27,0.9
+1,Northland,501,Rural Centre,Rural,500700,Omapere and Opononi,470,1,0.4
+13,Canterbury,501,Rural Centre,Rural,600827,Omarama,300,1,0.6
+7,Taranaki,14,New Plymouth,Main,551030,Omata,590,0,
+4,BayofPlenty,9,Tauranga,Main,536000,Omokoroa,2790,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,532200,Omori,200,0,
+2,Auckland,4,Central Auckland Zone,Main,519300,One Tree Hill Central,2900,13,0.9
+2,Auckland,4,Central Auckland Zone,Main,519400,One Tree Hill East,6180,10,0.3
+2,Auckland,4,Central Auckland Zone,Main,519720,Onehunga North East,3920,2,0.1
+2,Auckland,4,Central Auckland Zone,Main,519710,Onehunga North West,4030,17,0.8
+2,Auckland,4,Central Auckland Zone,Main,519820,Onehunga South East,3820,38,1.9
+2,Auckland,4,Central Auckland Zone,Main,519810,Onehunga South West,4160,9,0.4
+6,Hawke'sBay,12,Napier Zone,Main,546300,Onekawa Central,1380,11,1.5
+6,Hawke'sBay,12,Napier Zone,Main,546500,Onekawa South,4640,37,1.5
+6,Hawke'sBay,12,Napier Zone,Main,546400,Onekawa West,300,12,7.6
+9,Wellington,19,Porirua Zone,Main,570500,Onepoto,1860,7,0.7
+1,Northland,1,Whangarei,Main,504100,Onerahi,2350,9,0.7
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,526701,Onewhero,4180,7,0.3
+2,Auckland,5,Southern Auckland Zone,Main,525520,Opaheke,2800,1,0.1
+9,Wellington,109,Masterton,Secondary,578302,Opaki-Fernridge,1480,4,0.5
+2,Auckland,3,Western Auckland Zone,Main,513020,Opanuku,2280,3,0.3
+13,Canterbury,22,Christchurch,Main,594300,Opawa,3250,12,0.7
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,563802,Opiki,530,1,0.4
+14,Otago,23,Dunedin,Main,603210,Opoho,1230,3,0.5
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542904,Oponae,300,1,0.6
+4,BayofPlenty,241,Opotiki,Minor,542800,Opotiki,4130,63,2.9
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501802,Opouteke-Tanekaha,5070,5,0.2
+1,Northland,501,Rural Centre,Rural,501300,Opua East,330,6,3.5
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501612,Opua West,280,0,
+3,Waikato,101,Pukekohe,Secondary,521115,Opuawhanga,250,0,
+7,Taranaki,250,Opunake,Minor,553200,Opunake,1390,8,1.1
+2,Auckland,4,Central Auckland Zone,Main,516400,Orakei North,5910,24,0.8
+2,Auckland,4,Central Auckland Zone,Main,516201,Orakei South,3840,12,0.6
+14,Otago,114,Oamaru,Secondary,601020,Orana Park,2530,7,0.5
+2,Auckland,4,Central Auckland Zone,Main,519900,Oranga,4510,19,0.8
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,598312,Orari,4800,11,0.4
+2,Auckland,3,Western Auckland Zone,Main,512906,Oratia,3730,6,0.3
+2,Auckland,3,Western Auckland Zone,Main,512905,Oratia West,240,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610052,Oreti Beach,580,2,0.7
+2,Auckland,2,Northern Auckland Zone,Main,505805,Orewa,9170,24,0.5
+2,Auckland,2,Northern Auckland Zone,Main,506202,Orewa West,180,1,1.1
+9,Wellington,20,Wellington Zone,Main,576600,Oriental Bay,1120,6,1
+4,BayofPlenty,104,Whakatane,Secondary,542511,Orini,560,4,1.4
+2,Auckland,5,Southern Auckland Zone,Main,523713,Ormiston,7310,18,0.5
+8,Manawatu-Wanganui,106,Feilding,Secondary,560411,Oroua Bridge,240,5,4
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,561422,Oroua Downs-Waitohi,3400,6,0.3
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584405,Orowaiti,710,1,0.3
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541335,Oruanui,2390,12,1
+14,Otago,23,Dunedin,Main,603602,Otago University,5280,49,1.8
+2,Auckland,4,Central Auckland Zone,Main,521803,Otahuhu East,2320,7,0.6
+2,Auckland,4,Central Auckland Zone,Main,521801,Otahuhu North,3110,24,1.5
+2,Auckland,4,Central Auckland Zone,Main,521901,Otahuhu West,5400,148,5.2
+9,Wellington,25,Kapiti,Main,565902,Otaihanga,1310,3,0.4
+1,Northland,1,Whangarei,Main,502005,Otaika-Portland,1160,0,
+15,Southland,24,Invercargill,Main,611210,Otakaro Park,820,73,17
+9,Wellington,262,Otaki,Minor,564400,Otaki,6120,12,0.4
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,564022,Otaki Forks,1560,4,0.5
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542530,Otakiri,3870,4,0.2
+8,Manawatu-Wanganui,15,Wanganui,Main,555200,Otamatea,1280,0,
+6,Hawke'sBay,501,Rural Centre,Rural,549400,Otane,580,0,
+1,Northland,1,Whangarei,Main,502400,Otangarei,2110,19,1.7
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,532700,Otangiwai-Heao,840,1,0.2
+2,Auckland,5,Southern Auckland Zone,Main,523502,Otara East,5150,31,1.2
+2,Auckland,5,Southern Auckland Zone,Main,523501,Otara North,1870,74,7.6
+2,Auckland,5,Southern Auckland Zone,Main,523601,Otara South,3830,34,1.7
+2,Auckland,5,Southern Auckland Zone,Main,523402,Otara West,3580,16,0.9
+15,Southland,24,Invercargill,Main,609922,Otatara,2680,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,521153,Otaua,2520,2,0.2
+15,Southland,501,Rural Centre,Rural,612600,Otautau,720,2,0.5
+13,Canterbury,501,Rural Centre,Rural,600830,Otematata,190,0,
+2,Auckland,3,Western Auckland Zone,Main,512902,Otimai,3170,2,0.1
+13,Canterbury,113,Timaru,Secondary,598202,Otipua Creek-Washdyke Flat,660,1,0.3
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585315,Otira,60,0,
+3,Waikato,218,Otorohanga,Minor,531200,Otorohanga,2640,13,0.9
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531304,Otorohanga Rural East,4240,9,0.4
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531301,Otorohanga Rural West,1980,2,0.2
+4,BayofPlenty,9,Tauranga,Main,537201,Otumoetai North,4010,9,0.4
+4,BayofPlenty,9,Tauranga,Main,537202,Otumoetai South,3690,4,0.2
+5,Gisborne,11,Gisborne,Main,544702,Outer Kaiti,2490,34,2.6
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609031,Outer Wakatipu,740,4,1
+14,Otago,501,Rural Centre,Rural,602200,Outram,760,2,0.5
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,549901,Owahanga,510,0,
+2,Auckland,4,Central Auckland Zone,Main,517903,Owairaka East,4670,11,0.5
+2,Auckland,4,Central Auckland Zone,Main,517902,Owairaka West,2860,20,1.3
+14,Otago,501,Rural Centre,Rural,607200,Owaka,300,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,532300,Owhango,190,1,1
+4,BayofPlenty,10,Rotorua,Main,538742,Owhata East,2200,7,0.6
+4,BayofPlenty,10,Rotorua,Main,538731,Owhata South,630,1,0.3
+4,BayofPlenty,10,Rotorua,Main,538741,Owhata West,3690,23,1.2
+13,Canterbury,280,Oxford,Minor,586802,Oxford,2100,4,0.4
+4,BayofPlenty,9,Tauranga,Main,536515,Pacific View,3110,5,0.3
+9,Wellington,25,Kapiti,Main,566200,Paekakariki,1750,2,0.2
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,565700,Paekakariki Hill,150,0,
+4,BayofPlenty,501,Rural Centre,Rural,536651,Paengaroa,960,4,0.8
+2,Auckland,101,Pukekohe,Secondary,521111,Paerata-Cape Hill,1170,2,0.3
+3,Waikato,228,Paeroa,Minor,534300,Paeroa,4280,18,0.8
+8,Manawatu-Wanganui,263,Pahiatua,Minor,578000,Pahiatua,2480,8,0.6
+2,Auckland,5,Southern Auckland Zone,Main,525540,Pahurehure,3330,15,0.9
+1,Northland,205,Paihia,Minor,501100,Paihia,1900,27,2.7
+6,Hawke'sBay,13,Hastings Zone,Main,545852,Pakipaki,690,2,0.6
+6,Hawke'sBay,13,Hastings Zone,Main,545832,Pakowhai,650,6,1.8
+2,Auckland,5,Southern Auckland Zone,Main,522910,Pakuranga Central,3900,13,0.6
+2,Auckland,5,Southern Auckland Zone,Main,523000,Pakuranga East,5640,10,0.3
+2,Auckland,5,Southern Auckland Zone,Main,522810,Pakuranga North,4820,5,0.2
+4,BayofPlenty,9,Tauranga,Main,536516,Palm Beach,3870,29,1.4
+2,Auckland,3,Western Auckland Zone,Main,513012,Palm Heights,2820,4,0.3
+4,BayofPlenty,9,Tauranga,Main,536202,Palm Springs,5080,7,0.3
+14,Otago,501,Rural Centre,Rural,601200,Palmerston,840,3,0.7
+8,Manawatu-Wanganui,16,Palmerston North,Main,562800,Palmerston North Central,3060,190,11.9
+8,Manawatu-Wanganui,16,Palmerston North,Main,562401,Palmerston North Hospital,2760,33,2.3
+2,Auckland,4,Central Auckland Zone,Main,520602,Panmure Basin,2970,28,1.8
+8,Manawatu-Wanganui,16,Palmerston North,Main,562402,Papaeoia,2800,13,0.9
+9,Wellington,19,Porirua Zone,Main,571501,Papakowhai North,2360,3,0.2
+9,Wellington,19,Porirua Zone,Main,571502,Papakowhai South,2530,4,0.3
+2,Auckland,5,Southern Auckland Zone,Main,525410,Papakura Central,2290,85,7.1
+2,Auckland,5,Southern Auckland Zone,Main,525610,Papakura East,6770,60,1.7
+2,Auckland,5,Southern Auckland Zone,Main,525420,Papakura North,2640,44,3.2
+2,Auckland,5,Southern Auckland Zone,Main,525630,Papakura North East,4600,18,0.7
+2,Auckland,5,Southern Auckland Zone,Main,525510,Papakura South,1850,25,2.6
+4,BayofPlenty,9,Tauranga,Main,536201,Papamoa Beach East,3740,10,0.5
+13,Canterbury,22,Christchurch,Main,591900,Papanui,3820,28,1.4
+9,Wellington,20,Wellington Zone,Main,573901,Paparangi,1830,4,0.4
+9,Wellington,20,Wellington Zone,Main,573801,Paparangi West,1190,0,
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521134,Paparata,260,0,
+13,Canterbury,22,Christchurch,Main,587821,Paparua,890,121,26
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,550200,Papatawa,1060,5,0.9
+2,Auckland,5,Southern Auckland Zone,Main,522202,Papatoetoe Central,5120,109,4.1
+2,Auckland,5,Southern Auckland Zone,Main,522302,Papatoetoe East,6050,35,1.1
+2,Auckland,5,Southern Auckland Zone,Main,522201,Papatoetoe North,6120,44,1.4
+2,Auckland,5,Southern Auckland Zone,Main,522100,Papatoetoe West,6340,47,1.4
+1,Northland,1,Whangarei,Main,503700,Parahaki,1250,3,0.5
+7,Taranaki,14,New Plymouth,Main,550902,Paraite,420,6,2.7
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506644,Parakai Rural,620,0,
+2,Auckland,501,Rural Centre,Rural,506645,Parakai Urban,1120,8,1.4
+3,Waikato,102,Tokoroa,Secondary,535310,Paraonui,1830,14,1.5
+9,Wellington,25,Kapiti,Main,565901,Paraparaumu Beach North,3690,11,0.6
+9,Wellington,25,Kapiti,Main,565903,Paraparaumu Beach South,5070,12,0.5
+9,Wellington,25,Kapiti,Main,566000,Paraparaumu Central,8920,69,1.5
+3,Waikato,226,Thames,Minor,533502,Parawai,4500,18,0.8
+9,Wellington,19,Porirua Zone,Main,572100,Paremata-Postgate,2650,2,0.1
+2,Auckland,2,Northern Auckland Zone,Main,509000,Paremoremo East,2880,23,1.5
+2,Auckland,2,Northern Auckland Zone,Main,506400,Paremoremo West,870,0,
+13,Canterbury,501,Rural Centre,Rural,598314,Pareora,450,2,0.8
+3,Waikato,102,Tokoroa,Secondary,535320,Parkdale,720,2,0.5
+13,Canterbury,22,Christchurch,Main,590602,Parklands,5050,12,0.5
+13,Canterbury,113,Timaru,Secondary,599700,Parkside,2580,17,1.3
+6,Hawke'sBay,13,Hastings Zone,Main,548100,Parkvale,3250,11,0.6
+9,Wellington,18,Lower Hutt Zone,Main,564900,Parkway,3270,40,2.3
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,585601,Parnassus,1030,1,0.2
+2,Auckland,4,Central Auckland Zone,Main,515901,Parnell East,2890,3,0.2
+2,Auckland,4,Central Auckland Zone,Main,515902,Parnell West,5460,29,1
+2,Auckland,3,Western Auckland Zone,Main,512904,Parrs Park,1520,6,0.8
+2,Auckland,3,Western Auckland Zone,Main,512903,Parrs Park West,2320,14,1.2
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501818,Parua Bay,2200,3,0.3
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501817,Pataua-Whareora,1300,1,0.1
+7,Taranaki,253,Patea,Minor,554700,Patea,1150,12,2
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,521121,Patumahoe,2830,4,0.3
+5,Gisborne,501,Rural Centre,Rural,543800,Patutahi,370,0,
+3,Waikato,501,Rural Centre,Rural,533602,Pauanui Beach,770,1,0.2
+9,Wellington,19,Porirua Zone,Main,565601,Pauatahanui,1100,5,0.9
+3,Waikato,6,Hamilton Zone,Main,530100,Peachgrove,3450,39,2.2
+3,Waikato,6,Hamilton Zone,Main,527810,Peacocke,740,1,0.3
+13,Canterbury,501,Rural Centre,Rural,586124,Pegasus,1610,0,
+9,Wellington,25,Kapiti,Main,563704,Peka Peka,380,0,
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,553004,Pembroke,1270,4,0.6
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,565400,Pencarrow,570,1,0.3
+2,Auckland,4,Central Auckland Zone,Main,519500,Penrose,780,42,10.3
+9,Wellington,18,Lower Hutt Zone,Main,569900,Petone Central,920,20,4.2
+13,Canterbury,22,Christchurch,Main,593502,Phillipstown,4300,43,1.9
+18,Marlborough,268,Picton,Minor,581100,Picton,2920,23,1.5
+2,Auckland,5,Southern Auckland Zone,Main,522711,Pigeon Mountain North,3610,3,0.2
+2,Auckland,5,Southern Auckland Zone,Main,522721,Pigeon Mountain South,1450,1,0.1
+14,Otago,23,Dunedin,Main,603400,Pine Hill,2450,3,0.2
+9,Wellington,17,Upper Hutt Zone,Main,564530,Pinehaven,2840,1,0.1
+2,Auckland,2,Northern Auckland Zone,Main,508804,Pinehill,4530,1,0
+13,Canterbury,22,Christchurch,Main,586002,Pines-Kairaki Beach,500,0,
+3,Waikato,501,Rural Centre,Rural,531500,Piopio,430,2,0.9
+6,Hawke'sBay,12,Napier Zone,Main,547400,Pirimai,3570,7,0.4
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527922,Pirongia,1500,3,0.4
+13,Canterbury,112,Ashburton,Secondary,597712,Plains Railway,630,0,
+8,Manawatu-Wanganui,107,Levin,Secondary,564231,Playford Park,3480,17,0.9
+13,Canterbury,284,Pleasant Point,Minor,598320,Pleasant Point,1350,2,0.3
+9,Wellington,19,Porirua Zone,Main,571900,Plimmerton,2200,3,0.3
+9,Wellington,17,Upper Hutt Zone,Main,567500,Poets Block,2350,3,0.2
+4,BayofPlenty,10,Rotorua,Main,538721,Poets Corner,280,2,1.4
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,560000,Pohangina,1160,2,0.3
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,559220,Pohonui-Porewa,2090,2,0.2
+4,BayofPlenty,9,Tauranga,Main,537800,Poike,800,4,1
+2,Auckland,4,Central Auckland Zone,Main,515002,Point Chevalier East,4880,33,1.3
+2,Auckland,4,Central Auckland Zone,Main,515003,Point Chevalier South,1790,14,1.5
+2,Auckland,4,Central Auckland Zone,Main,515001,Point Chevalier West,3840,10,0.5
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584923,Point Elizabeth,80,0,
+2,Auckland,4,Central Auckland Zone,Main,517100,Point England,5050,29,1.1
+2,Auckland,5,Southern Auckland Zone,Main,523114,Point View,5830,4,0.1
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506657,Point Wells,420,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,521131,Pokeno,2130,11,1
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501620,Pokere-Waihaha,2650,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527923,Pokuru,560,3,1
+4,BayofPlenty,10,Rotorua,Main,539800,Pomare,1700,8,0.9
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536654,Pongakawa,2780,9,0.6
+2,Auckland,4,Central Auckland Zone,Main,515302,Ponsonby East,3790,22,1.1
+2,Auckland,4,Central Auckland Zone,Main,515301,Ponsonby West,2780,5,0.3
+6,Hawke'sBay,12,Napier Zone,Main,545621,Poraiti,2130,1,0.1
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,549601,Porangahau,200,2,1.9
+9,Wellington,19,Porirua Zone,Main,570800,Porirua Central,410,96,44.8
+9,Wellington,19,Porirua Zone,Main,570900,Porirua East,2130,16,1.4
+4,BayofPlenty,104,Whakatane,Secondary,542520,Poroporo,620,0,
+3,Waikato,6,Hamilton Zone,Main,529501,Porritt,1940,11,1.1
+14,Otago,23,Dunedin,Main,605200,Port Chalmers,1410,6,0.8
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,596600,Port Levy,80,0,
+17,Nelson,21,Nelson,Main,582200,Port Nelson,90,0,
+1,Northland,1,Whangarei,Main,503900,Port-Limeburners,50,7,26.8
+7,Taranaki,506,Inlet-not in TA,Rural,621401,Port-Taranaki,0,0,
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545851,Poukawa,1370,0,
+13,Canterbury,22,Christchurch,Main,587848,Prebbleton,2850,1,0.1
+13,Canterbury,22,Christchurch,Main,590507,Prestons,690,6,1.7
+2,Auckland,5,Southern Auckland Zone,Main,522400,Puhinui North,4840,28,1.1
+2,Auckland,5,Southern Auckland Zone,Main,524603,Puhinui South,3110,65,4
+4,BayofPlenty,10,Rotorua,Main,539310,Pukehangi North,2260,16,1.4
+4,BayofPlenty,10,Rotorua,Main,539320,Pukehangi South,2950,9,0.6
+2,Auckland,101,Pukekohe,Secondary,525910,Pukekohe North,9980,91,1.7
+2,Auckland,101,Pukekohe,Secondary,525921,Pukekohe West,7450,20,0.5
+3,Waikato,215,Waiuku,Minor,526106,Pukeoware,250,0,
+3,Waikato,7,Cambridge Zone,Main,527931,Pukerimu,650,1,0.3
+9,Wellington,19,Porirua Zone,Main,571800,Pukerua Bay,1920,1,0.1
+3,Waikato,6,Hamilton Zone,Main,528320,Pukete,2500,3,0.2
+3,Waikato,6,Hamilton Zone,Main,528402,Pukete West,2190,5,0.4
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545912,Puketitiri,360,1,0.5
+14,Otago,114,Oamaru,Secondary,600811,Pukeuri,220,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501814,Punaruku-Kiripaka,4540,7,0.3
+3,Waikato,233,Putaruru,Minor,535600,Putaruru,3970,26,1.3
+8,Manawatu-Wanganui,15,Wanganui,Main,558100,Putiki,340,0,
+4,BayofPlenty,9,Tauranga,Main,537602,Pyes Pa,7040,5,0.1
+13,Canterbury,22,Christchurch,Main,596504,Quail Island,0,0,
+14,Otago,117,Queenstown,Secondary,609304,Queenstown Bay,2360,90,7.3
+14,Otago,117,Queenstown,Secondary,609302,Queenstown Hill,4100,113,5.3
+3,Waikato,6,Hamilton Zone,Main,529401,Queenwood,3330,4,0.2
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581834,Rabbit Island,0,2,
+8,Manawatu-Wanganui,255,Raetihi,Minor,555100,Raetihi,1080,12,2.1
+3,Waikato,216,Raglan,Minor,526500,Raglan,3070,19,1.2
+7,Taranaki,501,Rural Centre,Rural,553301,Rahotu,250,0,
+13,Canterbury,309,Rakaia,Minor,597742,Rakaia,1190,1,0.2
+8,Manawatu-Wanganui,106,Feilding,Secondary,561410,Rakiraki,330,1,0.6
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,616200,Rakitu Island,0,0,
+2,Auckland,5,Southern Auckland Zone,Main,523816,Randwick Park,3840,21,1
+14,Otago,501,Rural Centre,Rural,607900,Ranfurly,710,4,1.1
+3,Waikato,103,Taupo,Secondary,541318,Rangatira,90,0,
+3,Waikato,103,Taupo,Secondary,541317,Rangatira Park,780,4,1
+13,Canterbury,116,Rangiora,Secondary,586308,Rangiora Central,2040,15,1.4
+13,Canterbury,116,Rangiora,Secondary,586303,Rangiora East,2670,8,0.6
+13,Canterbury,116,Rangiora,Secondary,586306,Rangiora North,3520,20,1.1
+13,Canterbury,116,Rangiora,Secondary,586307,Rangiora West,3070,1,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541501,Rangipo,110,2,3.5
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,541342,Rangitaiki,150,1,1.3
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536653,Rangiuru,2220,9,0.8
+9,Wellington,20,Wellington Zone,Main,574304,Rangoon Heights,2660,2,0.1
+2,Auckland,3,Western Auckland Zone,Main,513213,Ranui Domain,3420,21,1.2
+9,Wellington,19,Porirua Zone,Main,571000,Ranui Heights,1370,4,0.6
+2,Auckland,3,Western Auckland Zone,Main,513214,Ranui South,3330,9,0.5
+16,Tasman,21,Nelson,Main,581726,Ranzau,810,0,
+13,Canterbury,22,Christchurch,Main,591200,Rapaki Track,1460,2,0.3
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580449,Rapaura,1240,2,0.3
+9,Wellington,20,Wellington Zone,Main,574100,Raroa,3870,5,0.2
+8,Manawatu-Wanganui,501,Rural Centre,Rural,558800,Ratana Community,360,0,
+1,Northland,1,Whangarei,Main,503500,Raumanga East,1880,28,2.8
+1,Northland,1,Whangarei,Main,503800,Raumanga West,3240,19,1.1
+9,Wellington,25,Kapiti,Main,566101,Raumati Beach,5080,7,0.3
+9,Wellington,25,Kapiti,Main,566102,Raumati South,3750,10,0.5
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545301,Raupunga,650,0,
+6,Hawke'sBay,13,Hastings Zone,Main,547900,Raureka,4510,18,0.8
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,532601,Raurimu,560,1,0.3
+14,Otago,23,Dunedin,Main,604720,Ravensbourne,1280,1,0.1
+13,Canterbury,278,Woodend,Minor,586128,Ravenswood,10,0,
+1,Northland,501,Rural Centre,Rural,500600,Rawene,540,4,1.4
+13,Canterbury,22,Christchurch,Main,595700,Rawhiti,3700,29,1.5
+2,Auckland,2,Northern Auckland Zone,Main,505808,Red Beach East,4140,13,0.6
+2,Auckland,2,Northern Auckland Zone,Main,505807,Red Beach West,2730,2,0.1
+2,Auckland,5,Southern Auckland Zone,Main,525700,Red Hill,2730,14,1
+3,Waikato,101,Pukekohe,Secondary,521114,Redoubt,220,4,3.5
+2,Auckland,5,Southern Auckland Zone,Main,523818,Redoubt East,940,1,0.2
+2,Auckland,5,Southern Auckland Zone,Main,523722,Redoubt North,5460,23,0.8
+2,Auckland,5,Southern Auckland Zone,Main,523820,Redoubt South,6990,15,0.4
+13,Canterbury,113,Timaru,Secondary,599900,Redruth,70,2,5.5
+13,Canterbury,22,Christchurch,Main,588101,Redwood North,4430,5,0.2
+13,Canterbury,22,Christchurch,Main,588102,Redwood South,3080,10,0.6
+18,Marlborough,26,Blenheim,Main,581250,Redwoodtown,5620,22,0.7
+12,WestCoast,275,Reefton,Minor,584600,Reefton,1010,3,0.6
+1,Northland,1,Whangarei,Main,502800,Regent,1750,32,3.5
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,505010,Rehia-Oneriri,5870,11,0.4
+2,Auckland,4,Central Auckland Zone,Main,516002,Remuera South,4240,15,0.7
+2,Auckland,4,Central Auckland Zone,Main,516101,Remuera West,3780,7,0.4
+18,Marlborough,26,Blenheim,Main,580300,Renwick,2230,4,0.3
+3,Waikato,501,Rural Centre,Rural,538842,Reporoa,450,1,0.4
+9,Wellington,19,Porirua Zone,Main,565603,Resolution,240,0,
+2,Auckland,3,Western Auckland Zone,Main,511402,Rewarewa,4800,8,0.3
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506652,Rewiti,2170,4,0.4
+13,Canterbury,22,Christchurch,Main,590800,Riccarton,4610,63,2.6
+13,Canterbury,22,Christchurch,Main,590900,Riccarton South,610,35,11
+13,Canterbury,22,Christchurch,Main,590702,Riccarton West,3210,8,0.5
+15,Southland,24,Invercargill,Main,611100,Richmond,2910,9,0.6
+16,Tasman,21,Nelson,Main,584201,Richmond East,6330,25,0.8
+3,Waikato,103,Taupo,Secondary,541760,Richmond Heights,2310,3,0.2
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581811,Richmond Hill,80,0,
+13,Canterbury,22,Christchurch,Main,593200,Richmond North,2380,19,1.5
+13,Canterbury,22,Christchurch,Main,593300,Richmond South,1990,12,1.2
+16,Tasman,21,Nelson,Main,584202,Richmond West,6600,15,0.4
+5,Gisborne,11,Gisborne,Main,544900,Riverdale,2280,17,1.4
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506653,Riverhead,3510,0,
+2,Auckland,3,Western Auckland Zone,Main,505603,Riverhead Urban,1490,4,0.5
+18,Marlborough,26,Blenheim,Main,580432,Riverlands,480,1,0.4
+3,Waikato,6,Hamilton Zone,Main,530800,Riverlea,2830,11,0.7
+15,Southland,501,Rural Centre,Rural,609500,Riversdale Community,380,1,0.5
+1,Northland,1,Whangarei,Main,503200,Riverside,790,4,1
+9,Wellington,17,Upper Hutt Zone,Main,564602,Riverstone Terraces,1500,0,
+15,Southland,299,Riverton,Minor,612801,Riverton East,460,8,3.3
+15,Southland,299,Riverton,Minor,612802,Riverton West,1050,2,0.4
+16,Tasman,501,Rural Centre,Rural,581850,Riwaka,910,8,1.7
+2,Auckland,4,Central Auckland Zone,Main,514401,Roberton,5890,42,1.4
+13,Canterbury,300,Rolleston,Minor,597508,Rolleston Central,3270,4,0.2
+13,Canterbury,300,Rolleston,Minor,597509,Rolleston North East,2570,4,0.3
+13,Canterbury,300,Rolleston,Minor,597507,Rolleston North West,2330,0,
+13,Canterbury,300,Rolleston,Minor,597513,Rolleston South East,1320,2,0.3
+13,Canterbury,300,Rolleston,Minor,597510,Rolleston South West,2330,0,
+2,Auckland,5,Southern Auckland Zone,Main,523711,Rongomai,5210,50,1.8
+8,Manawatu-Wanganui,501,Rural Centre,Rural,561000,Rongotea,620,1,0.3
+2,Auckland,4,Central Auckland Zone,Main,514801,Rosebank,5190,23,0.8
+15,Southland,24,Invercargill,Main,610700,Rosedale,4100,4,0.2
+2,Auckland,5,Southern Auckland Zone,Main,525530,Rosehill,3550,18,1
+9,Wellington,20,Wellington Zone,Main,576700,Roseneath,1840,4,0.4
+8,Manawatu-Wanganui,16,Palmerston North,Main,562500,Roslyn,5910,29,0.9
+14,Otago,23,Dunedin,Main,604010,Roslyn North,1870,1,0.1
+14,Otago,23,Dunedin,Main,604020,Roslyn South,2350,6,0.5
+12,WestCoast,501,Rural Centre,Rural,585309,Ross,290,1,0.7
+99,AreaOutside,511,Oceanic,Rural,628000,Ross Dependency,0,0,
+2,Auckland,2,Northern Auckland Zone,Main,507200,Rothesay Bay,5880,4,0.1
+3,Waikato,6,Hamilton Zone,Main,528406,Rotokauri,170,3,3.4
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542540,Rotoma,1840,4,0.4
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,528000,Rotongata,860,1,0.2
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527934,Rotoorangi,2020,4,0.4
+3,Waikato,6,Hamilton Zone,Main,527008,Rototuna,3440,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,526400,Rotowaro,0,0,
+2,Auckland,5,Southern Auckland Zone,Main,524713,Rowandale,3570,19,1
+14,Otago,501,Rural Centre,Rural,607800,Roxburgh,560,3,1
+2,Auckland,3,Western Auckland Zone,Main,513530,Royal Heights,6700,23,0.7
+2,Auckland,4,Central Auckland Zone,Main,518600,Royal Oak,6120,14,0.4
+2,Auckland,3,Western Auckland Zone,Main,513512,Royal Road West,3060,12,0.7
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545204,Ruakituri-Morere,720,1,0.3
+5,Gisborne,501,Rural Centre,Rural,543302,Ruatoria,830,7,1.6
+1,Northland,501,Rural Centre,Rural,504800,Ruawai,470,0,
+12,WestCoast,111,Greymouth,Secondary,585000,Runanga-Rapahoe,1260,3,0.5
+2,Auckland,5,Southern Auckland Zone,Main,521302,Runciman,540,2,0.7
+1,Northland,501,Rural Centre,Rural,501000,Russell,790,3,0.7
+13,Canterbury,22,Christchurch,Main,588800,Russley,3400,2,0.1
+13,Canterbury,22,Christchurch,Main,592300,Rutland,5360,8,0.3
+14,Otago,23,Dunedin,Main,602422,Saddle Hill,1020,3,0.6
+2,Auckland,4,Central Auckland Zone,Main,517703,Sandringham East,3640,6,0.3
+2,Auckland,4,Central Auckland Zone,Main,517701,Sandringham North,3530,23,1.2
+2,Auckland,4,Central Auckland Zone,Main,517702,Sandringham West,5390,26,0.9
+14,Otago,23,Dunedin,Main,604902,Sandymount,170,0,
+8,Manawatu-Wanganui,501,Rural Centre,Rural,560900,Sanson,550,3,1
+13,Canterbury,22,Christchurch,Main,588402,Sawyers Arms,3410,9,0.5
+14,Otago,23,Dunedin,Main,605100,Sawyers Bay,1300,0,
+17,Nelson,21,Nelson,Main,581723,Saxton,2140,4,0.4
+17,Nelson,21,Nelson,Main,581721,Saxton Island,0,0,
+2,Auckland,2,Northern Auckland Zone,Main,508110,Seacliffe,3740,5,0.3
+9,Wellington,20,Wellington Zone,Main,577500,Seatoun,2390,1,0.1
+9,Wellington,20,Wellington Zone,Main,577101,Seatoun Tunnel West,720,1,0.3
+13,Canterbury,113,Timaru,Secondary,599500,Seaview,2540,78,5.9
+9,Wellington,507,Inlet-in TA but not in Urban Area,Rural,622102,Seaview Marina,40,0,
+18,Marlborough,501,Rural Centre,Rural,580802,Seddon,540,0,
+13,Canterbury,501,Rural Centre,Rural,585805,Sefton,680,1,0.3
+4,BayofPlenty,10,Rotorua,Main,539000,Selwyn Heights,1160,4,0.7
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,597506,Selwyn-Rakaia,4370,4,0.2
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580600,Severn,0,0,
+8,Manawatu-Wanganui,261,Shannon,Minor,563500,Shannon,1310,8,1.2
+2,Auckland,5,Southern Auckland Zone,Main,523201,Shelly Park,2310,0,
+2,Auckland,4,Central Auckland Zone,Main,518102,Sherbourne,3070,5,0.3
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545821,Sherenden-Puketapu,2840,1,0.1
+1,Northland,1,Whangarei,Main,504000,Sherwood Rise,4170,24,1.1
+13,Canterbury,22,Christchurch,Main,592702,Shirley East,3580,68,3.6
+13,Canterbury,22,Christchurch,Main,592701,Shirley West,3900,18,0.9
+3,Waikato,6,Hamilton Zone,Main,530600,Silverdale,2840,9,0.6
+2,Auckland,2,Northern Auckland Zone,Main,505806,Silverdale Central,3040,6,0.4
+2,Auckland,2,Northern Auckland Zone,Main,506201,Silverdale North,890,0,
+2,Auckland,2,Northern Auckland Zone,Main,506003,Silverdale South,1190,2,0.3
+13,Canterbury,22,Christchurch,Main,586504,Silverstream,210,0,
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,666671,Snares Island,0,0,
+2,Auckland,212,Snells Beach,Minor,506631,Snells Beach,3890,10,0.5
+13,Canterbury,22,Christchurch,Main,587701,Sockburn,6760,28,0.8
+9,Wellington,109,Masterton,Secondary,578901,Solway North,2480,15,1.2
+9,Wellington,109,Masterton,Secondary,578902,Solway South,3170,10,0.6
+13,Canterbury,22,Christchurch,Main,595400,Somerfield,3890,8,0.4
+12,WestCoast,111,Greymouth,Secondary,584912,South Beach-Camerons,1270,5,0.8
+13,Canterbury,22,Christchurch,Main,595900,South Brighton,3340,8,0.5
+14,Otago,23,Dunedin,Main,604410,South Dunedin,2530,35,2.6
+15,Southland,301,Gore,Minor,610250,South Gore,860,1,0.2
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506642,South Head,1610,4,0.5
+2,Auckland,215,Waiuku,Minor,526105,South Waiuku,1720,1,0.1
+13,Canterbury,501,Rural Centre,Rural,597400,Southbridge,940,4,0.8
+13,Canterbury,116,Rangiora,Secondary,586304,Southbrook,860,1,0.2
+7,Taranaki,14,New Plymouth,Main,551502,Spotswood,2170,14,1.2
+13,Canterbury,22,Christchurch,Main,595000,Spreydon,3790,37,1.9
+8,Manawatu-Wanganui,15,Wanganui,Main,557000,Spriggens Park,310,14,8.6
+18,Marlborough,26,Blenheim,Main,580431,Spring Creek-Grovetown,1290,4,0.6
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,534603,Springdale,2560,1,0.1
+4,BayofPlenty,10,Rotorua,Main,540000,Springfield,4280,6,0.3
+18,Marlborough,26,Blenheim,Main,581210,Springlands,4410,5,0.2
+2,Auckland,4,Central Auckland Zone,Main,517901,Springleigh,3050,35,2.2
+1,Northland,1,Whangarei,Main,502001,Springs Flat,1610,4,0.5
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,597512,Springston,3270,4,0.2
+8,Manawatu-Wanganui,15,Wanganui,Main,556600,Springvale East,1940,3,0.3
+8,Manawatu-Wanganui,15,Wanganui,Main,556500,Springvale West,1370,1,0.1
+13,Canterbury,22,Christchurch,Main,592402,St Albans East,4930,19,0.7
+13,Canterbury,22,Christchurch,Main,592401,St Albans West,2560,6,0.4
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,600420,St Andrews,190,0,
+14,Otago,23,Dunedin,Main,604500,St Clair,4390,9,0.4
+2,Auckland,4,Central Auckland Zone,Main,516700,St Heliers,5380,4,0.1
+2,Auckland,4,Central Auckland Zone,Main,517201,St Johns,2910,15,1
+8,Manawatu-Wanganui,15,Wanganui,Main,557200,St Johns Hill,2230,2,0.2
+14,Otago,23,Dunedin,Main,605500,St Kilda Central,1770,9,1
+14,Otago,23,Dunedin,Main,605600,St Kilda East,2720,9,0.6
+14,Otago,23,Dunedin,Main,605400,St Kilda West,1910,7,0.7
+6,Hawke'sBay,13,Hastings Zone,Main,547700,St Leonards,3030,33,2.1
+14,Otago,23,Dunedin,Main,604710,St Leonards-Blanket Bay,810,1,0.2
+2,Auckland,4,Central Auckland Zone,Main,517600,St Lukes,5290,11,0.4
+2,Auckland,4,Central Auckland Zone,Main,515432,St Lukes North,870,2,0.4
+13,Canterbury,22,Christchurch,Main,594400,St Martins,4420,10,0.4
+2,Auckland,4,Central Auckland Zone,Main,515202,St Marys,3480,10,0.5
+2,Auckland,2,Northern Auckland Zone,Main,509500,Stanley Bay,2440,0,
+3,Waikato,102,Tokoroa,Secondary,535340,Stanley Park,2150,13,1.2
+2,Auckland,2,Northern Auckland Zone,Main,505908,Stanmore Bay East,2790,3,0.2
+2,Auckland,2,Northern Auckland Zone,Main,505907,Stanmore Bay West,2790,7,0.5
+2,Auckland,3,Western Auckland Zone,Main,513212,Starling Park,3040,8,0.5
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,613000,Stewart Island,400,3,1.4
+2,Auckland,2,Northern Auckland Zone,Main,506002,Stillwater,920,0,
+14,Otago,501,Rural Centre,Rural,606600,Stirling,320,0,
+2,Auckland,4,Central Auckland Zone,Main,517202,Stonefields,2930,1,0.1
+8,Manawatu-Wanganui,16,Palmerston North,Main,560301,Stoney Creek,860,1,0.2
+7,Taranaki,249,Stratford,Minor,553102,Stratford East,2270,14,1.2
+7,Taranaki,249,Stratford,Minor,553101,Stratford West,3340,25,1.4
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,602600,Strath Taieri,430,0,
+15,Southland,24,Invercargill,Main,611602,Strathern,2480,13,1
+3,Waikato,102,Tokoroa,Secondary,535370,Strathmore,2180,14,1.2
+9,Wellington,20,Wellington Zone,Main,577102,Strathmore Park,3940,9,0.4
+13,Canterbury,22,Christchurch,Main,592100,Strowan,3980,5,0.2
+7,Taranaki,14,New Plymouth,Main,552500,Struan Park,5130,6,0.2
+14,Otago,23,Dunedin,Main,603100,Stuart St-Frederick St,3360,154,8.8
+2,Auckland,3,Western Auckland Zone,Main,513220,Sturges North,7830,31,0.8
+13,Canterbury,22,Christchurch,Main,590604,Styx,2270,7,0.6
+13,Canterbury,22,Christchurch,Main,588200,Styx Mill,3350,8,0.5
+4,BayofPlenty,9,Tauranga,Main,538202,Sulphur Point,30,4,25.5
+13,Canterbury,22,Christchurch,Main,596200,Sumner,3870,10,0.5
+2,Auckland,2,Northern Auckland Zone,Main,508620,Sunnybrae,3510,11,0.6
+4,BayofPlenty,10,Rotorua,Main,539500,Sunnybrook,2000,9,0.9
+2,Auckland,5,Southern Auckland Zone,Main,522820,Sunnyhills,3690,7,0.4
+2,Auckland,2,Northern Auckland Zone,Main,508520,Sunnynook,7220,7,0.2
+2,Auckland,3,Western Auckland Zone,Main,511800,Sunnyvale,4480,8,0.3
+14,Otago,117,Queenstown,Secondary,609023,Sunshine Bay,2590,4,0.3
+8,Manawatu-Wanganui,220,Taumarunui,Minor,532903,Sunshine-Hospital Hill,540,0,
+2,Auckland,4,Central Auckland Zone,Main,515431,Surrey Crescent,3240,22,1.3
+2,Auckland,3,Western Auckland Zone,Main,513101,Swanson,1360,10,1.4
+2,Auckland,3,Western Auckland Zone,Main,513102,Swanson South,1210,1,0.2
+3,Waikato,6,Hamilton Zone,Main,529000,Swarbrick,5100,28,1
+3,Waikato,7,Cambridge Zone,Main,527134,Swayne,1610,2,0.2
+13,Canterbury,22,Christchurch,Main,594600,Sydenham,6280,70,2.1
+3,Waikato,6,Hamilton Zone,Main,527005,Sylvester,2850,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531600,Taharoa,250,0,
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,541503,Taharua,60,1,3.2
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536614,Tahawai,1800,5,0.5
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506614,Tahekeroa,4140,3,0.1
+17,Nelson,21,Nelson,Main,583100,Tahuna Hills,2400,2,0.2
+17,Nelson,21,Nelson,Main,583000,Tahunanui,2230,21,1.8
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,534500,Tahuroa,2820,1,0.1
+14,Otago,23,Dunedin,Main,604901,Taiaroa-Cape Saunders,470,1,0.4
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,602500,Taieri,3010,4,0.3
+8,Manawatu-Wanganui,258,Taihape,Minor,559400,Taihape,1640,21,2.4
+1,Northland,201,Taipa Bay-Mangonui,Minor,500203,Taipa Bay-Mangonui,1840,12,1.2
+3,Waikato,224,Tairua,Minor,533400,Tairua,1330,2,0.3
+9,Wellington,18,Lower Hutt Zone,Main,568201,Taita North,2750,11,0.8
+9,Wellington,18,Lower Hutt Zone,Main,568202,Taita South,3100,23,1.4
+13,Canterbury,501,Rural Centre,Rural,587905,Taitapu,710,1,0.3
+9,Wellington,20,Wellington Zone,Main,575400,Taitville,510,0,
+16,Tasman,270,Takaka,Minor,581602,Takaka,1290,17,2.5
+2,Auckland,5,Southern Auckland Zone,Main,523911,Takanini North,3980,42,2
+2,Auckland,5,Southern Auckland Zone,Main,523912,Takanini South,5630,56,1.9
+2,Auckland,5,Southern Auckland Zone,Main,523920,Takanini West,4910,22,0.9
+6,Hawke'sBay,501,Rural Centre,Rural,549000,Takapau,530,4,1.4
+9,Wellington,20,Wellington Zone,Main,573525,Takapu,340,0,
+2,Auckland,2,Northern Auckland Zone,Main,508010,Takapuna Central,3390,56,3.2
+8,Manawatu-Wanganui,16,Palmerston North,Main,562310,Takaro,5470,28,1
+3,Waikato,6,Hamilton Zone,Main,527131,Tamahere-Tauwhare,6110,2,0.1
+2,Auckland,4,Central Auckland Zone,Main,520601,Tamaki,5010,37,1.4
+2,Auckland,506,Inlet-not in TA,Rural,617703,Tamaki Strait,20,1,9.6
+5,Gisborne,11,Gisborne,Main,544802,Tamarau,2560,24,1.8
+6,Hawke'sBay,12,Napier Zone,Main,547001,Tamatea North,2600,16,1.2
+6,Hawke'sBay,12,Napier Zone,Main,547002,Tamatea South,2690,8,0.6
+4,BayofPlenty,501,Rural Centre,Rural,542100,Taneatua,790,3,0.7
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,561100,Tangimoana,220,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,554900,Tangiwai,1280,2,0.3
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545811,Tangoio,720,3,0.8
+2,Auckland,3,Western Auckland Zone,Main,511001,Tangutu,3410,10,0.6
+14,Otago,501,Rural Centre,Rural,607600,Tapanui,770,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535232,Tapapa,1030,3,0.6
+16,Tasman,501,Rural Centre,Rural,581844,Tapawera,390,3,1.5
+6,Hawke'sBay,12,Napier Zone,Main,547200,Taradale North,5600,6,0.2
+6,Hawke'sBay,12,Napier Zone,Main,547300,Taradale South,5580,14,0.5
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585314,Taramakau,250,1,0.8
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,538832,Tarawera,1470,1,0.1
+2,Auckland,2,Northern Auckland Zone,Main,508420,Target Road,7260,18,0.5
+5,Gisborne,502,Rural (Incl.some Off Shore Islands),Rural,543601,Tarndale-Rakauroa,1540,1,0.1
+8,Manawatu-Wanganui,220,Taumarunui,Minor,532901,Tarrangower,1190,7,1.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541334,Tatua,330,4,2.3
+3,Waikato,103,Taupo,Secondary,541730,Tauhara,4430,34,1.5
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506613,Tauhoa-Puhoi,4890,4,0.2
+8,Manawatu-Wanganui,220,Taumarunui,Minor,532902,Taumarunui Central,2310,26,2.2
+2,Auckland,3,Western Auckland Zone,Main,513701,Taupaki,950,0,
+3,Waikato,6,Hamilton Zone,Main,527112,Taupiri Community,470,1,0.4
+3,Waikato,103,Taupo,Secondary,541720,Taupo Central,3900,90,4.4
+3,Waikato,103,Taupo,Secondary,541315,Taupo East,10,2,38.2
+4,BayofPlenty,9,Tauranga,Main,538201,Tauranga Central,2270,167,14.1
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,536822,Tauranga City-Marinas,80,0,
+4,BayofPlenty,9,Tauranga,Main,538101,Tauranga Hospital,2020,42,4
+4,BayofPlenty,9,Tauranga,Main,538102,Tauranga South,4530,32,1.4
+9,Wellington,20,Wellington Zone,Main,572600,Tawa Central,4600,20,0.8
+9,Wellington,20,Wellington Zone,Main,572500,Tawa South,3730,8,0.4
+9,Wellington,18,Lower Hutt Zone,Main,568101,Tawhai,3460,5,0.3
+8,Manawatu-Wanganui,15,Wanganui,Main,556100,Tawhero,1920,6,0.6
+7,Taranaki,105,Hawera,Secondary,554113,Tawhiti,820,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,526702,Te Akau,1010,2,0.4
+15,Southland,298,Te Anau,Minor,612400,Te Anau,2000,5,0.5
+3,Waikato,230,Te Aroha,Minor,534800,Te Aroha,4200,17,0.8
+2,Auckland,3,Western Auckland Zone,Main,512300,Te Atatu Central,5250,8,0.3
+3,Waikato,8,Te Awamutu Zone,Main,531002,Te Awamutu Central,3560,21,1.1
+3,Waikato,8,Te Awamutu Zone,Main,531003,Te Awamutu East,3070,24,1.5
+3,Waikato,8,Te Awamutu Zone,Main,531004,Te Awamutu South,3140,26,1.6
+3,Waikato,8,Te Awamutu Zone,Main,531001,Te Awamutu West,1370,2,0.3
+5,Gisborne,11,Gisborne,Main,544300,Te Hapara,4710,45,1.8
+1,Northland,1,Whangarei,Main,502003,Te Hihi,1300,1,0.1
+9,Wellington,501,Rural Centre,Rural,564023,Te Horo,830,0,
+4,BayofPlenty,501,Rural Centre,Rural,542901,Te Kaha,410,4,1.9
+9,Wellington,20,Wellington Zone,Main,574302,Te Kainga,4020,0,
+5,Gisborne,501,Rural Centre,Rural,543602,Te Karaka,540,4,1.4
+3,Waikato,304,Te Kauwhata,Minor,526900,Te Kauwhata,1630,12,1.4
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531303,Te Kawa,500,0,
+1,Northland,501,Rural Centre,Rural,504400,Te Kopuru,510,3,1.1
+3,Waikato,6,Hamilton Zone,Main,527912,Te Kowhai,1670,0,
+3,Waikato,219,Te Kuiti,Minor,532000,Te Kuiti,4560,24,1
+9,Wellington,17,Upper Hutt Zone,Main,566500,Te Marua,1180,1,0.2
+6,Hawke'sBay,13,Hastings Zone,Main,548831,Te Mata,3790,35,1.8
+6,Hawke'sBay,13,Hastings Zone,Main,548833,Te Mata Hills,1070,1,0.2
+4,BayofPlenty,9,Tauranga,Main,536832,Te Maunga,5060,16,0.6
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,541502,Te More,0,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,618300,Te Motu Island,0,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,526603,Te Pahu,1380,0,
+2,Auckland,4,Central Auckland Zone,Main,520000,Te Papapa,3730,38,1.9
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535231,Te Poi,850,2,0.4
+4,BayofPlenty,235,Te Puke Community,Minor,538502,Te Puke East,4740,32,1.3
+4,BayofPlenty,235,Te Puke Community,Minor,538501,Te Puke West,3180,12,0.7
+4,BayofPlenty,9,Tauranga,Main,536503,Te Puna,2660,1,0.1
+3,Waikato,501,Rural Centre,Rural,533604,Te Puru-Thornton Bay,890,1,0.2
+3,Waikato,8,Te Awamutu Zone,Main,527935,Te Rahu,990,2,0.4
+3,Waikato,6,Hamilton Zone,Main,528403,Te Rapa,360,36,19.1
+3,Waikato,6,Hamilton Zone,Main,527917,Te Rapa North,150,1,1.3
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,533200,Te Rerenga,4370,7,0.3
+4,BayofPlenty,9,Tauranga,Main,537302,Te Reti,1790,1,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527921,Te Rore,450,0,
+4,BayofPlenty,501,Rural Centre,Rural,542300,Te Teko,540,5,1.8
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,526602,Te Uku,2010,4,0.4
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,612730,Te Waewae,1330,2,0.3
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,579502,Te Wharau,1830,2,0.2
+3,Waikato,6,Hamilton Zone,Main,527820,Temple View,1330,1,0.1
+13,Canterbury,22,Christchurch,Main,587822,Templeton,1940,3,0.3
+13,Canterbury,286,Temuka,Minor,598600,Temuka,4290,14,0.6
+8,Manawatu-Wanganui,16,Palmerston North,Main,562600,Terrace End,3150,6,0.4
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,607501,Teviot,1090,2,0.4
+17,Nelson,21,Nelson,Main,583400,The Brook,1500,3,0.4
+17,Nelson,21,Nelson,Main,582300,The Wood,3010,9,0.6
+9,Wellington,20,Wellington Zone,Main,572900,Thorndon-Tinakori Road,4520,39,1.6
+2,Auckland,4,Central Auckland Zone,Main,518500,Three Kings,6100,34,1.1
+99,AreaOutside,502,Rural (Incl.some Off Shore Islands),Rural,614503,Three Kings Islands,0,0,
+1,Northland,1,Whangarei,Main,502002,Three Mile Bush,1100,1,0.2
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617704,Tidal-Eastern Bays,0,1,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617502,Tidal-Great Barrier Island,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617604,Tidal-Manukau Harbour,20,0,
+2,Auckland,506,Inlet-not in TA,Rural,617606,Tidal-Manukau Harbour North,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617503,Tidal-Motutapu and Browns Islands,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617702,Tidal-Tamaki,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,520804,Tidal-Waiheke Island,0,0,
+2,Auckland,507,Inlet-in TA but not in Urban Area,Rural,617902,Tidal-Waitemata Harbour,0,0,
+1,Northland,1,Whangarei,Main,502202,Tikipunga East,3330,4,0.2
+1,Northland,1,Whangarei,Main,502201,Tikipunga West,3480,22,1.2
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,538820,Tikitere,2770,10,0.7
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,549200,Tikokino,2840,4,0.3
+13,Canterbury,113,Timaru,Secondary,599800,Timaru Gardens,1590,11,1.3
+5,Gisborne,502,Rural (Incl.some Off Shore Islands),Rural,544002,Tiniroto,2100,6,0.5
+13,Canterbury,112,Ashburton,Secondary,597860,Tinwald,3270,3,0.2
+3,Waikato,501,Rural Centre,Rural,535100,Tirau,740,1,0.3
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,531732,Tiroa,60,0,
+9,Wellington,18,Lower Hutt Zone,Main,569401,Tirohanga,1250,1,0.2
+15,Southland,24,Invercargill,Main,611900,Tisbury,290,1,0.7
+9,Wellington,19,Porirua Zone,Main,570400,Titahi Bay North,2580,19,1.4
+9,Wellington,19,Porirua Zone,Main,570600,Titahi Bay South,3680,13,0.7
+2,Auckland,3,Western Auckland Zone,Main,512000,Titirangi South,3700,3,0.2
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610075,Tiwai Point,0,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610080,Toetoes,1690,0,
+17,Nelson,21,Nelson,Main,583201,Toi Toi,1810,8,0.8
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541348,Tokaanu,210,0,
+3,Waikato,8,Te Awamutu Zone,Main,527925,Tokanui,470,15,6.1
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,553003,Toko,1210,4,0.6
+8,Manawatu-Wanganui,501,Rural Centre,Rural,563801,Tokomaru,570,0,
+5,Gisborne,501,Rural Centre,Rural,543303,Tokomaru Bay,410,4,1.9
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,560422,Tokorangi-Hiwinui,2570,4,0.3
+3,Waikato,102,Tokoroa,Secondary,535350,Tokoroa Central,790,47,11.4
+5,Gisborne,501,Rural Centre,Rural,544004,Tolaga Bay,830,4,0.9
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541346,Tongariro,540,6,2.1
+2,Auckland,2,Northern Auckland Zone,Main,506903,Torbay,5330,2,0.1
+2,Auckland,5,Southern Auckland Zone,Main,523814,Totara Heights,6340,8,0.2
+9,Wellington,17,Upper Hutt Zone,Main,566900,Totara Park,3000,5,0.3
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585319,Totara River,60,0,
+17,Nelson,21,Nelson,Main,582500,Trafalgar,550,138,48
+13,Canterbury,22,Christchurch,Main,592820,Travis,2100,7,0.6
+13,Canterbury,22,Christchurch,Main,590501,Travis Wetland,5090,6,0.2
+9,Wellington,17,Upper Hutt Zone,Main,567700,Trentham North,2960,9,0.6
+9,Wellington,17,Upper Hutt Zone,Main,564520,Trentham South,1150,24,4
+13,Canterbury,22,Christchurch,Main,587849,Trents-Ladbrooks,2020,2,0.2
+4,BayofPlenty,104,Whakatane,Secondary,542430,Trident,3350,34,1.9
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586129,Tuahiwi,1210,1,0.2
+6,Hawke'sBay,501,Rural Centre,Rural,545201,Tuai,220,2,1.7
+3,Waikato,101,Pukekohe,Secondary,526200,Tuakau,4630,28,1.2
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580448,Tuamarina,1170,3,0.5
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,607502,Tuapeka,1640,1,0.1
+15,Southland,501,Rural Centre,Rural,612500,Tuatapere,570,2,0.7
+2,Auckland,2,Northern Auckland Zone,Main,509702,Tuff Crater,4790,37,1.5
+2,Auckland,5,Southern Auckland Zone,Main,523202,Turanga,2350,2,0.2
+3,Waikato,237,Turangi,Minor,541000,Turangi,3220,35,2.1
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,561902,Turitea,1980,5,0.5
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,533902,Turua,1350,1,0.1
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545911,Tutira,610,1,0.3
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,579802,Tuturumuri,410,0,
+13,Canterbury,287,Twizel Community,Minor,600100,Twizel Community,1210,5,0.8
+6,Hawke'sBay,13,Hastings Zone,Main,545710,Twyford,1080,7,1.2
+3,Waikato,6,Hamilton Zone,Main,530500,University,6270,29,0.9
+2,Auckland,2,Northern Auckland Zone,Main,508803,Unsworth Heights,6110,12,0.4
+8,Manawatu-Wanganui,15,Wanganui,Main,557400,Upper Aramoho,2050,10,0.9
+9,Wellington,17,Upper Hutt Zone,Main,567100,Upper Hutt Central,330,54,31.3
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,536642,Upper Papamoa,2310,6,0.5
+13,Canterbury,22,Christchurch,Main,590100,Upper Riccarton,3300,29,1.7
+7,Taranaki,14,New Plymouth,Main,551600,Upper Westown,1670,2,0.2
+7,Taranaki,501,Rural Centre,Rural,550600,Urenui,420,2,0.9
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542562,Urewera,2090,3,0.3
+2,Auckland,3,Western Auckland Zone,Main,513211,Urlich,2570,14,1
+4,BayofPlenty,10,Rotorua,Main,539700,Utuhina,1470,5,0.7
+14,Otago,23,Dunedin,Main,604620,Vauxhall,4100,4,0.2
+4,BayofPlenty,10,Rotorua,Main,540420,Victoria,1890,44,4.5
+1,Northland,1,Whangarei,Main,503000,Vinetown,1640,13,1.5
+2,Auckland,2,Northern Auckland Zone,Main,505906,Vipond,3000,3,0.2
+2,Auckland,5,Southern Auckland Zone,Main,524122,Viscount,4510,18,0.8
+9,Wellington,20,Wellington Zone,Main,575702,Vogeltown,940,0,
+9,Wellington,20,Wellington Zone,Main,575701,Vogeltown West,1170,0,
+2,Auckland,2,Northern Auckland Zone,Main,505909,Wade Heads,3570,8,0.4
+9,Wellington,20,Wellington Zone,Main,574600,Wadestown,3830,2,0.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527210,Waerenga,2770,8,0.6
+3,Waikato,501,Rural Centre,Rural,535000,Waharoa,530,1,0.4
+2,Auckland,2,Northern Auckland Zone,Main,507000,Waiake,4650,1,0
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610051,Waianiwa,2010,2,0.2
+2,Auckland,4,Central Auckland Zone,Main,516202,Waiata,4500,4,0.2
+13,Canterbury,501,Rural Centre,Rural,585505,Waiau,280,1,0.7
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,600410,Waihao,4760,9,0.4
+2,Auckland,214,Waiheke Island,Minor,520801,Waiheke Island,8880,36,0.8
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,601301,Waihemo,750,2,0.5
+3,Waikato,229,Waihi,Minor,534400,Waihi,4980,29,1.1
+4,BayofPlenty,227,Waihi Beach,Minor,534100,Waihi Beach,2070,7,0.6
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585322,Waiho,70,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501633,Waihou Valley-Hupara,3510,3,0.2
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,534604,Waihou-Walton,4210,7,0.3
+16,Tasman,502,Rural (Incl.some Off Shore Islands),Rural,581836,Wai-Iti,5660,5,0.2
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610020,Waikaia,1750,4,0.4
+9,Wellington,25,Kapiti,Main,563701,Waikanae Beach,3200,3,0.2
+9,Wellington,25,Kapiti,Main,563703,Waikanae East,2300,2,0.2
+9,Wellington,25,Kapiti,Main,563705,Waikanae Park,1980,1,0.1
+9,Wellington,25,Kapiti,Main,563706,Waikanae West,3840,5,0.2
+4,BayofPlenty,507,Inlet-in TA but not in Urban Area,Rural,536509,Waikareao Estuary,0,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,526601,Waikato Western Hills,4300,2,0.1
+18,Marlborough,268,Picton,Minor,580442,Waikawa,1410,3,0.4
+15,Southland,24,Invercargill,Main,610602,Waikiwi,2420,4,0.3
+14,Otago,310,Waikouaiti,Minor,601400,Waikouaiti,1160,1,0.2
+2,Auckland,4,Central Auckland Zone,Main,519002,Waikowhai East,5230,13,0.5
+2,Auckland,4,Central Auckland Zone,Main,519001,Waikowhai West,4000,2,0.1
+13,Canterbury,501,Rural Centre,Rural,586112,Waikuku,990,4,0.8
+2,Auckland,3,Western Auckland Zone,Main,512700,Waima,2600,0,
+13,Canterbury,22,Christchurch,Main,590603,Waimairi Beach,3520,10,0.5
+4,BayofPlenty,501,Rural Centre,Rural,542561,Waimana,560,0,
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545860,Waimarama,1130,0,
+13,Canterbury,113,Timaru,Secondary,598800,Waimataitai,1290,7,1
+13,Canterbury,288,Waimate,Minor,600500,Waimate,2920,19,1.2
+2,Auckland,3,Western Auckland Zone,Main,505601,Waimauku,1130,3,0.5
+17,Nelson,507,Inlet-in TA but not in Urban Area,Rural,581722,Waimea Inlet East,0,0,
+16,Tasman,507,Inlet-in TA but not in Urban Area,Rural,581835,Waimea Inlet West,10,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585316,Waimea-Arahura,670,2,0.6
+2,Auckland,3,Western Auckland Zone,Main,513631,Waimumu North,6340,21,0.6
+2,Auckland,3,Western Auckland Zone,Main,513632,Waimumu South,4360,13,0.6
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,579400,Waingawa,510,1,0.4
+7,Taranaki,105,Hawera,Secondary,554114,Waingongoro,440,0,
+13,Canterbury,22,Christchurch,Main,593000,Wainoni,2850,19,1.3
+5,Gisborne,11,Gisborne,Main,543903,Wainui,1840,3,0.3
+6,Hawke'sBay,12,Napier Zone,Main,545831,Waiohiki,360,1,0.5
+8,Manawatu-Wanganui,107,Levin,Secondary,564012,Waiopehu,1630,3,0.4
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,542906,Waiotahi,2800,11,0.8
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501811,Waiotira-Springfield,2140,4,0.4
+8,Manawatu-Wanganui,256,Waiouru,Minor,558500,Waiouru,840,4,0.9
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,531731,Waipa Valley,1100,4,0.7
+3,Waikato,103,Taupo,Secondary,541750,Waipahihi,2020,2,0.2
+2,Auckland,3,Western Auckland Zone,Main,505700,Waipareira West,1030,1,0.2
+6,Hawke'sBay,243,Waipawa,Minor,549100,Waipawa,2070,6,0.6
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501816,Waipu,1820,9,0.9
+6,Hawke'sBay,244,Waipukurau,Minor,549500,Waipukurau,4060,28,1.3
+3,Waikato,103,Taupo,Secondary,541312,Wairakei-Aratiatia,630,7,2.1
+13,Canterbury,22,Christchurch,Main,589000,Wairarapa,2010,12,1.1
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580447,Wairau North,440,0,
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580450,Wairau South,1590,3,0.4
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,612720,Wairio,1010,1,0.2
+6,Hawke'sBay,242,Wairoa,Minor,545500,Wairoa,4260,43,1.9
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585320,Waitaha,120,0,
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,541345,Waitahanui,450,3,1.3
+2,Auckland,3,Western Auckland Zone,Main,513702,Waitakere,2120,4,0.4
+2,Auckland,502,Rural (Incl.some Off Shore Islands),Rural,506656,Waitakere West,650,0,
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501615,Waitangi,920,3,0.6
+9,Wellington,19,Porirua Zone,Main,571400,Waitangirua,4300,22,1
+7,Taranaki,247,Waitara,Minor,551302,Waitara East,2960,4,0.3
+7,Taranaki,247,Waitara,Minor,551301,Waitara West,3840,22,1.1
+2,Auckland,4,Central Auckland Zone,Main,516102,Waitaramoa,4360,6,0.3
+8,Manawatu-Wanganui,107,Levin,Secondary,563600,Waitarere,620,3,0.9
+14,Otago,501,Rural Centre,Rural,601602,Waitati,540,1,0.4
+3,Waikato,501,Rural Centre,Rural,534602,Waitoa,320,0,
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,554300,Waitotara,70,0,
+15,Southland,502,Rural (Incl.some Off Shore Islands),Rural,610072,Waituna,1760,1,0.1
+2,Auckland,215,Waiuku,Minor,526104,Waiuku East,3790,17,0.9
+2,Auckland,215,Waiuku,Minor,526103,Waiuku West,3390,17,1
+2,Auckland,2,Northern Auckland Zone,Main,505803,Waiwera,330,3,1.7
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,538863,Waiwhero,700,11,3
+9,Wellington,18,Lower Hutt Zone,Main,568701,Waiwhetu North,1460,17,2.2
+9,Wellington,18,Lower Hutt Zone,Main,568702,Waiwhetu South,2670,10,0.7
+14,Otago,23,Dunedin,Main,603910,Wakari,3290,6,0.3
+14,Otago,502,Rural (Incl.some Off Shore Islands),Rural,609032,Wakatipu Basin,1200,1,0.2
+16,Tasman,272,Wakefield,Minor,581823,Wakefield,2210,1,0.1
+2,Auckland,3,Western Auckland Zone,Main,512402,Wakeling,4180,9,0.4
+14,Otago,23,Dunedin,Main,602100,Waldronville,550,0,
+15,Southland,501,Rural Centre,Rural,610090,Wallacetown,700,1,0.3
+9,Wellington,17,Upper Hutt Zone,Main,567300,Wallaceville,2200,10,0.9
+2,Auckland,4,Central Auckland Zone,Main,518801,Walmsley,4550,21,0.9
+13,Canterbury,22,Christchurch,Main,594500,Waltham,1140,11,1.8
+14,Otago,293,Wanaka,Minor,608800,Wanaka,7400,35,0.9
+8,Manawatu-Wanganui,15,Wanganui,Main,556900,Wanganui Central,1240,18,2.8
+8,Manawatu-Wanganui,15,Wanganui,Main,556700,Wanganui Collegiate,1180,13,2.1
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580801,Ward,930,0,
+2,Auckland,211,Warkworth,Minor,505500,Warkworth,4490,16,0.7
+14,Otago,501,Rural Centre,Rural,601605,Warrington,460,4,1.7
+13,Canterbury,113,Timaru,Secondary,598700,Washdyke,930,4,0.8
+17,Nelson,21,Nelson,Main,582402,Washington,3100,13,0.8
+9,Wellington,18,Lower Hutt Zone,Main,568602,Waterloo East,4370,11,0.5
+9,Wellington,18,Lower Hutt Zone,Main,568601,Waterloo West,930,5,1
+2,Auckland,4,Central Auckland Zone,Main,514900,Waterview,3660,9,0.5
+13,Canterbury,113,Timaru,Secondary,599600,Watlington,2420,6,0.5
+2,Auckland,5,Southern Auckland Zone,Main,525102,Wattle Farm,8010,16,0.4
+7,Taranaki,501,Rural Centre,Rural,554800,Waverley,810,6,1.4
+15,Southland,24,Invercargill,Main,611001,Waverley-Glengarry,2460,15,1.2
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,535262,Wawa,780,5,1.2
+2,Auckland,2,Northern Auckland Zone,Main,506001,Weiti River,510,7,2.6
+7,Taranaki,14,New Plymouth,Main,552200,Welbourn,1960,10,1
+4,BayofPlenty,9,Tauranga,Main,538303,Welcome Bay East,4160,14,0.6
+4,BayofPlenty,9,Tauranga,Main,538302,Welcome Bay West,3800,10,0.5
+18,Marlborough,502,Rural (Incl.some Off Shore Islands),Rural,580451,Weld Pass,210,2,1.8
+9,Wellington,507,Inlet-in TA but not in Urban Area,Rural,573102,Wellington City-Marinas,40,0,
+2,Auckland,210,Wellsford,Minor,505300,Wellsford,1900,8,0.8
+8,Manawatu-Wanganui,15,Wanganui,Main,557600,Wembley Park,1620,7,0.8
+2,Auckland,4,Central Auckland Zone,Main,518802,Wesley,3290,16,0.9
+8,Manawatu-Wanganui,16,Palmerston North,Main,563000,West End,4980,26,1
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586605,West Eyreton,1410,0,
+15,Southland,301,Gore,Minor,610240,West Gore,2810,6,0.4
+2,Auckland,3,Western Auckland Zone,Main,513521,West Harbour,5320,15,0.5
+15,Southland,24,Invercargill,Main,611300,West Invercargill,130,4,5.9
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,587904,West Melton,8470,52,1.2
+8,Manawatu-Wanganui,16,Palmerston North,Main,562720,Westbrook,4270,10,0.4
+13,Canterbury,22,Christchurch,Main,589700,Westburn,3190,7,0.4
+4,BayofPlenty,10,Rotorua,Main,539100,Western Heights,3840,48,2.4
+1,Northland,1,Whangarei,Main,502500,Western Hills,280,1,0.7
+2,Auckland,3,Western Auckland Zone,Main,513511,Westgate,1450,22,2.9
+13,Canterbury,22,Christchurch,Main,590505,Westhaven,2560,3,0.2
+2,Auckland,2,Northern Auckland Zone,Main,507900,Westlake,5590,38,1.3
+2,Auckland,4,Central Auckland Zone,Main,515100,Westmere,5660,9,0.3
+13,Canterbury,22,Christchurch,Main,587844,Westmorland,1990,0,
+14,Otago,114,Oamaru,Secondary,600600,Weston,840,2,0.5
+7,Taranaki,14,New Plymouth,Main,551700,Westown,3570,31,1.7
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,584410,Westport Rural,1570,1,0.1
+12,WestCoast,274,Westport,Minor,584500,Westport Urban,4020,17,0.8
+6,Hawke'sBay,12,Napier Zone,Main,546100,Westshore,1110,4,0.7
+2,Auckland,5,Southern Auckland Zone,Main,524812,Weymouth East,5540,22,0.8
+2,Auckland,5,Southern Auckland Zone,Main,524811,Weymouth West,4630,33,1.4
+4,BayofPlenty,10,Rotorua,Main,540700,Whaka,240,5,4
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545302,Whakaki,740,1,0.3
+8,Manawatu-Wanganui,16,Palmerston North,Main,560302,Whakarongo,1090,2,0.4
+4,BayofPlenty,104,Whakatane,Secondary,542410,Whakatane North,3240,57,3.4
+4,BayofPlenty,104,Whakatane,Secondary,542422,Whakatane West,3290,21,1.2
+6,Hawke'sBay,13,Hastings Zone,Main,545722,Whakatu,870,5,1.1
+6,Hawke'sBay,502,Rural (Incl.some Off Shore Islands),Rural,545913,Whanawhana,240,0,
+3,Waikato,223,Whangamata,Minor,533300,Whangamata,3710,17,0.9
+17,Nelson,502,Rural (Incl.some Off Shore Islands),Rural,581812,Whangamoa,940,0,
+8,Manawatu-Wanganui,502,Rural (Incl.some Off Shore Islands),Rural,553001,Whangamomona,150,0,
+2,Auckland,5,Southern Auckland Zone,Main,521202,Whangapouri Creek,610,1,0.3
+1,Northland,1,Whangarei,Main,503100,Whangarei Central,280,87,59.4
+1,Northland,507,Inlet-in TA but not in Urban Area,Rural,501813,Whangaruru Harbour,0,0,
+9,Wellington,502,Rural (Incl.some Off Shore Islands),Rural,578402,Whareama,1740,2,0.2
+5,Gisborne,502,Rural (Incl.some Off Shore Islands),Rural,544001,Wharekaka,1860,15,1.5
+1,Northland,502,Rural (Incl.some Off Shore Islands),Rural,501809,Wharekohe-Oakleigh,3890,8,0.4
+13,Canterbury,22,Christchurch,Main,590200,Wharenui,2870,13,0.9
+3,Waikato,103,Taupo,Secondary,541316,Wharewaka,500,0,
+12,WestCoast,502,Rural (Incl.some Off Shore Islands),Rural,585321,Whataroa,320,1,0.6
+5,Gisborne,11,Gisborne,Main,544500,Whataupoko,3960,11,0.5
+3,Waikato,6,Hamilton Zone,Main,527913,Whatawhata,2640,5,0.4
+1,Northland,1,Whangarei,Main,502300,Whau Valley,2580,5,0.4
+7,Taranaki,502,Rural (Incl.some Off Shore Islands),Rural,554400,Whenuakura,1070,0,
+2,Auckland,3,Western Auckland Zone,Main,513410,Whenuapai West,2350,5,0.4
+4,BayofPlenty,502,Rural (Incl.some Off Shore Islands),Rural,619900,White Island,0,0,
+3,Waikato,221,Whitianga,Minor,533000,Whitianga,4650,26,1.1
+3,Waikato,502,Rural (Incl.some Off Shore Islands),Rural,527111,Whitikahu,2290,4,0.3
+18,Marlborough,26,Blenheim,Main,581240,Whitney,4470,20,0.9
+13,Canterbury,22,Christchurch,Main,587702,Wigram,4620,9,0.4
+9,Wellington,18,Lower Hutt Zone,Main,570100,Wilford,3430,22,1.2
+8,Manawatu-Wanganui,15,Wanganui,Main,557500,Williams Domain,2150,7,0.6
+9,Wellington,20,Wellington Zone,Main,573101,Willis Street-Cambridge Terrace,8300,447,10.3
+9,Wellington,20,Wellington Zone,Main,574702,Wilton,2140,2,0.2
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,598000,Winchester,260,1,0.7
+15,Southland,24,Invercargill,Main,610900,Windsor,3190,2,0.1
+2,Auckland,2,Northern Auckland Zone,Main,508805,Windsor Park,2030,10,0.9
+2,Auckland,2,Northern Auckland Zone,Main,508220,Windy Ridge,3950,4,0.2
+14,Otago,23,Dunedin,Main,602412,Wingatui,1780,0,
+15,Southland,296,Winton,Minor,610500,Winton,2310,6,0.5
+2,Auckland,5,Southern Auckland Zone,Main,524602,Wiri,4390,103,4.5
+2,Auckland,2,Northern Auckland Zone,Main,508412,Witheford,3400,3,0.2
+18,Marlborough,26,Blenheim,Main,581260,Witherlea,5090,2,0.1
+9,Wellington,18,Lower Hutt Zone,Main,569001,Woburn North,1350,2,0.3
+9,Wellington,18,Lower Hutt Zone,Main,569002,Woburn South,420,0,
+18,Marlborough,26,Blenheim,Main,580410,Woodbourne,470,0,
+13,Canterbury,278,Woodend,Minor,586120,Woodend,2890,3,0.2
+13,Canterbury,502,Rural (Incl.some Off Shore Islands),Rural,586126,Woodend Beach,580,1,0.3
+13,Canterbury,278,Woodend,Minor,586130,Woodend West,60,0,
+2,Auckland,3,Western Auckland Zone,Main,511002,Woodglen,4920,12,0.5
+14,Otago,23,Dunedin,Main,603500,Woodhaugh,860,4,0.9
+1,Northland,1,Whangarei,Main,502900,Woodhill,1840,9,0.9
+15,Southland,501,Rural Centre,Rural,610073,Woodlands,280,0,
+9,Wellington,20,Wellington Zone,Main,573902,Woodridge,1440,0,
+8,Manawatu-Wanganui,246,Woodville,Minor,550500,Woodville,1440,8,1.1
+13,Canterbury,22,Christchurch,Main,594100,Woolston South,2550,12,0.9
+13,Canterbury,22,Christchurch,Main,594010,Woolston West,3590,29,1.5
+6,Hawke'sBay,13,Hastings Zone,Main,548400,Woolwich,40,5,23.9
+14,Otago,23,Dunedin,Main,602411,Wyllies Crossing,330,0,
+2,Auckland,5,Southern Auckland Zone,Main,523403,Wymondley,1390,5,0.7
+15,Southland,501,Rural Centre,Rural,609800,Wyndham,550,0,
+13,Canterbury,22,Christchurch,Main,587811,Yaldhurst,1530,16,2
+4,BayofPlenty,9,Tauranga,Main,537700,Yatton Park,2640,29,2.1

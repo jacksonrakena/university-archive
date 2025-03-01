@@ -5,3 +5,5 @@
 **/.git/
 **/build/
 **/cmake-build-debug/
+**/.ipynb_checkpoints/
+**/.jupyter/
