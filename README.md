@@ -1,6 +1,6 @@
 # Jackson's University Archive
 
-This repository contains several older repositories from my time studying my undergraduate (Bachelor of Science) at Victoria University of Wellington.
+This repository contains several older repositories from my time studying my undergraduate (Bachelor of Science) at Victoria University of Wellington; as well as some earlier work from high school (2015-2021)
 
 ### Projects overview
 
