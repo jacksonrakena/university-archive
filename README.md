@@ -16,6 +16,9 @@ A Rust-based clone of the "Web Assessment Tool". Students can answer code questi
 #### 2023-swen225-level-maker
 A quick React app I made to easily make levels for our SWEN225 (Software Design) final game project.
 
+#### 2021-hs-git-good-at-git
+This project is from my last year of high school, for some NCEA Level 3 standard. It is a Git tutorial website targeted at high school students.
+
 ### Copyright
 I release all copyrights over *my* work in this repository (CC0 Creative Commons Zero No Rights Reserved) to the full extent that I am able.  
 
