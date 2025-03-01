@@ -1,0 +1,15 @@
+.panel {
+    margin: 20px;
+}
+.svgicon img, .svgicon {
+    height: 1em;
+    width: auto;
+    justify-self: center;
+}
+a:hover {
+    color: rgba(145, 1, 41, 0.945);
+}
+
+a {
+    color: #dc3545;
+}

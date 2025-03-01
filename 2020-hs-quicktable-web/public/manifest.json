@@ -1,0 +1,7 @@
+{
+  "short_name": "Quicktable",
+  "name": "Quicktable",
+  "display": "standalone",
+  "theme_color": "#dc3545",
+  "background_color": "#ffffff"
+}
