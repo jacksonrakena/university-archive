@@ -1,0 +1,32 @@
+# Based on GitLab C++ CI/CD template
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/C++.gitlab-ci.yml
+
+# use the official gcc image, based on debian
+# can use versions as well, like gcc:5.2
+# see https://hub.docker.com/_/gcc/
+
+image: gcc
+
+build:
+  stage: build
+  # instead of calling g++ directly you can also use some build toolkit like make
+  # install the necessary build tools when needed
+  # before_script:
+  #   - apt update && apt -y install make autoconf
+  tags: [docker]
+  script:
+    - g++ main.cpp -o main
+  artifacts:
+    paths:
+      - main
+      - maze.txt
+      - display.html
+      - m1.bmp
+      - m2.bmp
+
+# run tests using the binary built before
+#test:
+#  stage: test
+#  tags: [docker]
+#  script:
+#    - ./runmytests.sh

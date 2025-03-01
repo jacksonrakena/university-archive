@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<head>
+    <title>Debug</title>
+</head>	
+	
+<body>
+<script>
+    setInterval(function () {
+        document.getElementById('camera').setAttribute("src", "m2.bmp?" + new Date().getTime())
+        document.getElementById('scene').setAttribute("src", "m1.bmp?" + new Date().getTime())
+    }, 1000)
+</script>
+
+<h1>Robot Camera</h1>
+<img id="camera" src="cmake-build-debug/m2.bmp" alt="hm.." width="100" height="80">
+<h1>Scene</h1>
+<img id="scene" src="cmake-build-debug/m1.bmp" alt="hm.." style="max-width: 100%;" >
+
+
+</body>
+</html>
+
+
