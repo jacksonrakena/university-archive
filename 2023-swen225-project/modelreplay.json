@@ -1,0 +1,408 @@
+{
+  "treeMap": {
+    "0": {},
+    "31": {
+      "positionAndDirection": {
+        "position": {
+          "x": 5,
+          "y": 4
+        },
+        "direction": "DOWN"
+      }
+    },
+    "32": {
+      "positionAndDirection": {
+        "position": {
+          "x": 5,
+          "y": 5
+        },
+        "direction": "DOWN"
+      }
+    },
+    "41": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 5
+        },
+        "direction": "DOWN"
+      }
+    },
+    "60": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 6
+        },
+        "direction": "DOWN"
+      }
+    },
+    "85": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 7
+        },
+        "direction": "DOWN"
+      }
+    },
+    "87": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 8
+        },
+        "direction": "DOWN"
+      }
+    },
+    "90": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 9
+        },
+        "direction": "DOWN"
+      }
+    },
+    "93": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 9
+        },
+        "direction": "DOWN"
+      }
+    },
+    "108": {
+      "positionAndDirection": {
+        "position": {
+          "x": 2,
+          "y": 9
+        },
+        "direction": "DOWN"
+      }
+    },
+    "117": {
+      "positionAndDirection": {
+        "position": {
+          "x": 1,
+          "y": 9
+        },
+        "direction": "DOWN"
+      }
+    },
+    "124": {
+      "position": {
+        "x": 1,
+        "y": 10
+      },
+      "tile at: (1, 10)": {
+        "tileType": "KeyTile",
+        "colour": -12237408,
+        "x": 1,
+        "y": 10
+      },
+      "keys": [
+        -12237408
+      ],
+      "agents": [
+        {
+          "position": {
+            "x": 2,
+            "y": 3
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 3,
+            "y": 2
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 3,
+            "y": 2
+          },
+          "direction": "UP"
+        }
+      ]
+    },
+    "141": {
+      "position": {
+        "x": 2,
+        "y": 10
+      }
+    },
+    "158": {
+      "positionAndDirection": {
+        "position": {
+          "x": 2,
+          "y": 9
+        },
+        "direction": "DOWN"
+      }
+    },
+    "169": {
+      "positionAndDirection": {
+        "position": {
+          "x": 2,
+          "y": 8
+        },
+        "direction": "DOWN"
+      }
+    },
+    "176": {
+      "positionAndDirection": {
+        "position": {
+          "x": 2,
+          "y": 7
+        },
+        "direction": "DOWN"
+      }
+    },
+    "183": {
+      "positionAndDirection": {
+        "position": {
+          "x": 2,
+          "y": 6
+        },
+        "direction": "DOWN"
+      }
+    },
+    "192": {
+      "positionAndDirection": {
+        "position": {
+          "x": 2,
+          "y": 5
+        },
+        "direction": "DOWN"
+      }
+    },
+    "203": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 5
+        },
+        "direction": "DOWN"
+      }
+    },
+    "224": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 4
+        },
+        "direction": "DOWN"
+      }
+    },
+    "233": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 4
+        },
+        "direction": "DOWN"
+      }
+    },
+    "245": {
+      "tile at: (4, 3)": {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 3
+      },
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 3
+        },
+        "direction": "DOWN"
+      }
+    },
+    "256": {
+      "tile at: (4, 2)": {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 2
+      },
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 2
+        },
+        "direction": "DOWN"
+      },
+      "remainingTreasures": 1
+    },
+    "267": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 1
+        },
+        "direction": "DOWN"
+      }
+    },
+    "278": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 2
+        },
+        "direction": "DOWN"
+      }
+    },
+    "288": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 3
+        },
+        "direction": "DOWN"
+      }
+    },
+    "297": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 4
+        },
+        "direction": "DOWN"
+      }
+    },
+    "304": {
+      "positionAndDirection": {
+        "position": {
+          "x": 5,
+          "y": 4
+        },
+        "direction": "DOWN"
+      }
+    },
+    "316": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 4
+        },
+        "direction": "DOWN"
+      }
+    },
+    "325": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 3
+        },
+        "direction": "DOWN"
+      }
+    },
+    "341": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 3
+        },
+        "direction": "DOWN"
+      }
+    },
+    "351": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 2
+        },
+        "direction": "DOWN"
+      }
+    },
+    "353": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 3
+        },
+        "direction": "DOWN"
+      }
+    },
+    "363": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 2
+        },
+        "direction": "DOWN"
+      }
+    },
+    "373": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 1
+        },
+        "direction": "DOWN"
+      }
+    },
+    "386": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 1
+        },
+        "direction": "DOWN"
+      }
+    },
+    "405": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 1
+        },
+        "direction": "DOWN"
+      }
+    },
+    "420": {
+      "keys": [
+        -12237408,
+        -8465631
+      ],
+      "tile at: (10, 1)": {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 1
+      },
+      "position": {
+        "x": 10,
+        "y": 1
+      }
+    },
+    "440": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 1
+        },
+        "direction": "DOWN"
+      }
+    },
+    "450": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 1
+        },
+        "direction": "DOWN"
+      }
+    },
+    "458": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 2
+        },
+        "direction": "DOWN"
+      }
+    }
+  }
+}

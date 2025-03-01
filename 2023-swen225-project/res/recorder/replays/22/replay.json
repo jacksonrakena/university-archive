@@ -1,0 +1,172 @@
+{
+  "treeMap": {
+    "0": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 5
+        },
+        "direction": "UP"
+      },
+      "agents": [
+        {
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 4,
+            "y": 7
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 4,
+            "y": 8
+          },
+          "direction": "UP"
+        }
+      ]
+    },
+    "1": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 4
+        },
+        "direction": "UP"
+      }
+    },
+    "2": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 4
+        },
+        "direction": "RIGHT"
+      },
+      "agents": [
+        {
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 4,
+            "y": 7
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 4,
+            "y": 8
+          },
+          "direction": "UP"
+        }
+      ]
+    },
+    "5": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 4
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "13": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 4
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "21": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 3
+        },
+        "direction": "UP"
+      }
+    },
+    "29": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 2
+        },
+        "direction": "UP"
+      }
+    },
+    "36": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 1
+        },
+        "direction": "UP"
+      }
+    },
+    "41": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 1
+        },
+        "direction": "LEFT"
+      }
+    },
+    "49": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 1
+        },
+        "direction": "LEFT"
+      },
+      "agents": [
+        {
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 4,
+            "y": 7
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 4,
+            "y": 8
+          },
+          "direction": "UP"
+        }
+      ]
+    },
+    "55": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 1
+        },
+        "direction": "LEFT"
+      }
+    }
+  }
+}

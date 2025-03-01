@@ -1,0 +1,760 @@
+{
+  "levelId": "level1",
+  "remainingTreasures": 2,
+  "position": {
+    "x": 8,
+    "y": 8
+  },
+  "keys": [
+    -12237408,
+    -8465631
+  ],
+  "tiles": [
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 1,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 2,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 3,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 4,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 5,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 6,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 7,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 8,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 9,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 10,
+        "y": 0
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 0
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 1
+      },
+      {
+        "tileType": "WallTile",
+        "x": 3,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 1
+      },
+      {
+        "tileType": "WallTile",
+        "x": 5,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 9,
+        "y": 1
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 1
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 1
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 2
+      },
+      {
+        "tileType": "WallTile",
+        "x": 3,
+        "y": 2
+      },
+      {
+        "tileType": "TreasureTile",
+        "x": 4,
+        "y": 2
+      },
+      {
+        "tileType": "WallTile",
+        "x": 5,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 9,
+        "y": 2
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 2
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 2
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 3
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "tileType": "WallTile",
+        "x": 3,
+        "y": 3
+      },
+      {
+        "tileType": "LockDoorTile",
+        "colour": -12237408,
+        "x": 4,
+        "y": 3
+      },
+      {
+        "tileType": "WallTile",
+        "x": 5,
+        "y": 3
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 3
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 3
+      },
+      {
+        "tileType": "WallTile",
+        "x": 8,
+        "y": 3
+      },
+      {
+        "tileType": "WallTile",
+        "x": 9,
+        "y": 3
+      },
+      {
+        "tileType": "WallTile",
+        "x": 10,
+        "y": 3
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 3
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 4
+      },
+      {
+        "tileType": "LockDoorTile",
+        "colour": -8465631,
+        "x": 8,
+        "y": 4
+      },
+      {
+        "tileType": "TreasureTile",
+        "x": 9,
+        "y": 4
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 4
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 4
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 5
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 5
+      },
+      {
+        "tileType": "WallTile",
+        "x": 8,
+        "y": 5
+      },
+      {
+        "tileType": "WallTile",
+        "x": 9,
+        "y": 5
+      },
+      {
+        "tileType": "WallTile",
+        "x": 10,
+        "y": 5
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 5
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 9,
+        "y": 6
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 6
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 6
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 9,
+        "y": 7
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 7
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 9,
+        "y": 8
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 10,
+        "y": 8
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 8
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "tileType": "WallTile",
+        "x": 9,
+        "y": 9
+      },
+      {
+        "tileType": "WallTile",
+        "x": 10,
+        "y": 9
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 9
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 1,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 2,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 3,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 6,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "tileType": "FreeTile",
+        "x": 8,
+        "y": 10
+      },
+      {
+        "tileType": "ExitLockTile",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "tileType": "ExitTile",
+        "x": 10,
+        "y": 10
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 10
+      }
+    ],
+    [
+      {
+        "tileType": "WallTile",
+        "x": 0,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 1,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 2,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 3,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 4,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 5,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 6,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 7,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 8,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 9,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "tileType": "WallTile",
+        "x": 11,
+        "y": 11
+      }
+    ]
+  ]
+}

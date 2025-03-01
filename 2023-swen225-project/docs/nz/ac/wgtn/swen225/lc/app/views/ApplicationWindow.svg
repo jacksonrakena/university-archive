@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="221px" preserveAspectRatio="none" style="width:291px;height:221px;background:#FFFFFF;" version="1.1" viewBox="0 0 291 221" width="291px" zoomAndPan="magnify"><defs><filter height="300%" id="f109hq7yj5irv3" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[5d5dc71025ca219ece7898ae4985fae2]
+class nz.ac.wgtn.swen225.lc.app.views.ApplicationWindow--><a href="ApplicationWindow.html" target="_top" title="ApplicationWindow.html" xlink:actuate="onRequest" xlink:href="ApplicationWindow.html" xlink:show="new" xlink:title="ApplicationWindow.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f109hq7yj5irv3)" height="85.1309" id="nz.ac.wgtn.swen225.lc.app.views.ApplicationWindow" style="stroke:#A80036;stroke-width:1.5;" width="270" x="7" y="105.27"/><ellipse cx="57.25" cy="124.4028" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M59.7231,130.5459 Q59.1421,130.8447 58.5029,130.9941 Q57.8638,131.1435 57.1582,131.1435 Q54.6514,131.1435 53.3315,129.4917 Q52.0117,127.8398 52.0117,124.7187 Q52.0117,121.5893 53.3315,119.9375 Q54.6514,118.2856 57.1582,118.2856 Q57.8638,118.2856 58.5112,118.435 Q59.1587,118.5845 59.7231,118.8833 L59.7231,121.6059 Q59.0923,121.0249 58.4988,120.7551 Q57.9053,120.4853 57.2744,120.4853 Q55.9297,120.4853 55.2449,121.552 Q54.5601,122.6186 54.5601,124.7187 Q54.5601,126.8105 55.2449,127.8772 Q55.9297,128.9438 57.2744,128.9438 Q57.9053,128.9438 58.4988,128.6741 Q59.0923,128.4043 59.7231,127.8232 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="92.25" y="123.8052">ApplicationWindow</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="161" x="77.75" y="136.4263">nz.ac.wgtn.swen225.lc.app.views</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="276" y1="143.5356" y2="143.5356"/><ellipse cx="18" cy="154.5356" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="244" x="27" y="158.1704">ApplicationWindow(GameModel, MainWindow)</text><ellipse cx="18" cy="167.4907" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="27" y="171.1255">setReplay(Replay): void</text><ellipse cx="18" cy="180.4458" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="27" y="184.0805">getTimer(): GameTimer</text></a><!--MD5=[56a185cb33bdc7c23303e5865f20a19b]
+class javax.swing.JPanel--><rect codeLine="11" fill="#FEFECE" filter="url(#f109hq7yj5irv3)" height="38.2656" id="javax.swing.JPanel" style="stroke:#A80036;stroke-width:1.5;" width="89" x="97.5" y="7"/><ellipse cx="112.5" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M114.9731,32.2759 Q114.3921,32.5747 113.7529,32.7241 Q113.1138,32.8735 112.4082,32.8735 Q109.9014,32.8735 108.5815,31.2217 Q107.2617,29.5698 107.2617,26.4487 Q107.2617,23.3193 108.5815,21.6675 Q109.9014,20.0156 112.4082,20.0156 Q113.1138,20.0156 113.7612,20.165 Q114.4087,20.3145 114.9731,20.6133 L114.9731,23.3359 Q114.3423,22.7549 113.7488,22.4851 Q113.1553,22.2153 112.5244,22.2153 Q111.1797,22.2153 110.4949,23.282 Q109.8101,24.3486 109.8101,26.4487 Q109.8101,28.5405 110.4949,29.6072 Q111.1797,30.6738 112.5244,30.6738 Q113.1553,30.6738 113.7488,30.4041 Q114.3423,30.1343 114.9731,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="134.5" y="25.5352">JPanel</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="57" x="126.5" y="38.1563">javax.swing</text><!--MD5=[aa2f7422b6980fc9c4439b26020e9565]
+reverse link javax.swing.JPanel to nz.ac.wgtn.swen225.lc.app.views.ApplicationWindow--><path codeLine="13" d="M142,66.83 C142,79.01 142,92.46 142,104.79 " fill="none" id="javax.swing.JPanel-backto-nz.ac.wgtn.swen225.lc.app.views.ApplicationWindow" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="135,67.09,142,47.09,149,67.09,135,67.09" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="48" y="213.0688">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[1e5343a1746fb80c95b5b129c2053c81]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>ApplicationWindow\n<size:10>nz.ac.wgtn.swen225.lc.app.views" as nz.ac.wgtn.swen225.lc.app.views.ApplicationWindow [[ApplicationWindow.html]] {
+        +ApplicationWindow(GameModel, MainWindow)
+        +setReplay(Replay): void
+        +getTimer(): GameTimer
+    }
+
+    class "<size:14>JPanel\n<size:10>javax.swing" as javax.swing.JPanel
+
+    javax.swing.JPanel <|- - nz.ac.wgtn.swen225.lc.app.views.ApplicationWindow
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="180px" preserveAspectRatio="none" style="width:385px;height:180px;background:#FFFFFF;" version="1.1" viewBox="0 0 385 180" width="385px" zoomAndPan="magnify"><defs><filter height="300%" id="f1ellnd15tqw90" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[89413922d0abce7dd209c3bfa29444de]
+cluster nz.ac.wgtn.swen225.lc.domain.world.abs.agents--><polygon fill="#FFFFFF" filter="url(#f1ellnd15tqw90)" points="16,6,358,6,365,28.4883,368,28.4883,368,156.82,16,156.82,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="365" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="336" x="20" y="21.5352">nz.ac.wgtn.swen225.lc.domain.world.abs.agents</text><!--MD5=[bf311294ad2c08ca8e25260e7b1cffd0]
+class nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent--><a href="Agent.html" target="_top" title="Agent.html" xlink:actuate="onRequest" xlink:href="Agent.html" xlink:show="new" xlink:title="Agent.html" xlink:type="simple"><rect codeLine="3" fill="#FEFECE" filter="url(#f1ellnd15tqw90)" height="99.8203" id="nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent" style="stroke:#A80036;stroke-width:1.5;" width="165" x="109.5" y="41"/><ellipse cx="171.25" cy="57" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M171.1133,52.3481 L169.9595,57.4199 L172.2754,57.4199 Z M169.6191,50.1069 L172.6157,50.1069 L175.9609,62.5 L173.5122,62.5 L172.7485,59.437 L169.4697,59.437 L168.7227,62.5 L166.2739,62.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="33" x="191.75" y="61.5352">Agent</text><line style="stroke:#A80036;stroke-width:1.5;" x1="110.5" x2="273.5" y1="73" y2="73"/><ellipse cx="120.5" cy="84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="129.5" y="87.6348">position: Position</text><ellipse cx="120.5" cy="96.9551" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="129.5" y="100.5898">direction: Direction</text><line style="stroke:#A80036;stroke-width:1.5;" x1="110.5" x2="273.5" y1="106.9102" y2="106.9102"/><ellipse cx="120.5" cy="117.9102" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="129.5" y="121.5449">Agent(Position)</text><ellipse cx="120.5" cy="130.8652" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="139" x="129.5" y="134.5">onTurn(GameModel): void</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="95" y="172.488">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[c7f55a116597a9f315a83b522e5c09d3]
+@startuml
+    namespace nz.ac.wgtn.swen225.lc.domain.world.abs.agents {
+
+        abstract class Agent [[Agent.html]] {
+            +position: Position
+            +direction: Direction
+            +Agent(Position)
+            {abstract} +onTurn(GameModel): void
+        }
+
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="208px" preserveAspectRatio="none" style="width:231px;height:208px;background:#FFFFFF;" version="1.1" viewBox="0 0 231 208" width="231px" zoomAndPan="magnify"><defs><filter height="300%" id="fqrsm6slpyvzb" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[71491f4c692b0088ac6d03d43188cb91]
+class nz.ac.wgtn.swen225.lc.app.FileSelector--><a href="FileSelector.html" target="_top" title="FileSelector.html" xlink:actuate="onRequest" xlink:href="FileSelector.html" xlink:show="new" xlink:title="FileSelector.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#fqrsm6slpyvzb)" height="72.1758" id="nz.ac.wgtn.swen225.lc.app.FileSelector" style="stroke:#A80036;stroke-width:1.5;" width="210" x="7" y="105.26"/><ellipse cx="43.15" cy="124.3928" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M45.6231,130.5359 Q45.0421,130.8347 44.4029,130.9841 Q43.7638,131.1335 43.0582,131.1335 Q40.5514,131.1335 39.2315,129.4817 Q37.9117,127.8298 37.9117,124.7087 Q37.9117,121.5793 39.2315,119.9275 Q40.5514,118.2756 43.0582,118.2756 Q43.7638,118.2756 44.4112,118.425 Q45.0587,118.5745 45.6231,118.8733 L45.6231,121.5959 Q44.9923,121.0149 44.3988,120.7451 Q43.8053,120.4753 43.1744,120.4753 Q41.8297,120.4753 41.1449,121.542 Q40.4601,122.6086 40.4601,124.7087 Q40.4601,126.8005 41.1449,127.8672 Q41.8297,128.9338 43.1744,128.9338 Q43.8053,128.9338 44.3988,128.6641 Q44.9923,128.3943 45.6231,127.8132 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="87.85" y="123.7952">FileSelector</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="131" x="61.85" y="136.4163">nz.ac.wgtn.swen225.lc.app</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="216" y1="143.5256" y2="143.5256"/><ellipse cx="18" cy="154.5256" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="184" x="27" y="158.1604">FileSelector(MainWindow, boolean)</text><ellipse cx="18" cy="167.4807" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="162" x="27" y="171.1155">getFileChooser(): JFileChooser</text></a><!--MD5=[18a7562403221f513ca44e0f82c4c17a]
+class javax.swing.JFrame--><rect codeLine="10" fill="#FEFECE" filter="url(#fqrsm6slpyvzb)" height="38.2656" id="javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.5;" width="89" x="67.5" y="7"/><ellipse cx="82.5" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M84.9731,32.2759 Q84.3921,32.5747 83.7529,32.7241 Q83.1138,32.8735 82.4082,32.8735 Q79.9014,32.8735 78.5815,31.2217 Q77.2617,29.5698 77.2617,26.4487 Q77.2617,23.3193 78.5815,21.6675 Q79.9014,20.0156 82.4082,20.0156 Q83.1138,20.0156 83.7612,20.165 Q84.4087,20.3145 84.9731,20.6133 L84.9731,23.3359 Q84.3423,22.7549 83.7488,22.4851 Q83.1553,22.2153 82.5244,22.2153 Q81.1797,22.2153 80.4949,23.282 Q79.8101,24.3486 79.8101,26.4487 Q79.8101,28.5405 80.4949,29.6072 Q81.1797,30.6738 82.5244,30.6738 Q83.1553,30.6738 83.7488,30.4041 Q84.3423,30.1343 84.9731,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="101.5" y="25.5352">JFrame</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="57" x="96.5" y="38.1563">javax.swing</text><!--MD5=[7fd8d82e2ac1af90b2309b4a6d17e05e]
+reverse link javax.swing.JFrame to nz.ac.wgtn.swen225.lc.app.FileSelector--><path codeLine="12" d="M112,66.71 C112,79.17 112,92.85 112,104.99 " fill="none" id="javax.swing.JFrame-backto-nz.ac.wgtn.swen225.lc.app.FileSelector" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="105,67.09,112,47.09,119,67.09,105,67.09" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="18" y="200.1038">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[353e0b1ce233c8168fbfa30bf04520f1]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>FileSelector\n<size:10>nz.ac.wgtn.swen225.lc.app" as nz.ac.wgtn.swen225.lc.app.FileSelector [[FileSelector.html]] {
+        +FileSelector(MainWindow, boolean)
+        +getFileChooser(): JFileChooser
+    }
+
+    class "<size:14>JFrame\n<size:10>javax.swing" as javax.swing.JFrame
+
+    javax.swing.JFrame <|- - nz.ac.wgtn.swen225.lc.app.FileSelector
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

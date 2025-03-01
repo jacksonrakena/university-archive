@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="329px" preserveAspectRatio="none" style="width:343px;height:329px;background:#FFFFFF;" version="1.1" viewBox="0 0 343 329" width="343px" zoomAndPan="magnify"><defs><filter height="300%" id="fuj2sdenrpmg7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[1cf27ab053227b9807cf5ae5fdafc18f]
+cluster nz.ac.wgtn.swen225.lc.domain.world.level--><polygon fill="#FFFFFF" filter="url(#fuj2sdenrpmg7)" points="16,129,316,129,323,151.4883,326,151.4883,326,305.73,16,305.73,16,129" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="323" y1="151.4883" y2="151.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="294" x="20" y="144.5352">nz.ac.wgtn.swen225.lc.domain.world.level</text><!--MD5=[aa8f7b917213fcc1c2766e2d59b49067]
+cluster java.lang--><polygon fill="#FFFFFF" filter="url(#fuj2sdenrpmg7)" points="118,6,187,6,194,28.4883,224,28.4883,224,105,118,105,118,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="118" x2="194" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="63" x="122" y="21.5352">java.lang</text><!--MD5=[3cced4f5267fc89281e7d01c0606a98a]
+class nz.ac.wgtn.swen225.lc.domain.world.level.Level--><a href="Level.html" target="_top" title="Level.html" xlink:actuate="onRequest" xlink:href="Level.html" xlink:show="new" xlink:title="Level.html" xlink:type="simple"><rect codeLine="3" fill="#FEFECE" filter="url(#fuj2sdenrpmg7)" height="125.7305" id="nz.ac.wgtn.swen225.lc.domain.world.level.Level" style="stroke:#A80036;stroke-width:1.5;" width="250" x="46" y="164"/><ellipse cx="152.25" cy="180" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M154.7231,186.1431 Q154.1421,186.4419 153.5029,186.5913 Q152.8638,186.7407 152.1582,186.7407 Q149.6514,186.7407 148.3315,185.0889 Q147.0117,183.437 147.0117,180.3159 Q147.0117,177.1865 148.3315,175.5347 Q149.6514,173.8828 152.1582,173.8828 Q152.8638,173.8828 153.5112,174.0322 Q154.1587,174.1816 154.7231,174.4805 L154.7231,177.2031 Q154.0923,176.6221 153.4988,176.3523 Q152.9053,176.0825 152.2744,176.0825 Q150.9297,176.0825 150.2449,177.1492 Q149.5601,178.2158 149.5601,180.3159 Q149.5601,182.4077 150.2449,183.4744 Q150.9297,184.541 152.2744,184.541 Q152.9053,184.541 153.4988,184.2712 Q154.0923,184.0015 154.7231,183.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="172.75" y="184.5352">Level</text><line style="stroke:#A80036;stroke-width:1.5;" x1="47" x2="295" y1="196" y2="196"/><line style="stroke:#A80036;stroke-width:1.5;" x1="47" x2="295" y1="204" y2="204"/><ellipse cx="57" cy="215" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="224" x="66" y="218.6348">Level(String, Tile[], Position, List&lt;Agent&gt;)</text><ellipse cx="57" cy="227.9551" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="143" x="66" y="231.5898">generateGameTiles(): Tile[]</text><ellipse cx="57" cy="240.9102" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="79" x="66" y="244.5449">mapId(): String</text><ellipse cx="57" cy="253.8652" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="66" y="257.5">originalTiles(): Tile[]</text><ellipse cx="57" cy="266.8203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="167" x="66" y="270.4551">playerSpawnPosition(): Position</text><ellipse cx="57" cy="279.7754" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="119" x="66" y="283.4102">agents(): List&lt;Agent&gt;</text></a><!--MD5=[aeced6b90a5f9cea7e9b0d4e8b5a9b7c]
+class java.lang.Record--><rect codeLine="16" fill="#FEFECE" filter="url(#fuj2sdenrpmg7)" height="48" id="java.lang.Record" style="stroke:#A80036;stroke-width:1.5;" width="73" x="134.5" y="41"/><ellipse cx="149.5" cy="57" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M149.3633,52.3481 L148.2095,57.4199 L150.5254,57.4199 Z M147.8691,50.1069 L150.8657,50.1069 L154.2109,62.5 L151.7622,62.5 L150.9985,59.437 L147.7197,59.437 L146.9727,62.5 L144.5239,62.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="41" x="163.5" y="61.5352">Record</text><line style="stroke:#A80036;stroke-width:1.5;" x1="135.5" x2="206.5" y1="73" y2="73"/><line style="stroke:#A80036;stroke-width:1.5;" x1="135.5" x2="206.5" y1="81" y2="81"/><!--MD5=[1a21ac82455ff73aae32cadbbb4a20ea]
+reverse link java.lang.Record to nz.ac.wgtn.swen225.lc.domain.world.level.Level--><path codeLine="12" d="M171,110.71 C171,127.09 171,145.94 171,163.57 " fill="none" id="java.lang.Record-backto-nz.ac.wgtn.swen225.lc.domain.world.level.Level" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="164,110.76,171,90.76,178,110.76,164,110.76" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="74" y="321.398">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[97888cc5828f5dc54fdd31c0b24a5507]
+@startuml
+    namespace nz.ac.wgtn.swen225.lc.domain.world.level {
+
+        class Level [[Level.html]] {
+            +Level(String, Tile[], Position, List<Agent>)
+            +generateGameTiles(): Tile[]
+            +mapId(): String
+            +originalTiles(): Tile[]
+            +playerSpawnPosition(): Position
+            +agents(): List<Agent>
+        }
+
+        java.lang.Record <|- - Level
+    }
+
+    namespace java.lang {
+        abstract class Record
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

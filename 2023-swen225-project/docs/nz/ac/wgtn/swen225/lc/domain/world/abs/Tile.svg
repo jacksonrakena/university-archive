@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="195px" preserveAspectRatio="none" style="width:252px;height:195px;background:#FFFFFF;" version="1.1" viewBox="0 0 252 195" width="252px" zoomAndPan="magnify"><defs><filter height="300%" id="fazabcfcbdc9h" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[9577de04549f7dbde57272e57436f547]
+class nz.ac.wgtn.swen225.lc.domain.world.abs.Tile--><a href="Tile.html" target="_top" title="Tile.html" xlink:actuate="onRequest" xlink:href="Tile.html" xlink:show="new" xlink:title="Tile.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#fazabcfcbdc9h)" height="59.2207" id="nz.ac.wgtn.swen225.lc.domain.world.abs.Tile" style="stroke:#A80036;stroke-width:1.5;" width="231" x="7" y="105.27"/><ellipse cx="22" cy="124.4028" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M21.8633,119.751 L20.7095,124.8227 L23.0254,124.8227 Z M20.3691,117.5097 L23.3657,117.5097 L26.7109,129.9028 L24.2622,129.9028 L23.4985,126.8398 L20.2197,126.8398 L19.4727,129.9028 L17.0239,129.9028 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="25" x="123" y="123.8052">Tile</text><text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" lengthAdjust="spacing" textLength="199" x="36" y="136.4263">nz.ac.wgtn.swen225.lc.domain.world.abs</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="237" y1="143.5356" y2="143.5356"/><ellipse cx="18" cy="154.5356" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="180" x="27" y="158.1704">canMoveInto(Controller): boolean</text></a><!--MD5=[e928e726d300d3bec07862808e5ce117]
+class java.lang.Cloneable--><rect codeLine="9" fill="#FEFECE" filter="url(#fazabcfcbdc9h)" height="38.2656" id="java.lang.Cloneable" style="stroke:#A80036;stroke-width:1.5;" width="101" x="72" y="7"/><ellipse cx="87" cy="26.1328" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M83.4277,22.3979 L83.4277,20.2397 L90.8071,20.2397 L90.8071,22.3979 L88.3418,22.3979 L88.3418,30.4746 L90.8071,30.4746 L90.8071,32.6328 L83.4277,32.6328 L83.4277,30.4746 L85.8931,30.4746 L85.8931,22.3979 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="69" x="101" y="25.5352">Cloneable</text><text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" lengthAdjust="spacing" textLength="44" x="113.5" y="38.1563">java.lang</text><!--MD5=[e0e1f346add4e341dc36247410b2486f]
+reverse link java.lang.Cloneable to nz.ac.wgtn.swen225.lc.domain.world.abs.Tile--><path codeLine="11" d="M122.5,67.2 C122.5,79.78 122.5,93.41 122.5,105.05 " fill="none" id="java.lang.Cloneable-backto-nz.ac.wgtn.swen225.lc.domain.world.abs.Tile" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="115.5,67.24,122.5,47.24,129.5,67.24,115.5,67.24" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="28.5" y="187.1587">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[f0630dc6b35e86878a340ebc6680251c]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    abstract class "<size:14>Tile\n<size:10>nz.ac.wgtn.swen225.lc.domain.world.abs" as nz.ac.wgtn.swen225.lc.domain.world.abs.Tile [[Tile.html]] {
+        +canMoveInto(Controller): boolean
+    }
+
+    interface "<size:14>Cloneable\n<size:10>java.lang" as java.lang.Cloneable
+
+    java.lang.Cloneable <|.. nz.ac.wgtn.swen225.lc.domain.world.abs.Tile
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

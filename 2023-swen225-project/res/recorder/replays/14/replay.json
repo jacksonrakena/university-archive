@@ -1,0 +1,202 @@
+{
+  "treeMap": {
+    "0": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 6
+        },
+        "direction": "LEFT"
+      },
+      "agents": [
+        {
+          "position": {
+            "x": 9,
+            "y": 1
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 9,
+            "y": 4
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 5,
+            "y": 6
+          },
+          "direction": "LEFT"
+        },
+        {
+          "position": {
+            "x": 13,
+            "y": 3
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 3,
+            "y": 7
+          },
+          "direction": "LEFT"
+        }
+      ]
+    },
+    "2": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 7
+        },
+        "direction": "DOWN"
+      },
+      "agents": [
+        {
+          "position": {
+            "x": 9,
+            "y": 1
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 9,
+            "y": 4
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 5,
+            "y": 6
+          },
+          "direction": "LEFT"
+        },
+        {
+          "position": {
+            "x": 13,
+            "y": 3
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 3,
+            "y": 7
+          },
+          "direction": "LEFT"
+        }
+      ]
+    },
+    "19": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 8
+        },
+        "direction": "DOWN"
+      }
+    },
+    "28": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 9
+        },
+        "direction": "DOWN"
+      }
+    },
+    "37": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 10
+        },
+        "direction": "DOWN"
+      }
+    },
+    "46": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 11
+        },
+        "direction": "DOWN"
+      },
+      "agents": [
+        {
+          "position": {
+            "x": 9,
+            "y": 1
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 9,
+            "y": 4
+          },
+          "direction": "RIGHT"
+        },
+        {
+          "position": {
+            "x": 5,
+            "y": 6
+          },
+          "direction": "LEFT"
+        },
+        {
+          "position": {
+            "x": 13,
+            "y": 3
+          },
+          "direction": "UP"
+        },
+        {
+          "position": {
+            "x": 3,
+            "y": 7
+          },
+          "direction": "LEFT"
+        }
+      ]
+    },
+    "58": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 12
+        },
+        "direction": "DOWN"
+      }
+    },
+    "68": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 13
+        },
+        "direction": "DOWN"
+      }
+    },
+    "78": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 13
+        },
+        "direction": "RIGHT"
+      },
+      "remainingTreasures": 4,
+      "tile at: (4, 13) ": {
+        "tileType": "FreeTile",
+        "x": 4,
+        "y": 13
+      }
+    }
+  }
+}

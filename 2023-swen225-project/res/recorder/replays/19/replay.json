@@ -1,0 +1,207 @@
+{
+  "treeMap": {
+    "0": {
+      "positionAndDirection": {
+        "position": {
+          "x": 5,
+          "y": 6
+        },
+        "direction": "DOWN"
+      }
+    },
+    "1": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 6
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "2": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 7
+        },
+        "direction": "DOWN"
+      }
+    },
+    "3": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 7
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "4": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 8
+        },
+        "direction": "DOWN"
+      }
+    },
+    "5": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 8
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "6": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 7
+        },
+        "direction": "UP"
+      }
+    },
+    "7": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 7
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "8": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 6
+        },
+        "direction": "UP"
+      }
+    },
+    "9": {
+      "positionAndDirection": {
+        "position": {
+          "x": 10,
+          "y": 6
+        },
+        "direction": "RIGHT"
+      }
+    },
+    "10": {
+      "positionAndDirection": {
+        "position": {
+          "x": 9,
+          "y": 6
+        },
+        "direction": "LEFT"
+      },
+      "agents": []
+    },
+    "11": {
+      "positionAndDirection": {
+        "position": {
+          "x": 8,
+          "y": 6
+        },
+        "direction": "LEFT"
+      }
+    },
+    "12": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 6
+        },
+        "direction": "LEFT"
+      }
+    },
+    "13": {
+      "positionAndDirection": {
+        "position": {
+          "x": 7,
+          "y": 5
+        },
+        "direction": "UP"
+      }
+    },
+    "14": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 5
+        },
+        "direction": "LEFT"
+      }
+    },
+    "26": {
+      "positionAndDirection": {
+        "position": {
+          "x": 6,
+          "y": 6
+        },
+        "direction": "DOWN"
+      }
+    },
+    "28": {
+      "positionAndDirection": {
+        "position": {
+          "x": 5,
+          "y": 6
+        },
+        "direction": "LEFT"
+      }
+    },
+    "30": {
+      "positionAndDirection": {
+        "position": {
+          "x": 5,
+          "y": 7
+        },
+        "direction": "DOWN"
+      }
+    },
+    "32": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 7
+        },
+        "direction": "LEFT"
+      }
+    },
+    "33": {
+      "positionAndDirection": {
+        "position": {
+          "x": 4,
+          "y": 8
+        },
+        "direction": "DOWN"
+      }
+    },
+    "34": {
+      "positionAndDirection": {
+        "position": {
+          "x": 3,
+          "y": 8
+        },
+        "direction": "LEFT"
+      },
+      "agents": []
+    },
+    "108": {
+      "agents": []
+    },
+    "153": {
+      "agents": []
+    },
+    "197": {
+      "agents": []
+    },
+    "241": {
+      "agents": []
+    }
+  }
+}

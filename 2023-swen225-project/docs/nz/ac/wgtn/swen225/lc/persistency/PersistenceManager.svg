@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="195px" preserveAspectRatio="none" style="width:226px;height:195px;background:#FFFFFF;" version="1.1" viewBox="0 0 226 195" width="226px" zoomAndPan="magnify"><defs><filter height="300%" id="f51q78nxaqekd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c72fb0612c64c7d75acdd8095f617dc7]
+class nz.ac.wgtn.swen225.lc.persistency.PersistenceManager--><a href="PersistenceManager.html" target="_top" title="PersistenceManager.html" xlink:actuate="onRequest" xlink:href="PersistenceManager.html" xlink:show="new" xlink:title="PersistenceManager.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f51q78nxaqekd)" height="162.8613" id="nz.ac.wgtn.swen225.lc.persistency.PersistenceManager" style="stroke:#A80036;stroke-width:1.5;" width="205" x="7" y="7"/><ellipse cx="24.25" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M26.7231,32.2759 Q26.1421,32.5747 25.5029,32.7241 Q24.8638,32.8735 24.1582,32.8735 Q21.6514,32.8735 20.3315,31.2217 Q19.0117,29.5698 19.0117,26.4487 Q19.0117,23.3193 20.3315,21.6675 Q21.6514,20.0156 24.1582,20.0156 Q24.8638,20.0156 25.5112,20.165 Q26.1587,20.3145 26.7231,20.6133 L26.7231,23.3359 Q26.0923,22.7549 25.4988,22.4851 Q24.9053,22.2153 24.2744,22.2153 Q22.9297,22.2153 22.2449,23.282 Q21.5601,24.3486 21.5601,26.4487 Q21.5601,28.5405 22.2449,29.6072 Q22.9297,30.6738 24.2744,30.6738 Q24.9053,30.6738 25.4988,30.4041 Q26.0923,30.1343 26.7231,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="54.25" y="25.5352">PersistenceManager</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="168" x="38.75" y="38.1563">nz.ac.wgtn.swen225.lc.persistency</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="211" y1="45.2656" y2="45.2656"/><ellipse cx="18" cy="56.2656" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="105" x="27" y="59.9004">loadLevels(): Level[]</text><ellipse cx="18" cy="69.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="179" x="27" y="72.8555">loadGameModel(File): GameModel</text><ellipse cx="18" cy="82.1758" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="147" x="27" y="85.8105">save(GameModel, File): void</text><ellipse cx="18" cy="95.1309" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="27" y="98.7656">loadLevel(File): Level</text><ellipse cx="18" cy="108.0859" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="112" x="27" y="111.7207">save(Level, File): void</text><ellipse cx="18" cy="121.041" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="125" x="27" y="124.6758">loadReplay(File): Replay</text><ellipse cx="18" cy="133.9961" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="120" x="27" y="137.6309">save(Replay, File): void</text><ellipse cx="18" cy="146.9512" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="176" x="27" y="150.5859">getSimpleEnemy(Position): Agent</text><ellipse cx="18" cy="159.9063" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="133" x="27" y="163.541">getBadActorImage(): URL</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="18.5" y="186.5293">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[573eb1899c4a942779ef3aac84b5199a]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>PersistenceManager\n<size:10>nz.ac.wgtn.swen225.lc.persistency" as nz.ac.wgtn.swen225.lc.persistency.PersistenceManager [[PersistenceManager.html]] {
+        +loadLevels(): Level[]
+        +loadGameModel(File): GameModel
+        +save(GameModel, File): void
+        +loadLevel(File): Level
+        +save(Level, File): void
+        +loadReplay(File): Replay
+        +save(Replay, File): void
+        +getSimpleEnemy(Position): Agent
+        +getBadActorImage(): URL
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

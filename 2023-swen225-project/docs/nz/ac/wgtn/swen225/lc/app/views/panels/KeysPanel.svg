@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="195px" preserveAspectRatio="none" style="width:249px;height:195px;background:#FFFFFF;" version="1.1" viewBox="0 0 249 195" width="249px" zoomAndPan="magnify"><defs><filter height="300%" id="fqql3bjzq0g1k" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[d4ea6aefb1729ccc9920141398f9e463]
+class nz.ac.wgtn.swen225.lc.app.views.panels.KeysPanel--><a href="KeysPanel.html" target="_top" title="KeysPanel.html" xlink:actuate="onRequest" xlink:href="KeysPanel.html" xlink:show="new" xlink:title="KeysPanel.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#fqql3bjzq0g1k)" height="59.2207" id="nz.ac.wgtn.swen225.lc.app.views.panels.KeysPanel" style="stroke:#A80036;stroke-width:1.5;" width="228" x="7" y="105.27"/><ellipse cx="22" cy="124.4028" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M24.4731,130.5459 Q23.8921,130.8447 23.2529,130.9941 Q22.6138,131.1435 21.9082,131.1435 Q19.4014,131.1435 18.0815,129.4917 Q16.7617,127.8398 16.7617,124.7187 Q16.7617,121.5893 18.0815,119.9375 Q19.4014,118.2856 21.9082,118.2856 Q22.6138,118.2856 23.2612,118.435 Q23.9087,118.5845 24.4731,118.8833 L24.4731,121.6059 Q23.8423,121.0249 23.2488,120.7551 Q22.6553,120.4853 22.0244,120.4853 Q20.6797,120.4853 19.9949,121.552 Q19.3101,122.6186 19.3101,124.7187 Q19.3101,126.8105 19.9949,127.8772 Q20.6797,128.9438 22.0244,128.9438 Q22.6553,128.9438 23.2488,128.6741 Q23.8423,128.4043 24.4731,127.8232 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="100" y="123.8052">KeysPanel</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="196" x="36" y="136.4263">nz.ac.wgtn.swen225.lc.app.views.panels</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="234" y1="143.5356" y2="143.5356"/><ellipse cx="18" cy="154.5356" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="161" x="27" y="158.1704">KeysPanel(String, GameModel)</text></a><!--MD5=[56a185cb33bdc7c23303e5865f20a19b]
+class javax.swing.JPanel--><rect codeLine="9" fill="#FEFECE" filter="url(#fqql3bjzq0g1k)" height="38.2656" id="javax.swing.JPanel" style="stroke:#A80036;stroke-width:1.5;" width="89" x="76.5" y="7"/><ellipse cx="91.5" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M93.9731,32.2759 Q93.3921,32.5747 92.7529,32.7241 Q92.1138,32.8735 91.4082,32.8735 Q88.9014,32.8735 87.5815,31.2217 Q86.2617,29.5698 86.2617,26.4487 Q86.2617,23.3193 87.5815,21.6675 Q88.9014,20.0156 91.4082,20.0156 Q92.1138,20.0156 92.7612,20.165 Q93.4087,20.3145 93.9731,20.6133 L93.9731,23.3359 Q93.3423,22.7549 92.7488,22.4851 Q92.1553,22.2153 91.5244,22.2153 Q90.1797,22.2153 89.4949,23.282 Q88.8101,24.3486 88.8101,26.4487 Q88.8101,28.5405 89.4949,29.6072 Q90.1797,30.6738 91.5244,30.6738 Q92.1553,30.6738 92.7488,30.4041 Q93.3423,30.1343 93.9731,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="113.5" y="25.5352">JPanel</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="57" x="105.5" y="38.1563">javax.swing</text><!--MD5=[7d1c31acd22b71b269e0fd3fbf854d0f]
+reverse link javax.swing.JPanel to nz.ac.wgtn.swen225.lc.app.views.panels.KeysPanel--><path codeLine="11" d="M121,67.2 C121,79.78 121,93.41 121,105.05 " fill="none" id="javax.swing.JPanel-backto-nz.ac.wgtn.swen225.lc.app.views.panels.KeysPanel" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="114,67.24,121,47.24,128,67.24,114,67.24" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="27" y="187.1587">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[f6927933cc77cb361399e7f1f05445e1]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>KeysPanel\n<size:10>nz.ac.wgtn.swen225.lc.app.views.panels" as nz.ac.wgtn.swen225.lc.app.views.panels.KeysPanel [[KeysPanel.html]] {
+        +KeysPanel(String, GameModel)
+    }
+
+    class "<size:14>JPanel\n<size:10>javax.swing" as javax.swing.JPanel
+
+    javax.swing.JPanel <|- - nz.ac.wgtn.swen225.lc.app.views.panels.KeysPanel
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

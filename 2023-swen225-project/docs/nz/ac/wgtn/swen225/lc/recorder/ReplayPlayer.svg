@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="182px" preserveAspectRatio="none" style="width:438px;height:182px;background:#FFFFFF;" version="1.1" viewBox="0 0 438 182" width="438px" zoomAndPan="magnify"><defs><filter height="300%" id="f6456ksw6259u" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[3fe396588f24ae27dc931b57bc7e75d4]
+class nz.ac.wgtn.swen225.lc.recorder.ReplayPlayer--><a href="ReplayPlayer.html" target="_top" title="ReplayPlayer.html" xlink:actuate="onRequest" xlink:href="ReplayPlayer.html" xlink:show="new" xlink:title="ReplayPlayer.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f6456ksw6259u)" height="149.9063" id="nz.ac.wgtn.swen225.lc.recorder.ReplayPlayer" style="stroke:#A80036;stroke-width:1.5;" width="417" x="7" y="7"/><ellipse cx="134.25" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M136.7231,32.2759 Q136.1421,32.5747 135.5029,32.7241 Q134.8638,32.8735 134.1582,32.8735 Q131.6514,32.8735 130.3315,31.2217 Q129.0117,29.5698 129.0117,26.4487 Q129.0117,23.3193 130.3315,21.6675 Q131.6514,20.0156 134.1582,20.0156 Q134.8638,20.0156 135.5112,20.165 Q136.1587,20.3145 136.7231,20.6133 L136.7231,23.3359 Q136.0923,22.7549 135.4988,22.4851 Q134.9053,22.2153 134.2744,22.2153 Q132.9297,22.2153 132.2449,23.282 Q131.5601,24.3486 131.5601,26.4487 Q131.5601,28.5405 132.2449,29.6072 Q132.9297,30.6738 134.2744,30.6738 Q134.9053,30.6738 135.4988,30.4041 Q136.0923,30.1343 136.7231,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="188.75" y="25.5352">ReplayPlayer</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="154" x="154.75" y="38.1563">nz.ac.wgtn.swen225.lc.recorder</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="423" y1="45.2656" y2="45.2656"/><ellipse cx="18" cy="56.2656" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="391" x="27" y="59.9004">ReplayPlayer(GameModel, TreeMap&lt;Integer, HashMap&lt;String, Object&gt;&gt;)</text><ellipse cx="18" cy="69.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="27" y="72.8555">setTime(int): void</text><ellipse cx="18" cy="82.1758" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="27" y="85.8105">realTime(): void</text><ellipse cx="18" cy="95.1309" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="27" y="98.7656">stepByStep(): void</text><ellipse cx="18" cy="108.0859" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="27" y="111.7207">play(): void</text><ellipse cx="18" cy="121.041" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="27" y="124.6758">pause(): void</text><ellipse cx="18" cy="133.9961" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="27" y="137.6309">hasEnded(): boolean</text><ellipse cx="18" cy="146.9512" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="171" x="27" y="150.5859">findValidReplay(String): boolean</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="124.5" y="173.5742">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[5f90d6f3cb35fbfc90473d68497e6919]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>ReplayPlayer\n<size:10>nz.ac.wgtn.swen225.lc.recorder" as nz.ac.wgtn.swen225.lc.recorder.ReplayPlayer [[ReplayPlayer.html]] {
+        +ReplayPlayer(GameModel, TreeMap<Integer, HashMap<String, Object>>)
+        +setTime(int): void
+        +realTime(): void
+        +stepByStep(): void
+        +play(): void
+        +pause(): void
+        +hasEnded(): boolean
+        {static} +findValidReplay(String): boolean
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

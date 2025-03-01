@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="219px" preserveAspectRatio="none" style="width:393px;height:219px;background:#FFFFFF;" version="1.1" viewBox="0 0 393 219" width="393px" zoomAndPan="magnify"><defs><filter height="300%" id="f1pg1nlv9l5w9s" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c037cbb31ec5d389acd2c5a20514f684]
+class nz.ac.wgtn.swen225.lc.persistency.LevelDeserializer--><a href="LevelDeserializer.html" target="_top" title="LevelDeserializer.html" xlink:actuate="onRequest" xlink:href="LevelDeserializer.html" xlink:show="new" xlink:title="LevelDeserializer.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f1pg1nlv9l5w9s)" height="59.2207" id="nz.ac.wgtn.swen225.lc.persistency.LevelDeserializer" style="stroke:#A80036;stroke-width:1.5;" width="372" x="7" y="129.22"/><ellipse cx="104.75" cy="148.3528" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M107.2231,154.4959 Q106.6421,154.7947 106.0029,154.9441 Q105.3638,155.0935 104.6582,155.0935 Q102.1514,155.0935 100.8315,153.4417 Q99.5117,151.7898 99.5117,148.6687 Q99.5117,145.5393 100.8315,143.8875 Q102.1514,142.2356 104.6582,142.2356 Q105.3638,142.2356 106.0112,142.385 Q106.6587,142.5345 107.2231,142.8333 L107.2231,145.5559 Q106.5923,144.9749 105.9988,144.7051 Q105.4053,144.4353 104.7744,144.4353 Q103.4297,144.4353 102.7449,145.502 Q102.0601,146.5686 102.0601,148.6687 Q102.0601,150.7605 102.7449,151.8272 Q103.4297,152.8938 104.7744,152.8938 Q105.4053,152.8938 105.9988,152.6241 Q106.5923,152.3543 107.2231,151.7732 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="151.75" y="147.7552">LevelDeserializer</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="168" x="125.25" y="160.3763">nz.ac.wgtn.swen225.lc.persistency</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="378" y1="167.4856" y2="167.4856"/><ellipse cx="18" cy="178.4856" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="346" x="27" y="182.1204">deserialize(JsonElement, Type, JsonDeserializationContext): Level</text></a><!--MD5=[158deb3feaef9513dff2170794b50c9a]
+class com.google.gson.JsonDeserializer--><rect codeLine="9" fill="#FEFECE" filter="url(#f1pg1nlv9l5w9s)" height="59.2207" id="com.google.gson.JsonDeserializer" style="stroke:#A80036;stroke-width:1.5;" width="372" x="7" y="10"/><ellipse cx="117.25" cy="29.1328" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M113.6777,25.3979 L113.6777,23.2397 L121.0571,23.2397 L121.0571,25.3979 L118.5918,25.3979 L118.5918,33.4746 L121.0571,33.4746 L121.0571,35.6328 L113.6777,35.6328 L113.6777,33.4746 L116.1431,33.4746 L116.1431,25.3979 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="110" x="137.75" y="28.5352">JsonDeserializer</text><text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" lengthAdjust="spacing" textLength="82" x="151.75" y="41.1563">com.google.gson</text><rect fill="#FFFFFF" height="16.1328" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="31" x="351" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="29" x="352" y="19.6016">Level</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="378" y1="48.2656" y2="48.2656"/><ellipse cx="18" cy="59.2656" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="346" x="27" y="62.9004">deserialize(JsonElement, Type, JsonDeserializationContext): Level</text><!--MD5=[188e708ee7a1dfd64f79ca10f3e423dc]
+reverse link com.google.gson.JsonDeserializer to nz.ac.wgtn.swen225.lc.persistency.LevelDeserializer--><path codeLine="13" d="M193,91 C193,103.91 193,117.36 193,128.78 " fill="none" id="com.google.gson.JsonDeserializer-backto-nz.ac.wgtn.swen225.lc.persistency.LevelDeserializer" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="186,91.1,193,71.1,200,91.1,186,91.1" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="99" y="211.1087">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[5f5a9c1e303ca680b562dfab3e976e83]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>LevelDeserializer\n<size:10>nz.ac.wgtn.swen225.lc.persistency" as nz.ac.wgtn.swen225.lc.persistency.LevelDeserializer [[LevelDeserializer.html]] {
+        +deserialize(JsonElement, Type, JsonDeserializationContext): Level
+    }
+
+    interface "<size:14>JsonDeserializer\n<size:10>com.google.gson" as com.google.gson.JsonDeserializer<Level> {
+        {abstract} +deserialize(JsonElement, Type, JsonDeserializationContext): Level
+    }
+
+    com.google.gson.JsonDeserializer <|.. nz.ac.wgtn.swen225.lc.persistency.LevelDeserializer
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

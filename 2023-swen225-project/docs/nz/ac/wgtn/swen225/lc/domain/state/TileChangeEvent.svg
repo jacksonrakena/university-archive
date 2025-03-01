@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="247px" preserveAspectRatio="none" style="width:338px;height:247px;background:#FFFFFF;" version="1.1" viewBox="0 0 338 247" width="338px" zoomAndPan="magnify"><defs><filter height="300%" id="f1336im5ebyylb" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[827122b4c9fc2daa7a80925c0ccd7f8d]
+class nz.ac.wgtn.swen225.lc.domain.state.TileChangeEvent--><a href="TileChangeEvent.html" target="_top" title="TileChangeEvent.html" xlink:actuate="onRequest" xlink:href="TileChangeEvent.html" xlink:show="new" xlink:title="TileChangeEvent.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f1336im5ebyylb)" height="111.041" id="nz.ac.wgtn.swen225.lc.domain.state.TileChangeEvent" style="stroke:#A80036;stroke-width:1.5;" width="317" x="7" y="105.27"/><ellipse cx="72.75" cy="124.4028" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M75.2231,130.5459 Q74.6421,130.8447 74.0029,130.9941 Q73.3638,131.1435 72.6582,131.1435 Q70.1514,131.1435 68.8315,129.4917 Q67.5117,127.8398 67.5117,124.7187 Q67.5117,121.5893 68.8315,119.9375 Q70.1514,118.2856 72.6582,118.2856 Q73.3638,118.2856 74.0112,118.435 Q74.6587,118.5845 75.2231,118.8833 L75.2231,121.6059 Q74.5923,121.0249 73.9988,120.7551 Q73.4053,120.4853 72.7744,120.4853 Q71.4297,120.4853 70.7449,121.552 Q70.0601,122.6186 70.0601,124.7187 Q70.0601,126.8105 70.7449,127.8772 Q71.4297,128.9438 72.7744,128.9438 Q73.4053,128.9438 73.9988,128.6741 Q74.5923,128.4043 75.2231,127.8232 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="124.25" y="123.8052">TileChangeEvent</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="177" x="93.25" y="136.4262">nz.ac.wgtn.swen225.lc.domain.state</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="323" y1="143.5356" y2="143.5356"/><ellipse cx="18" cy="154.5356" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="291" x="27" y="158.1704">TileChangeEvent(GameModel, Tile[], Position, Tile, Tile)</text><ellipse cx="18" cy="167.4907" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="63" x="27" y="171.1255">tiles(): Tile[]</text><ellipse cx="18" cy="180.4458" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="27" y="184.0805">position(): Position</text><ellipse cx="18" cy="193.4009" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="27" y="197.0356">oldTile(): Tile</text><ellipse cx="18" cy="206.3559" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="27" y="209.9907">newTile(): Tile</text></a><!--MD5=[b3748cb94c5246e1c7bdcc60cb1ee89f]
+class java.beans.PropertyChangeEvent--><rect codeLine="13" fill="#FEFECE" filter="url(#f1336im5ebyylb)" height="38.2656" id="java.beans.PropertyChangeEvent" style="stroke:#A80036;stroke-width:1.5;" width="180" x="75.5" y="7"/><ellipse cx="90.5" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M92.9731,32.2759 Q92.3921,32.5747 91.7529,32.7241 Q91.1138,32.8735 90.4082,32.8735 Q87.9014,32.8735 86.5815,31.2217 Q85.2617,29.5698 85.2617,26.4487 Q85.2617,23.3193 86.5815,21.6675 Q87.9014,20.0156 90.4082,20.0156 Q91.1138,20.0156 91.7612,20.165 Q92.4087,20.3145 92.9731,20.6133 L92.9731,23.3359 Q92.3423,22.7549 91.7488,22.4851 Q91.1553,22.2153 90.5244,22.2153 Q89.1797,22.2153 88.4949,23.282 Q87.8101,24.3486 87.8101,26.4487 Q87.8101,28.5405 88.4949,29.6072 Q89.1797,30.6738 90.5244,30.6738 Q91.1553,30.6738 91.7488,30.4041 Q92.3423,30.1343 92.9731,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="104.5" y="25.5352">PropertyChangeEvent</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="52" x="152.5" y="38.1563">java.beans</text><!--MD5=[9017488b84ad06211bdab7ac141c9bc8]
+reverse link java.beans.PropertyChangeEvent to nz.ac.wgtn.swen225.lc.domain.state.TileChangeEvent--><path codeLine="15" d="M165.5,66.9 C165.5,78.82 165.5,92.11 165.5,104.83 " fill="none" id="java.beans.PropertyChangeEvent-backto-nz.ac.wgtn.swen225.lc.domain.state.TileChangeEvent" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="158.5,67.09,165.5,47.09,172.5,67.09,158.5,67.09" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="71.5" y="238.979">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[abe932fd5b28a25307af493b1dd8e94c]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>TileChangeEvent\n<size:10>nz.ac.wgtn.swen225.lc.domain.state" as nz.ac.wgtn.swen225.lc.domain.state.TileChangeEvent [[TileChangeEvent.html]] {
+        +TileChangeEvent(GameModel, Tile[], Position, Tile, Tile)
+        +tiles(): Tile[]
+        +position(): Position
+        +oldTile(): Tile
+        +newTile(): Tile
+    }
+
+    class "<size:14>PropertyChangeEvent\n<size:10>java.beans" as java.beans.PropertyChangeEvent
+
+    java.beans.PropertyChangeEvent <|- - nz.ac.wgtn.swen225.lc.domain.state.TileChangeEvent
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="316px" preserveAspectRatio="none" style="width:385px;height:316px;background:#FFFFFF;" version="1.1" viewBox="0 0 385 316" width="385px" zoomAndPan="magnify"><defs><filter height="300%" id="f4ydxzxfevhzr" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[77436a392c2bd073a69130669fb11e28]
+cluster unnamed--><polygon fill="#FFFFFF" filter="url(#f4ydxzxfevhzr)" points="16,167.87,88,167.87,95,190.3583,214,190.3583,214,292.78,16,292.78,16,167.87" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="95" y1="190.3583" y2="190.3583"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="66" x="20" y="183.4052">unnamed</text><!--MD5=[89413922d0abce7dd209c3bfa29444de]
+cluster nz.ac.wgtn.swen225.lc.domain.world.abs.agents--><polygon fill="#FFFFFF" filter="url(#f4ydxzxfevhzr)" points="16,6,358,6,365,28.4883,368,28.4883,368,143.87,16,143.87,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="365" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="336" x="20" y="21.5352">nz.ac.wgtn.swen225.lc.domain.world.abs.agents</text><!--MD5=[e73d9aea9fd9e1040efda2a61abf341c]
+class unnamed.SimpleEnemy--><a href="SimpleEnemy.html" target="_top" title="SimpleEnemy.html" xlink:actuate="onRequest" xlink:href="SimpleEnemy.html" xlink:show="new" xlink:title="SimpleEnemy.html" xlink:type="simple"><rect codeLine="3" fill="#FEFECE" filter="url(#f4ydxzxfevhzr)" height="73.9102" id="unnamed.SimpleEnemy" style="stroke:#A80036;stroke-width:1.5;" width="165" x="32.5" y="202.87"/><ellipse cx="73.15" cy="218.87" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M75.6231,225.0131 Q75.0421,225.3119 74.4029,225.4613 Q73.7638,225.6107 73.0582,225.6107 Q70.5514,225.6107 69.2315,223.9589 Q67.9117,222.307 67.9117,219.1859 Q67.9117,216.0565 69.2315,214.4047 Q70.5514,212.7528 73.0582,212.7528 Q73.7638,212.7528 74.4112,212.9022 Q75.0587,213.0516 75.6231,213.3505 L75.6231,216.0731 Q74.9923,215.4921 74.3988,215.2223 Q73.8053,214.9525 73.1744,214.9525 Q71.8297,214.9525 71.1449,216.0192 Q70.4601,217.0858 70.4601,219.1859 Q70.4601,221.2777 71.1449,222.3444 Q71.8297,223.411 73.1744,223.411 Q73.8053,223.411 74.3988,223.1412 Q74.9923,222.8715 75.6231,222.2904 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="76" x="92.85" y="223.4052">SimpleEnemy</text><line style="stroke:#A80036;stroke-width:1.5;" x1="33.5" x2="196.5" y1="234.87" y2="234.87"/><line style="stroke:#A80036;stroke-width:1.5;" x1="33.5" x2="196.5" y1="242.87" y2="242.87"/><ellipse cx="43.5" cy="253.87" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="52.5" y="257.5048">SimpleEnemy(Position)</text><ellipse cx="43.5" cy="266.8251" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="139" x="52.5" y="270.4598">onTurn(GameModel): void</text></a><!--MD5=[bf311294ad2c08ca8e25260e7b1cffd0]
+class nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent--><a href="nz/ac/wgtn/swen225/lc/domain/world/abs/agents/Agent.html" target="_top" title="nz/ac/wgtn/swen225/lc/domain/world/abs/agents/Agent.html" xlink:actuate="onRequest" xlink:href="nz/ac/wgtn/swen225/lc/domain/world/abs/agents/Agent.html" xlink:show="new" xlink:title="nz/ac/wgtn/swen225/lc/domain/world/abs/agents/Agent.html" xlink:type="simple"><rect codeLine="12" fill="#FEFECE" filter="url(#f4ydxzxfevhzr)" height="86.8652" id="nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent" style="stroke:#A80036;stroke-width:1.5;" width="165" x="32.5" y="41"/><ellipse cx="94.25" cy="57" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M94.1133,52.3481 L92.9595,57.4199 L95.2754,57.4199 Z M92.6191,50.1069 L95.6157,50.1069 L98.9609,62.5 L96.5122,62.5 L95.7485,59.437 L92.4697,59.437 L91.7227,62.5 L89.2739,62.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="33" x="114.75" y="61.5352">Agent</text><line style="stroke:#A80036;stroke-width:1.5;" x1="33.5" x2="196.5" y1="73" y2="73"/><ellipse cx="43.5" cy="84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="52.5" y="87.6348">position: Position</text><ellipse cx="43.5" cy="96.9551" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="52.5" y="100.5898">direction: Direction</text><line style="stroke:#A80036;stroke-width:1.5;" x1="33.5" x2="196.5" y1="106.9102" y2="106.9102"/><ellipse cx="43.5" cy="117.9102" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="139" x="52.5" y="121.5449">onTurn(GameModel): void</text></a><!--MD5=[2784e05abc7c3633777f33bba5c94fd0]
+reverse link nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent to unnamed.SimpleEnemy--><path codeLine="8" d="M115,149.5 C115,167.62 115,186.7 115,202.56 " fill="none" id="nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent-backto-unnamed.SimpleEnemy" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="108,149.68,115,129.68,122,149.68,108,149.68" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="95" y="308.448">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[ed569395a3cb925eeab714662709da9e]
+@startuml
+    namespace unnamed {
+
+        class SimpleEnemy [[SimpleEnemy.html]] {
+            +SimpleEnemy(Position)
+            +onTurn(GameModel): void
+        }
+
+        nz.ac.wgtn.swen225.lc.domain.world.abs.agents.Agent <|- - SimpleEnemy
+    }
+
+    namespace nz.ac.wgtn.swen225.lc.domain.world.abs.agents {
+        abstract class Agent [[nz/ac/wgtn/swen225/lc/domain/world/abs/agents/Agent.html]] {
+            +position: Position
+            +direction: Direction
+            {abstract} +onTurn(GameModel): void
+        }
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

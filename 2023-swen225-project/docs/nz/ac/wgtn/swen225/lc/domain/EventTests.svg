@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="104px" preserveAspectRatio="none" style="width:223px;height:104px;background:#FFFFFF;" version="1.1" viewBox="0 0 223 104" width="223px" zoomAndPan="magnify"><defs><filter height="300%" id="fykhji43zm3eu" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c319c274fa151e64950eba34378d5730]
+class nz.ac.wgtn.swen225.lc.domain.EventTests--><a href="EventTests.html" target="_top" title="EventTests.html" xlink:actuate="onRequest" xlink:href="EventTests.html" xlink:show="new" xlink:title="EventTests.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#fykhji43zm3eu)" height="72.1758" id="nz.ac.wgtn.swen225.lc.domain.EventTests" style="stroke:#A80036;stroke-width:1.5;" width="202" x="7" y="7"/><ellipse cx="31.45" cy="26.1328" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M33.9231,32.2759 Q33.3421,32.5747 32.7029,32.7241 Q32.0638,32.8735 31.3582,32.8735 Q28.8514,32.8735 27.5315,31.2217 Q26.2117,29.5698 26.2117,26.4487 Q26.2117,23.3193 27.5315,21.6675 Q28.8514,20.0156 31.3582,20.0156 Q32.0638,20.0156 32.7112,20.165 Q33.3587,20.3145 33.9231,20.6133 L33.9231,23.3359 Q33.2923,22.7549 32.6988,22.4851 Q32.1053,22.2153 31.4744,22.2153 Q30.1297,22.2153 29.4449,23.282 Q28.7601,24.3486 28.7601,26.4487 Q28.7601,28.5405 29.4449,29.6072 Q30.1297,30.6738 31.4744,30.6738 Q32.1053,30.6738 32.6988,30.4041 Q33.2923,30.1343 33.9231,29.5532 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="85.55" y="25.5352">EventTests</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="149" x="47.55" y="38.1563">nz.ac.wgtn.swen225.lc.domain</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="208" y1="45.2656" y2="45.2656"/><ellipse cx="18" cy="56.2656" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="176" x="27" y="59.9004">testDirectionChangeEvent(): void</text><ellipse cx="18" cy="69.2207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="146" x="27" y="72.8555">testTileChangeEvent(): void</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="17" y="95.8438">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[6c3763e19e0e8bcee1fc061a17d9b696]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>EventTests\n<size:10>nz.ac.wgtn.swen225.lc.domain" as nz.ac.wgtn.swen225.lc.domain.EventTests [[EventTests.html]] {
+        +testDirectionChangeEvent(): void
+        +testTileChangeEvent(): void
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>

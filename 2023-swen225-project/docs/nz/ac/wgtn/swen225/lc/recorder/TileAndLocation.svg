@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="221px" preserveAspectRatio="none" style="width:210px;height:221px;background:#FFFFFF;" version="1.1" viewBox="0 0 210 221" width="210px" zoomAndPan="magnify"><defs><filter height="300%" id="f5ml458n5hla2" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[aaa86e803c5360a448df60cd3e4f6e64]
+class nz.ac.wgtn.swen225.lc.recorder.TileAndLocation--><a href="TileAndLocation.html" target="_top" title="TileAndLocation.html" xlink:actuate="onRequest" xlink:href="TileAndLocation.html" xlink:show="new" xlink:title="TileAndLocation.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f5ml458n5hla2)" height="85.1309" id="nz.ac.wgtn.swen225.lc.recorder.TileAndLocation" style="stroke:#A80036;stroke-width:1.5;" width="189" x="7" y="105.27"/><ellipse cx="23.35" cy="124.4028" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M25.8231,130.5459 Q25.2421,130.8447 24.6029,130.9941 Q23.9638,131.1435 23.2582,131.1435 Q20.7514,131.1435 19.4315,129.4917 Q18.1117,127.8398 18.1117,124.7187 Q18.1117,121.5893 19.4315,119.9375 Q20.7514,118.2856 23.2582,118.2856 Q23.9638,118.2856 24.6112,118.435 Q25.2587,118.5845 25.8231,118.8833 L25.8231,121.6059 Q25.1923,121.0249 24.5988,120.7551 Q24.0053,120.4853 23.3744,120.4853 Q22.0297,120.4853 21.3449,121.552 Q20.6601,122.6186 20.6601,124.7187 Q20.6601,126.8105 21.3449,127.8772 Q22.0297,128.9438 23.3744,128.9438 Q24.0053,128.9438 24.5988,128.6741 Q25.1923,128.4043 25.8231,127.8232 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="59.15" y="123.8052">TileAndLocation</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="154" x="37.65" y="136.4263">nz.ac.wgtn.swen225.lc.recorder</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="195" y1="143.5356" y2="143.5356"/><ellipse cx="18" cy="154.5356" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="163" x="27" y="158.1704">TileAndLocation(Position, Tile)</text><ellipse cx="18" cy="167.4907" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="27" y="171.1255">position(): Position</text><ellipse cx="18" cy="180.4458" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="27" y="184.0805">tile(): Tile</text></a><!--MD5=[aeced6b90a5f9cea7e9b0d4e8b5a9b7c]
+class java.lang.Record--><rect codeLine="11" fill="#FEFECE" filter="url(#f5ml458n5hla2)" height="38.2656" id="java.lang.Record" style="stroke:#A80036;stroke-width:1.5;" width="80" x="61.5" y="7"/><ellipse cx="76.5" cy="26.1328" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M76.3633,21.481 L75.2095,26.5527 L77.5254,26.5527 Z M74.8691,19.2397 L77.8657,19.2397 L81.2109,31.6328 L78.7622,31.6328 L77.9985,28.5698 L74.7197,28.5698 L73.9727,31.6328 L71.5239,31.6328 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="48" x="90.5" y="25.5352">Record</text><text fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" lengthAdjust="spacing" textLength="44" x="92.5" y="38.1563">java.lang</text><!--MD5=[31dff8d4ae863f511b0d5a25e0f65adf]
+reverse link java.lang.Record to nz.ac.wgtn.swen225.lc.recorder.TileAndLocation--><path codeLine="13" d="M101.5,66.83 C101.5,79.01 101.5,92.46 101.5,104.79 " fill="none" id="java.lang.Record-backto-nz.ac.wgtn.swen225.lc.recorder.TileAndLocation" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="94.5,67.09,101.5,47.09,108.5,67.09,94.5,67.09" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="182" x="7.5" y="213.0688">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[2790872fa43ed53ab01aa2576f23244b]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>TileAndLocation\n<size:10>nz.ac.wgtn.swen225.lc.recorder" as nz.ac.wgtn.swen225.lc.recorder.TileAndLocation [[TileAndLocation.html]] {
+        +TileAndLocation(Position, Tile)
+        +position(): Position
+        +tile(): Tile
+    }
+
+    abstract class "<size:14>Record\n<size:10>java.lang" as java.lang.Record
+
+    java.lang.Record <|- - nz.ac.wgtn.swen225.lc.recorder.TileAndLocation
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 22:13:56 NZST 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: NZ
+--></g></svg>
