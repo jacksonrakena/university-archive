@@ -3,3 +3,5 @@
 **/.idea
 **/bin/
 **/.git/
+**/build/
+**/cmake-build-debug/
