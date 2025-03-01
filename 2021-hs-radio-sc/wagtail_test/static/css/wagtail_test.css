@@ -1,0 +1,29 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    background: #F1F1F1;
+    padding: 25px;
+}
+
+@font-face {
+    font-family: 'ScotsBold';
+    src: url('/static/fonts/a.woff2') format('woff2')
+  }
+  
+@font-face {
+    font-family: 'ScotsRegular';
+    src: url('/static/fonts/b.woff2') format('woff2')
+}
+a {
+    color: #B82832;
+    text-decoration: none;
+    border-bottom: 2px solid #ee434f;
+}
+
+body {
+    font-family: 'ScotsRegular';
+}

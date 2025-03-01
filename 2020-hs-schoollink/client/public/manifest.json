@@ -1,0 +1,8 @@
+{
+  "short_name": "SchoolLink",
+  "name": "SchoolLink New Zealand",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e53e3e",
+  "background_color": "#ffffff"
+}

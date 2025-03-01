@@ -1,0 +1,108 @@
+﻿<Page
+    x:Class="SchoolBuddy.SettingsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SchoolBuddy"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Windows.UI.Xaml.Controls"
+    xmlns:converters="using:SchoolBuddy.Converters"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    Loaded="SettingsPage_Loaded"
+    Unloaded="SettingsPage_Unloaded">
+
+    <Page.Resources>
+        <converters:StringToBitmapImageConverter x:Key="StringToBitmapImageConverter" />
+        <converters:DueSoonTimeConverter x:Key="DueSoonTimeConverter" />
+        <converters:PathwayConverter x:Key="PathwayConverter" />
+    </Page.Resources>
+
+    <Grid>
+        <ScrollViewer>
+            <RelativePanel CanBeScrollAnchor="True">
+                <StackPanel Width="900">
+                    <TextBlock x:Name="InfoHeader" Text="Information" FontSize="40" Margin="40,20,0,0"/>
+                    <RelativePanel x:Name="Info" Margin="40,10,0,0">
+                        <PersonPicture Name="ProfilePicture" ProfilePicture="{x:Bind ViewModel.AvatarPath, Mode=OneWay, Converter={StaticResource StringToBitmapImageConverter}}" />
+                        <Button Click="Avatar_Change_Click" RelativePanel.RightOf="ProfilePicture" Margin="40,40,0,0" Content="Replace avatar" />
+                        <TextBlock Name="FullNameB" RelativePanel.Below="ProfilePicture" Margin="0,10,0,0" >Full name:</TextBlock>
+                        <TextBox RelativePanel.Below="FullNameB" Width="300" Margin="0,10,0,0" Name="UsernameEntryInput" Text="{x:Bind ViewModel.Name, Mode=TwoWay}"/>
+                        <TextBlock Name="SIDEntry" RelativePanel.Below="UsernameEntryInput" Margin="0,10,0,0">Student ID:</TextBlock>
+                        <TextBox RelativePanel.Below="SIDEntry" Width="300" Margin="0,10,0,0" Name="StudentIdText" Text="{x:Bind ViewModel.StudentId, Mode=TwoWay}"/>
+                        <TextBlock Name="NSNEntry" RelativePanel.Below="StudentIdText" Margin="0,10,0,0">National Student Number:</TextBlock>
+                        <TextBox RelativePanel.Below="NSNEntry" Width="300" Margin="0,10,0,0" Name="NSN" Text="{x:Bind ViewModel.NationalStudentNumber, Mode=TwoWay}"/>
+                    </RelativePanel>
+
+                    <TextBlock x:Name="CurriculumHeader" Text="Curriculum" FontSize="40" Margin="40,20,0,0" />
+                    <StackPanel x:Name="Curriculum" Margin="40,0,0,0">
+                        <TextBlock x:Name="PathwayOption">Curriculum pathway:</TextBlock>
+                        <DropDownButton x:Name="PathwayOptionDdb" Content="{x:Bind ViewModel.CurriculumPathway, Mode=OneWay, Converter={StaticResource PathwayConverter}}" Margin="0,10,0,0" Width="Auto">
+                            <DropDownButton.Flyout>
+                                <MenuFlyout Placement="Bottom">
+                                    <MenuFlyoutItem Click="Setting_Pathway_Click" x:Name="InternationalBaccalaureate" Text="International Baccalaureate (IB)" />
+                                    <MenuFlyoutItem Click="Setting_Pathway_Click" x:Name="NationalCertificate" Text="National Certificate of Educational Achievement (NCEA)" />
+                                </MenuFlyout>
+                            </DropDownButton.Flyout>
+                        </DropDownButton>
+                        <StackPanel Visibility="Collapsed" Name="NceaLevelStackPanel">
+                            <TextBlock Margin="0,10,0,0">National Certificate level:</TextBlock>
+                            <DropDownButton x:Name="NceaLevelDdb" Content="{x:Bind NceaLevel.FriendlyValue, Mode=OneWay}" Margin="0,10,0,0" Width="Auto">
+                                <DropDownButton.Flyout>
+                                    <MenuFlyout Placement="Bottom">
+                                        <MenuFlyoutItem Click="Setting_NceaLevel_Click" x:Name="One" Text="Level 1" />
+                                        <MenuFlyoutItem Click="Setting_NceaLevel_Click" x:Name="Two" Text="Level 2" />
+                                        <MenuFlyoutItem Click="Setting_NceaLevel_Click" x:Name="Three" Text="Level 3" />
+                                    </MenuFlyout>
+                                </DropDownButton.Flyout>
+                            </DropDownButton>
+                        </StackPanel>
+                    </StackPanel>
+                    <TextBlock x:Name="AssignmentsHeader" Text="Assignments" FontSize="40" Margin="40,20,0,0" />
+                    <StackPanel RelativePanel.Below="AssignmentsHeader" Margin="40,0,0,0">
+                        <TextBlock x:Name="DueSoonTitle">Relative time for "due soon":</TextBlock>
+                        <DropDownButton x:Name="DueSoonDdb" Content="{x:Bind ViewModel.DueSoonTime, Mode=OneWay, Converter={StaticResource DueSoonTimeConverter}}" Margin="0,10,0,0" Width="Auto">
+                            <DropDownButton.Flyout>
+                                <MenuFlyout Placement="Bottom">
+                                    <MenuFlyoutItem Click="Setting_DueSoon_Click" Tag="1" Text="1 day"/>
+                                    <MenuFlyoutItem Click="Setting_DueSoon_Click" Tag="5" Text="5 days"/>
+                                    <MenuFlyoutItem Click="Setting_DueSoon_Click" Tag="7"  Text="1 week"/>
+                                    <MenuFlyoutItem Click="Setting_DueSoon_Click" Tag="14" Text="2 weeks"/>
+                                    <MenuFlyoutItem Click="Setting_DueSoon_Click" Tag="30"  Text="1 month"/>
+                                    <MenuFlyoutItem Click="Setting_DueSoon_Click" Tag="180" Text="6 months"/>
+                                </MenuFlyout>
+                            </DropDownButton.Flyout>
+                        </DropDownButton>
+                    </StackPanel>
+                    <TextBlock x:Name="CreditsHeader" Text="About" FontSize="36" Margin="40,20,0,0" />
+                    <TextBlock Margin="40,0,0,0">
+                SchoolBuddy <Run Text="{x:Bind Version}"/>
+                    </TextBlock>
+                    <TextBlock Margin="40,0,0,0" TextWrapping="Wrap">
+                Written with love from Wellington, New Zealand.
+                    </TextBlock>
+                    <TextBlock Margin="40,40,0,0" TextWrapping="Wrap">
+                © 2019 SchoolBuddy Working Group
+                    </TextBlock>
+                    <TextBlock Margin="40,40,0,0" FontSize="36">
+                Reset
+                    </TextBlock>
+                    <Button Margin="40,10,0,0" Content="Reset your data" Click="ResetData"/>
+                </StackPanel>
+                <controls:ContentDialog x:Name="ResetDataConfirmation"
+                 Title="Reset your data"
+                 PrimaryButtonText="Confirm"
+                 CloseButtonText="Cancel"
+                 DefaultButton="Primary"
+                 PrimaryButtonClick="ResetDataConfirmation_PrimaryButtonClick">
+                    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                        <TextBlock TextWrapping="Wrap" Width="300">
+                    Are you sure you want to reset all data, including your assignments, timetable, daily notices,
+                    avatar, and user information? This will close SchoolBuddy.
+                        </TextBlock>
+                    </StackPanel>
+                </controls:ContentDialog>
+            </RelativePanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

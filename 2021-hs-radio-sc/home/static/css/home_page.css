@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "ScotsBold";
+  src: url("fonts/a.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ScotsRegular";
+  src: url("fonts/b.woff2") format("woff2");
+}
+
+.header {
+  background: repeating-linear-gradient(
+    45deg,
+    #b828321a,
+    #b828321a 10px,
+    #5454541a 10px,
+    #5454541a 20px
+  );
+  height: 90px;
+  font-family: "ScotsBold";
+  text-align: center;
+  font-size: 36px;
+  vertical-align: middle;
+  line-height: 90px;
+}
+
+.no-margin {
+  margin: 0px;
+}
+
+.navline {
+  height: 40px;
+  background-color: #f1f1f1;
+  border-top: 1px solid #979797;
+  border-bottom: 1px solid black;
+  text-align: center;
+  font-size: 16px;
+  vertical-align: middle;
+  line-height: 32px;
+  font-family: Inter;
+}

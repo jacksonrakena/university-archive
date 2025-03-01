@@ -1,0 +1,56 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:conv="using:SchoolBuddy.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Custom="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    xmlns:controls="using:Windows.UI.Xaml.Controls"
+    x:Class="SchoolBuddy.AssignmentsPage"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <RelativePanel>
+        <Custom:DataGrid RelativePanel.AlignLeftWithPanel="True" Height="727" x:Name="DataGrid"
+                         AutoGenerateColumns="False" ItemsSource="{x:Bind Assignments}" CanUserSortColumns="True" Width="1373"
+                         >
+            <Custom:DataGrid.Resources>
+                <conv:AssignmentDateViewConverter x:Key="AssignmentDateViewConverter" />
+            </Custom:DataGrid.Resources>
+            <Custom:DataGrid.Columns>
+                <Custom:DataGridTextColumn 
+                    Header="Name"
+                    Width="Auto"
+                    Binding="{Binding Name}"
+                    FontSize="20"/>
+                <Custom:DataGridTextColumn 
+                    Header="Date Issued"
+                    Width="SizeToCells"
+                    Binding="{Binding DateIssued, Converter={StaticResource AssignmentDateViewConverter}}"
+                    FontSize="20"/>
+                <Custom:DataGridTextColumn 
+                    Header="Date Due"
+                    Width="SizeToCells"
+                    Binding="{Binding DueDate, Converter={StaticResource AssignmentDateViewConverter}}"
+                    FontSize="20"/>
+            </Custom:DataGrid.Columns>
+        </Custom:DataGrid>
+        <Button Click="Button_Click" RelativePanel.Below="DataGrid" Content="Create new assignment" Margin="50,10,0,0" VerticalAlignment="Top"/>
+        <controls:ContentDialog Opened="AssignmentCreateDialog_Opened" x:Name="AssignmentCreateDialog"
+                 Title="Create new assignment"
+                 PrimaryButtonText="Create"
+                 CloseButtonText="Cancel"
+                 DefaultButton="Primary"
+                 PrimaryButtonClick="AssignmentCreateDialog_PrimaryButtonClick">
+            <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <TextBlock Text="Assignment name" />
+                <TextBox x:Name="AssignmentName" Margin="0,10,0,0"/>
+                <TextBlock Text="Date issued" Margin="0,20,0,0"/>
+                <DatePicker x:Name="DateIssued" Margin="0,10,0,0" />
+
+                <TextBlock Text="Date due" Margin="0,20,0,0"/>
+                <DatePicker x:Name="DateDue" Margin="0,10,0,0" />
+            </StackPanel>
+        </controls:ContentDialog>
+    </RelativePanel>
+</Page>
