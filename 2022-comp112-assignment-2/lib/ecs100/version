@@ -1,0 +1,7 @@
+    public static String version() {
+        // lambas + concurrent drawing + marking + styled output
+        // this version also fixes the Key listener to recognise the arrow keys on mac OS
+        // this version catches exceptions and pops up a dialog box;
+        //      also added resetFontSize and resetLineWidth
+        return "ecs100 library version March 2019";
+    } // end of version

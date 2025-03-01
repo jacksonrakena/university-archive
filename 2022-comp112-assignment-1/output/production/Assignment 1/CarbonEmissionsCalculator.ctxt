@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CarbonEmissionsCalculator
+comment1.params=name\ prompt\ yearlyCalculator\ coefficient
+comment1.target=CarbonProducingActivity(java.lang.String,\ java.lang.String,\ java.util.function.Function,\ double)
+comment2.params=current\ total
+comment2.target=double\ requestAndCalculateEmissions(int,\ int)
+comment3.params=
+comment3.target=double\ calculateEmissions()
+comment3.text=\n\ Calculates\ and\ prints\ carbon\ emissions\n
+comment4.params=
+comment4.target=void\ calculateEmissionsCompletion()
+comment5.params=
+comment5.target=void\ calculateEmissionsChallenge()
+comment6.params=
+comment6.target=void\ setupGUI()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
