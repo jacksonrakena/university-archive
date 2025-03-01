@@ -1,0 +1,230 @@
+---
+title: "DATA202/472 - 2024 - Assignment 2"
+author: "Jackson Rakena"
+date: "2024-05-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(error=TRUE)
+```
+
+```{r}
+library(DBI)
+library(RSQLite)
+```
+
+
+## Q1
+a.
+```{r}
+movies <- read.csv("movies500.csv")
+movies_genres <- read.csv("movies500_genres.csv")
+genres <- read.csv("genres.csv")
+```
+b.
+```{r}
+if (file.exists("movies.sqlite")) {
+  file.remove("movies.sqlite")
+}
+movies_db <- dbConnect(RSQLite::SQLite(), "movies.sqlite")
+```
+c.
+```{r}
+dbWriteTable(movies_db, "movies", movies, overwrite=TRUE)
+dbWriteTable(movies_db, "movies_genres", movies_genres, overwrite=TRUE)
+```
+d.
+```{r}
+genre_count <- dbGetQuery(movies_db, "SELECT COUNT(*) FROM movies_genres")
+genre_count
+```
+e.
+```{r}
+movie_info <- dbGetQuery(movies_db, "SELECT title, runtime, release_date FROM movies WHERE runtime > 360 ORDER BY runtime DESC")
+movie_info
+```
+f.
+```{r }
+dream_movies <- dbGetQuery(movies_db, "SELECT title FROM movies WHERE title LIKE '%dream%'")
+dream_movies
+```
+g.
+```{r}
+dbExecute(movies_db, "DROP TABLE IF EXISTS genres")
+genres_table <- dbExecute(movies_db, "CREATE TABLE genres (genre_id INTEGER PRIMARY KEY, genre_name TEXT)")
+```
+h.
+```{r}
+dbWriteTable(movies_db, "genres", genres, append=TRUE)
+```
+i.
+```{r}
+dbExecute(movies_db, "INSERT INTO genres VALUES (7981, 'Fairy Tale')")
+```
+j.
+```{r}
+dbExecute(movies_db, "UPDATE genres SET genre_name='Magical Realism' WHERE genre_id=7981")
+```
+k.
+```{r}
+dbGetQuery(movies_db, "SELECT movies.title, movies_genres.genre_id FROM movies NATURAL JOIN movies_genres WHERE title='Running Wild'")
+```
+l.
+```{r}
+dbGetQuery(movies_db, "SELECT movies.title, movies_genres.genre_id, genres.genre_name FROM movies NATURAL JOIN movies_genres NATURAL JOIN genres WHERE title='A Kiss at Midnight'")
+```
+m.
+```{r}
+dbGetQuery(movies_db, "SELECT g.genre_id, g.genre_name, COUNT(m.tmdbId) AS movie_count FROM genres g
+LEFT JOIN movies_genres mg ON g.genre_id = mg.genre_id
+LEFT JOIN movies m ON mg.tmdbId = m.tmdbId
+GROUP BY g.genre_id, g.genre_name
+HAVING COUNT(m.tmdbId) >= 10
+ORDER BY movie_count DESC")
+```
+
+
+## Q2
+```{r, message=FALSE}
+library(dplyr)
+library(tidyr)
+vehicles <- read.csv("motor_vehicle_modified.csv", stringsAsFactors = FALSE)
+```
+a.
+
+Base R:
+```{r}
+nrow(vehicles[vehicles$body_type == "light van" & (vehicles$make == "Mazda" | vehicles$make == "Mitsubishi"),])
+```
+Dplyr:
+```{r}
+count(filter(vehicles, body_type == "light van" & (make == "Mazda" | make == "Mitsubishi")))
+```
+b.
+
+Base R:
+```{r}
+nrow(vehicles[vehicles$TLA == "Wellington City" & vehicles$vehicle_usage == "private passenger",])
+```
+Dplyr:
+```{r}
+count(filter(vehicles, TLA == "Wellington City" & vehicle_usage == "private passenger"))
+```
+
+c.
+
+Base R:
+```{r}
+new_r_set <- subset(vehicles, select = -c(vehicle_usage, vehicle_type))
+colnames(new_r_set)
+```
+Dplyr:
+```{r}
+new_dplyr_set <- select(vehicles, !c(vehicle_usage, vehicle_type))
+colnames(new_dplyr_set)
+```
+
+d.
+
+Base R:
+```{r}
+r_vehicles_country_status <- aggregate(vehicles,
+            list(vehicles$original_country, vehicles$import_status), FUN=length)
+
+r_vehicles_country_status <- subset(r_vehicles_country_status, select=c("Group.1", "Group.2","objectid"))
+names(r_vehicles_country_status) <- c("original_country", "import_status", "count")
+```
+
+Dplyr:
+```{r}
+d_vehicles_country_status <- vehicles %>% 
+  group_by(original_country, import_status) %>% 
+  summarise(count=n())
+```
+
+e.
+
+Base R:
+```{r}
+# I attempted this question but I could not figure out how to sort it by countries as ordered in r_top_used_car_origins
+
+# I can't use [order(..)] because that gives the ordering in r_top_used_car_origins, which has a different length to r_vehicles_country_status so the ordering comes out garbage
+
+# So I'm not sure how to achieve this without using dplyr arrange
+r_top_used_car_origins <- r_vehicles_country_status[r_vehicles_country_status$import_status == "used",]
+
+r_top_used_car_origins <- head(r_top_used_car_origins[order(r_top_used_car_origins$count, decreasing=TRUE),],5)
+
+r_vehicles_country_status <- r_vehicles_country_status[r_vehicles_country_status$original_country %in% r_top_used_car_origins$original_country,]
+
+r_vehicles_country_status
+```
+
+Dplyr:
+```{r}
+top_used_car_origins <- data.frame(d_vehicles_country_status %>% filter(import_status == "used") %>% arrange(desc(count)) %>% select(original_country)) %>% slice(1:5)
+
+d_vehicles_country_status %>% filter(original_country %in% top_used_car_origins$original_country) %>% arrange(match(original_country, top_used_car_origins$original_country))
+```
+## Q3
+```{r, message=FALSE}
+library(ggplot2)
+library(zoo)
+earnings_wide <- read.csv("average_weekly_earnings.csv", stringsAsFactors = FALSE)
+earnings_wide$Date <- as.Date(as.yearqtr(earnings_wide$Date, format="%YQ%q"))
+```
+
+a.
+```{r}
+earnings_long <- pivot_longer(earnings_wide, !Date, values_to="Average.Weekly.Earnings")
+earnings_long
+```
+
+b.
+```{r}
+ggplot(earnings_long, 
+       aes(x=Date, y=Average.Weekly.Earnings, group=name)
+) + geom_line(aes(colour = name)) + labs(
+  title="Industry weekly earnings over time",
+  x="Date",
+  y="Average weekly earnings (dollars)"
+)
+```
+
+c.
+```{r}
+earnings_long_to2005 <- filter(earnings_long, Date < '2006-01-01')
+earnings_long_to2020 <- filter(earnings_long, Date >= '2006-01-01')
+
+find_maximum_earnings_by_industry <- function (data) {
+  return(data %>% 
+    group_by(name) %>% 
+    summarise(max = max(Average.Weekly.Earnings)))
+}
+
+summary_2005 <- find_maximum_earnings_by_industry(earnings_long_to2005)
+summary_2020 <- find_maximum_earnings_by_industry(earnings_long_to2020)
+
+summary_2005
+summary_2020
+```
+
+d.
+```{r}
+to2005 <- summary_2005 %>% mutate(Years=c("1989-2005"))
+to2020 <- summary_2020 %>% mutate(Years=c("2006-2020"))
+
+
+combined_earnings_summary <- rbind(to2005, to2020)
+combined_earnings_summary
+```
+
+e.
+```{r}
+ggplot(data=combined_earnings_summary, aes(x=Years, y=max, fill=name)) + geom_bar(stat="identity", position=position_dodge()) + labs(
+  title="Maximum weekly earnings in distinct periods, by industry",
+  x="Time period",
+  y="Maximum avg weekly earnings observed"
+)
+```

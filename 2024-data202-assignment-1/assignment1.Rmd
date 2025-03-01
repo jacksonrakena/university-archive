@@ -1,0 +1,180 @@
+---
+title: "DATA202/472 - 2024 - Assignment 1"
+author: "Jackson Rakena"
+date: "2024-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(error=TRUE)
+```
+
+
+## Q1
+a. Numerical continuous, class `numeric`, type `double`
+b. Categorical logical, class `logical`, type `logical`
+c. Numerical integer, class `numeric`, type `integer`
+d. Categorical nominal, class `character`, type `character`
+e. Categorical ordinal, class `ordered factor`, type `integer`
+
+
+## Q2
+```{r}
+y <- c("Earth"=0, "Water"=-3, "Fire"=2)
+```
+a.
+```{r}
+y[y==2]
+```
+b.
+```{r}
+names(y[y==2])
+```
+c.
+```{r}
+a <- c(3, 4, 1)
+z <- array(c(0,3,0,9,2,1), dim=c(2,3))
+print(a)
+print(z)
+```
+d.
+```{r}
+max(a)
+```
+
+
+## Q3
+a.
+```{r}
+standardize_column <- function(mat, col) {
+  mean <- mean(mat[, col], na.rm=TRUE)
+  sd <- sd(mat[, col], na.rm=TRUE)
+  
+  return((mat[, col] - mean) / sd)
+}
+```
+b.
+```{r}
+mat <- matrix(c(12,1,4,3,NA,9,NA,5,5), nrow=3)
+print(standardize_column(mat, 2))
+```
+c.
+```{r}
+standardize_column <- function(mat, col) {
+  if (col > ncol(mat) || !is.vector(mat[,col])) {
+    stop("col must be a valid index of mat")
+  }
+  mean <- mean(mat[, col], na.rm=TRUE)
+  sd <- sd(mat[, col], na.rm=TRUE)
+  
+  return((mat[, col] - mean) / sd)
+}
+```
+d.
+```{r, error=TRUE}
+print(standardize_column(mat, 0.3))
+print(standardize_column(mat, -1))
+print(standardize_column(mat, 1))
+print(standardize_column(mat, 4))
+```
+
+## Q4
+a.
+```{r}
+stars <- read.csv("star_dataset_deepu_kaggle.csv", header=TRUE)
+```
+b.
+```{r}
+stars[1:2,]
+```
+c.
+```{r}
+nrow(stars)
+ncol(stars)
+```
+d.
+```{r}
+subset_stars <- stars[stars$Star.color %in% c("Orange","White","Blue"),]
+head(subset_stars)
+```
+e.
+```{r}
+is.factor(subset_stars$Star.color)
+```
+f.
+```{r}
+subset_stars$star_colours <- factor(subset_stars$Star.color, levels = c("Blue", "White", "Orange"))
+```
+g.
+```{r}
+barplot(table(subset_stars$star_colours), main = "Counts of star colours", xlab = "Star Color", ylab = "Frequency", col = c("blue", "white", "orange"))
+```
+
+
+## Q5
+a. This statement sets the value of `x` to `y`.
+b. This statement checks the equality of `x` and `y`, i.e. that all elements of `x` are identical to `y`.
+c. This statement also sets the value of `x` to `y`.
+d. This checks that `x` is less than the inverse of `y`.
+e. This takes each element of `x` and puts it the power of the the negative value of the element of `y` in the same position.
+
+
+## Q6
+```{r}
+library(palmerpenguins)
+```
+a.
+```{r}
+hist(penguins$body_mass_g, main="Distribution of body masses",
+     xlab="Body mass (g)", col="lightblue")
+```
+
+b.
+```{r}
+plot(penguins$flipper_length_mm, penguins$bill_length_mm,
+     xlab="Flipper length (mm)", ylab="Bill length (mm)",
+     main="Flipper lengths by bill lengths")
+```
+
+c.
+```{r}
+barplot(table(penguins$species, penguins$island),
+        main = "Counts of Penguins by Species and Island",
+        xlab = "Species",
+        ylab = "Count",
+        legend.text = TRUE,
+        col = c("lightblue", "lightgreen", "lightpink"),
+        beside = TRUE)
+```
+
+d.
+```{r}
+boxplot(penguins$body_mass_g ~ penguins$sex,
+        main = "Boxplot of Body Mass by Sex",
+        xlab = "Sex",
+        ylab = "Body Mass (g)",
+        col = c("lightblue", "lightblue"),
+        border = "black",
+        notch = TRUE)
+```
+
+
+## Q7
+Fixed version:
+```{r}
+# Define x
+x <- c(3,0,5,6,NA,3,1) 
+# Store the first five entries of x as a new object called y
+y <- x[1:5]
+# Calculate the maximum value of y after excluding NA entries
+max_y <- max(y, na.rm=TRUE)
+# Fetch the entries of y that are bigger than 2
+y[y > 2]
+```
+
+Fixes:
+
+1. Line 2: To define a variable we need to use `<-` instead of `<=`
+2. Line 4: We need to use `1:5` to select the first five elements
+3. Line 6: We need to use `na.rm` instead of `na.remove` to remove NA elements
+4. Line 8: We need to use `>` (bigger than) instead of `>=` (bigger than or equal to) to get elements bigger than 2
