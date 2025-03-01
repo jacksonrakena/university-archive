@@ -1,0 +1,5 @@
+video_proc.dSYM/
+cmake-build-debug/
+build/
+.DS_Store
+*.out
