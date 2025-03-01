@@ -1,0 +1,14 @@
+COMP 261 Assignment 1 Report
+Jackson Rakena (300609159) - Trimester 1, 2023
+
+All parts attempted. I have not found any errors.
+Stage 0-3 are in Parsing.java, Stage 4 is in ParsingChallenge.java
+
+To run stages 0-3, please run ParserTester#main.
+To run RoboGame with stages 0-3, please run RoboGame#main.
+
+To run Stage 4, please run ParserTesterChallenge#main.
+
+s1_bad2 and s1_bad3 - what is wrong with them?
+Additional programs:
+- programs/s4_full_infix.prog tests infix operators (Stage 4), scoped variables (and shadowing), and required declarations

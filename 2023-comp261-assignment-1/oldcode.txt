@@ -1,0 +1,112 @@
+
+    /**
+     * Parses a boolean expression as a resolvable Boolean.
+     * This could be a boolean logic operation (and/or/not),
+     * a boolean literal (true/false), or a relational operator
+     * (gt, lt, eq).
+     *
+     * Will fail if no input is ready, none of the above can be matched,
+     * or a boolean logic operation has the incorrect number of operands
+     * (i.e. two for NOT, or one for AND/OR)
+     */
+//    ExpressionNode<Boolean> parseBooleanExpression(BlockNode parent, Scanner s) {
+//        // AND | OR | NOT
+//        if (s.hasNext("and") || s.hasNext("or") || s.hasNext("not")) {
+//            // Resolving LogicExpressionNode (ValueNode<Boolean>)
+//            String logicalOperand = s.next();
+//            BooleanOperator operand;
+//            switch (logicalOperand) {
+//                case "and":
+//                    operand = BooleanOperator.And;
+//                    break;
+//                case "or":
+//                    operand = BooleanOperator.Or;
+//                    break;
+//                case "not":
+//                    operand = BooleanOperator.Not;
+//                    break;
+//                default:
+//                    fail("Unknown boolean operator '"+logicalOperand+"'", s);
+//                    return null;
+//            }
+//            requireOpenParen(logicalOperand, s);
+//            var lhs = parseBooleanExpression(parent, s);
+//            ExpressionNode<Boolean> rhs = null;
+//            if (s.hasNext(",")) {
+//                s.next();
+//                rhs = parseBooleanExpression(parent, s);
+//            }
+//
+//            if (operand != BooleanOperator.Not && rhs == null) {
+//                fail("Need a right-hand side expression to use operand '"+logicalOperand+"'",s);
+//                return null;
+//            }
+//            if (operand == BooleanOperator.Not && rhs != null) {
+//                fail("Illegal right-hand side expression for operand '"+logicalOperand+"'",s );
+//            }
+//
+//            requireClosedParen(logicalOperand, s);
+//            return new LogicExpressionNode(operand, lhs, rhs);
+//        }
+//
+//        // RELOP
+//
+//        var relop = parseRelationalOperator(s);
+//        requireOpenParen(relop.toString(), s);
+//        // parse lhs
+//        var lhs = parseNumberExpression(parent, s);
+//        require(",", "Expected a right-hand side in a relational operator expression", s);
+//        var rhs = parseNumberExpression(parent, s);
+//        requireClosedParen(relop.toString(), s);
+//        return new ComparativeExpressionNode(relop, lhs, rhs);
+//    }
+//
+//    /**
+//     * Parses a number expression as a resolvable Integer.
+//     * This could be a number literal, a sensor reference,
+//     * a variable,
+//     * or an arithmetic expression (add, mul, ...etc)
+//     * Will fail if no input is ready,
+//     * or if none of the above were matched.
+//     */
+//    ExpressionNode<Integer> parseNumberExpression(BlockNode parent, Scanner s) {
+//        // Check for an integer literal
+//        if (s.hasNextInt()) {
+//            return new ConstantIntegerNode(s.nextInt());
+//        }
+//        String next = s.next();
+//
+//        // Check for a sensor literal
+//        Sensor sensor = EnumUtilities.parseSensorNameOrNull(next);
+//        if (sensor != null) {
+//            // Sensor literal
+//
+//            // Check if they're providing an argument
+//            if (checkFor(OPENPAREN, s)) {
+//                var integerExpression = parseNumberExpression(parent, s);
+//                requireClosedParen(sensor.name(), s);
+//                return new SensorValueNode(sensor, integerExpression);
+//            }
+//            return new SensorValueNode(sensor, null);
+//        }
+//
+//        // Check for a variable reference
+//        if (VARIABLE_NAME.matcher(next).matches()) {
+//            // Variable literal
+//            return new VariableLiteralNode(parent, next);
+//        }
+//
+//        // Arithmetic operation
+//        var operator = EnumUtilities.parseArithmeticOperatorOrNull(next);
+//        if (operator != null) {
+//            requireOpenParen(operator.toString(), s);
+//            var lhs = parseNumberExpression(parent, s);
+//            require(",", "Expected a right-hand side in an arithmetic operation", s);
+//            var rhs = parseNumberExpression(parent, s);
+//            requireClosedParen(operator.toString(), s);
+//            return new ArithmeticExpressionNode(operator, lhs, rhs);
+//        }
+//        fail("Expected a number literal, sensor literal, or arithmetic operation.",s);
+//        return null;
+//    }
+//
